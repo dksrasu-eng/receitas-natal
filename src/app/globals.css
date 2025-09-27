@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6 {
     --secondary-foreground: 340 52% 48%;
     --muted: 18 59% 90%;
     --muted-foreground: 340 10% 40%;
-    --accent: 18 59% 64%; /* #D98E6E */
+    --accent: 121 39% 49%; /* #55A655 */
     --accent-foreground: 0 0% 100%;
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 98%;
@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
     --secondary-foreground: 0 0% 98%;
     --muted: 18 50% 20%;
     --muted-foreground: 0 0% 63.9%;
-    --accent: 18 59% 64%;
+    --accent: 121 39% 49%;
     --accent-foreground: 0 0% 100%;
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 0 0% 98%;
