@@ -1,6 +1,5 @@
 import { getRecipeBySlug, getAllRecipes } from '@/lib/recipes';
 import { notFound } from 'next/navigation';
-import Image from 'next/image';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
@@ -114,26 +113,9 @@ export default function RecipePage({ params }: RecipePageProps) {
             </div>
           </div>
           
-          <div className="mb-6">
-            <Card>
-              <CardContent className="p-0">
-                {image && (
-                  <Image
-                    src={image.imageUrl}
-                    alt={image.description}
-                    data-ai-hint={image.imageHint}
-                    width={800}
-                    height={500}
-                    className="w-full h-auto object-cover rounded-t-lg"
-                    priority
-                  />
-                )}
-                <div className="p-4 flex flex-wrap gap-2">
-                  <Badge variant="secondary">{recipe.categoria}</Badge>
-                  <Badge variant="outline">{recipe.subcategoria}</Badge>
-                </div>
-              </CardContent>
-            </Card>
+          <div className="mb-6 flex flex-wrap gap-2">
+            <Badge variant="secondary">{recipe.categoria}</Badge>
+            <Badge variant="outline">{recipe.subcategoria}</Badge>
           </div>
 
           <div className="grid md:grid-cols-3 gap-8">
