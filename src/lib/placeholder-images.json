@@ -1,94 +1,604 @@
 {
   "placeholderImages": [
     {
-      "id": "recipe1",
-      "description": "Um peru de natal dourado e suculento, decorado com ervas.",
-      "imageUrl": "https://images.unsplash.com/photo-1606728035253-49e8a23146de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyb2FzdCUyMHR1cmtleXxlbnwwfHx8fDE3NTkwMDc1NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "id": "peru-de-natal-classico",
+      "description": "Um peru de natal dourado e suculento, decorado com ervas e laranjas.",
+      "imageUrl": "https://images.unsplash.com/photo-1574672282223-f16dcd423f85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyb2FzdCUyMHR1cmtleXxlbnwwfHx8fDE3NTkwMDc1NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "roast turkey"
     },
     {
-      "id": "recipe2",
+      "id": "bacalhau-a-gomes-de-sa-festivo",
       "description": "Uma travessa de bacalhau à Gomes de Sá com batatas, ovos e azeitonas.",
       "imageUrl": "https://images.unsplash.com/photo-1579523609295-1ef35e6bd1c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb2RmaXNoJTIwZGlzaHxlbnwwfHx8fDE3NTg5MzI1Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "codfish dish"
     },
     {
-      "id": "recipe3",
-      "description": "Um tender bolinha glaceado com molho de laranja.",
+      "id": "tender-bolinha-com-molho-de-laranja",
+      "description": "Um tender bolinha glaceado com molho de laranja e cravos espetados.",
       "imageUrl": "https://images.unsplash.com/photo-1607556671970-488bec51557a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxnbGF6ZWQlMjBoYW18ZW58MHx8fHwxNzU5MDA4MzYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "glazed ham"
     },
     {
-      "id": "recipe4",
-      "description": "Arroz de natal decorado com amêndoas e passas.",
-      "imageUrl": "https://images.unsplash.com/photo-1648788767168-aa2df5105037?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaHJpc3RtYXMlMjByaWNlfGVufDB8fHx8MTc1OTAwODM2MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "christmas rice"
+      "id": "arroz-com-amendoas-e-champanhe",
+      "description": "Arroz de natal decorado com amêndoas laminadas e salsinha.",
+      "imageUrl": "https://images.unsplash.com/photo-1542637253-35a74c4493a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxyaWNlJTIwd2l0aCUyMGFsbW9uZHN8ZW58MHx8fHwxNzYwNDcwMDM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rice almonds"
     },
     {
-      "id": "recipe5",
-      "description": "Farofa rica com bacon, linguiça e frutas secas.",
+      "id": "farofa-rica-de-natal",
+      "description": "Uma tigela de farofa rica com bacon, linguiça e pedaços de ovo.",
       "imageUrl": "https://images.unsplash.com/photo-1662692761875-06ac14f8d527?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxicmF6aWxpYW4lMjBmYXJvZmF8ZW58MHx8fHwxNzU5MDA4MzYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "brazilian farofa"
     },
     {
-      "id": "recipe6",
-      "description": "Fatias douradas de rabanada polvilhadas com açúcar e canela.",
-      "imageUrl": "https://images.unsplash.com/photo-1631707928780-153b053e09aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmcmVuY2glMjB0b2FzdHxlbnwwfHx8fDE3NTkwMDc1NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "id": "rabanada-tradicional",
+      "description": "Fatias douradas de rabanada empilhadas e polvilhadas com açúcar e canela.",
+      "imageUrl": "https://images.unsplash.com/photo-1640788997525-4c07254558dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmcmVuY2glMjB0b2FzdHxlbnwwfHx8fDE3NTkwMDc1NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "french toast"
     },
     {
-      "id": "recipe7",
-      "description": "Um panetone caseiro com frutas cristalizadas e crosta dourada.",
-      "imageUrl": "https://images.unsplash.com/photo-1737065175923-7b05466a2c1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwYW5ldHRvbmUlMjBicmVhZHxlbnwwfHx8fDE3NTkwMDc1NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "panettone bread"
+      "id": "panetone-caseiro",
+      "description": "Um panetone caseiro com frutas cristalizadas e uma crosta dourada.",
+      "imageUrl": "https://images.unsplash.com/photo-1640192002341-c674981d3e85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwYW5ldHRvbmV8ZW58MHx8fHwxNzYwNDcwMTUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "panettone"
     },
     {
-      "id": "recipe8",
-      "description": "Uma torta holandesa com cobertura de chocolate e biscoitos na lateral.",
-      "imageUrl": "https://images.unsplash.com/photo-1662844907162-f146836d6bd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2hvY29sYXRlJTIwcGllfGVufDB8fHx8MTc1OTAwODM2MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "chocolate pie"
+      "id": "torta-holandesa-de-natal",
+      "description": "Uma torta holandesa com cobertura de ganache de chocolate e biscoitos Calipso na lateral.",
+      "imageUrl": "https://images.unsplash.com/photo-1604075374961-06134a3d3a0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkdXRjaCUyMHBpZXxlbnwwfHx8fDE3NTkwMDk4ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dutch pie"
     },
     {
-      "id": "recipe9",
-      "description": "Um manjar branco com calda de ameixa.",
+      "id": "manjar-de-coco-com-ameixa",
+      "description": "Um manjar de coco branco e brilhante com calda escura de ameixa por cima.",
       "imageUrl": "https://images.unsplash.com/photo-1671523557643-b80db31443d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29jb251dCUyMHB1ZGRpbmd8ZW58MHx8fHwxNzU4OTQxMjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "coconut pudding"
     },
     {
-      "id": "recipe10",
-      "description": "Um bolo de nozes fofinho com recheio de baba de moça.",
-      "imageUrl": "https://images.unsplash.com/photo-1749937457328-fc8abe27dd50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3YWxudXQlMjBjYWtlfGVufDB8fHx8MTc1OTAwODM2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "id": "bolo-de-nozes-com-baba-de-moca",
+      "description": "Um bolo de nozes fofinho com recheio cremoso de baba de moça.",
+      "imageUrl": "https://images.unsplash.com/photo-1642058324483-45c1aeea8e06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3YWxudXQlMjBjYWtlfGVufDB8fHx8MTc2MDQ3MDI3OHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "walnut cake"
     },
     {
-      "id": "recipe11",
-      "description": "Uma caneca fumegante de quentão de vinho branco com especiarias.",
-      "imageUrl": "https://images.unsplash.com/photo-1602249367848-8468f3979e63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtdWxsZWQlMjB3aW5lfGVufDB8fHx8MTc1OTAwODM2MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "mulled wine"
+      "id": "quentao-de-vinho-branco",
+      "description": "Uma caneca de quentão de vinho branco fumegante com maçã e canela.",
+      "imageUrl": "https://images.unsplash.com/photo-1634888326269-a3abe6037803?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3aGl0ZSUyMG11bGxlZCUyMHdpbmV8ZW58MHx8fHwxNzYwNDcwMzUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "white mulled-wine"
     },
     {
-      "id": "recipe12",
-      "description": "Uma jarra de sangria com frutas vermelhas e rodelas de laranja.",
-      "imageUrl": "https://images.unsplash.com/photo-1582010563675-58cb3e182d26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzYW5ncmlhJTIwcHVuY2h8ZW58MHx8fHwxNzU5MDA4MzYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "sangria punch"
+      "id": "sangria-natalina",
+      "description": "Uma jarra de sangria de vinho tinto com muitas frutas como laranja e maçã.",
+      "imageUrl": "https://images.unsplash.com/photo-1623303353428-2e3458652395?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzYW5ncmlhfGVufDB8fHx8MTc2MDQ3MDM5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sangria"
     },
     {
-      "id": "recipe13",
-      "description": "Um copo de coquetel rosa sem álcool, decorado com hortelã.",
-      "imageUrl": "https://images.unsplash.com/photo-1612344025746-8f86cac0be8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwaW5rJTIwbW9ja3RhaWx8ZW58MHx8fHwxNzU5MDA4MzYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "pink mocktail"
+      "id": "coquetel-de-frutas-vermelhas-sem-alcool",
+      "description": "Um copo de coquetel vermelho brilhante, sem álcool, decorado com frutas vermelhas e hortelã.",
+      "imageUrl": "https://images.unsplash.com/photo-1579887829424-d919a0815486?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxiZXJyeSUyMG1vY2t0YWlsfGVufDB8fHx8MTc2MDQ3MDQyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "berry mocktail"
     },
     {
-      "id": "recipe14",
-      "description": "Uma caneca de chocolate quente cremoso com marshmallows.",
-      "imageUrl": "https://images.unsplash.com/photo-1707219811253-b4197a022ffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxob3QlMjBjaG9jb2xhdGV8ZW58MHx8fHwxNzU5MDA3NTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "id": "chocolate-quente-cremoso-especial",
+      "description": "Uma caneca de chocolate quente bem cremoso com chantilly por cima.",
+      "imageUrl": "https://images.unsplash.com/photo-1606791253372-243b343c9883?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxob3QlMjBjaG9jb2xhdGV8ZW58MHx8fHwxNzU5MDA3NTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "hot chocolate"
     },
     {
-      "id": "recipe15",
-      "description": "Um copo de eggnog cremoso polvilhado com noz-moscada.",
-      "imageUrl": "https://images.unsplash.com/photo-1587004956875-c61776f95b10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZWdnbm9nJTIwZHJpbmt8ZW58MHx8fHwxNzU5MDA4MzYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "eggnog drink"
+      "id": "eggnog-classico",
+      "description": "Um copo de eggnog cremoso polvilhado com noz-moscada e um pau de canela.",
+      "imageUrl": "https://images.unsplash.com/photo-1608291245381-36f8f643440e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlZ2dub2d8ZW58MHx8fHwxNzYwNDcwNDk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "eggnog"
+    },
+    {
+      "id": "pernil-assado-com-ervas",
+      "description": "Um grande pernil de porco assado com pele crocante, decorado com ervas.",
+      "imageUrl": "https://images.unsplash.com/photo-1600508774634-0d86b0959ba4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyb2FzdCUyMHBvcmt8ZW58MHx8fHwxNzYwNDcwNTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "roast pork"
+    },
+    {
+      "id": "chester-desossado-e-recheado",
+      "description": "Um frango assado inteiro e recheado, com a pele dourada.",
+      "imageUrl": "https://images.unsplash.com/photo-1594950669273-7053a6e06183?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHVmZmVkJTIwY2hpY2tlbnxlbnwwfHx8fDE3NjA0NzA1NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stuffed chicken"
+    },
+    {
+      "id": "lombo-recheado-com-damasco",
+      "description": "Lombo de porco fatiado mostrando o recheio de damascos.",
+      "imageUrl": "https://images.unsplash.com/photo-1712189726339-a304fd330cc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwb3JrJTIwbG9pbnxlbnwwfHx8fDE3NTkwMDc1NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pork loin"
+    },
+    {
+      "id": "salpicao-de-frango-defumado",
+      "description": "Uma tigela de salpicão cremoso coberto com batata palha crocante.",
+      "imageUrl": "https://images.unsplash.com/photo-1707339088654-117df66bd55c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxicmF6aWxpYW4lMjBjaGlja2VuLXNhbGFkfGVufDB8fHx8MTc1OTAwOTg4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "brazilian chicken-salad"
+    },
+    {
+      "id": "salada-de-lentilha-com-roma",
+      "description": "Salada colorida com lentilhas, sementes de romã e nozes.",
+      "imageUrl": "https://images.unsplash.com/photo-1565593394021-d53383569509?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsZW50aWwlMjBwb21lZ3JhbmF0ZSUyMHNhbGFkfGVufDB8fHx8MTc2MDQ3MDY5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lentil pomegranate-salad"
+    },
+    {
+      "id": "cuscuz-marroquino-com-frutas-secas",
+      "description": "Cuscuz marroquino fofinho misturado com damascos, tâmaras e amêndoas.",
+      "imageUrl": "https://images.unsplash.com/photo-1555543118-0238495aa333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb3VzY291cyUyMHdpdGglMjBkcmllZCUyMGZydWl0c3xlbnwwfHx8fDE3NjA0NzA3Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couscous dried-fruits"
+    },
+    {
+      "id": "batatas-gratinadas-com-queijo",
+      "description": "Uma travessa de batatas fatiadas gratinadas com queijo dourado por cima.",
+      "imageUrl": "https://images.unsplash.com/photo-1616831109439-3a3559383637?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxncmF0aW4lMjBwb3RhdG9lc3xlbnwwfHx8fDE3NjA0NzA3NTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gratin potatoes"
+    },
+    {
+      "id": "arroz-a-grega-natalino",
+      "description": "Arroz à grega colorido com pimentão, ervilhas e uvas passas.",
+      "imageUrl": "https://images.unsplash.com/photo-1649777476920-0eef34169cdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxncmVlayUyMHJpY2V8ZW58MHx8fHwxNzU5MDA5ODg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "greek rice"
+    },
+    {
+      "id": "salmao-ao-molho-de-maracuja",
+      "description": "Posta de salmão grelhado com um molho amarelo vibrante de maracujá.",
+      "imageUrl": "https://images.unsplash.com/photo-1519623899233-3b6d4b65646b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzYWxtb24lMjBwYXNzaW9uJTIwZnJ1aXR8ZW58MHx8fHwxNzYwNDcwODUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "salmon passion-fruit"
+    },
+    {
+      "id": "cebola-caramelizada-para-acompanhamento",
+      "description": "Cebolas douradas e caramelizadas em uma frigideira.",
+      "imageUrl": "https://images.unsplash.com/photo-1628863198876-091410f44535?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYXJhbWVsaXplZCUyMG9uaW9uc3xlbnwwfHx8fDE3NjA0NzA4ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "caramelized onions"
+    },
+    {
+      "id": "salada-waldorf-natalina",
+      "description": "Salada Waldorf com maçã, aipo, nozes e uvas em um molho cremoso.",
+      "imageUrl": "https://images.unsplash.com/photo-1623155104769-7c9523201445?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3YWxkb3JmJTIwc2FsYWR8ZW58MHx8fHwxNzYwNDcwOTEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "waldorf salad"
+    },
+    {
+      "id": "mousse-de-chocolate-com-laranja",
+      "description": "Mousse de chocolate aerada em uma taça, decorada com uma fatia de laranja.",
+      "imageUrl": "https://images.unsplash.com/photo-1571115177427-835ema150f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaG9jb2xhdGUlMjBvcmFuZ2UlMjBtb3Vzc2V8ZW58MHx8fHwxNzYwNDcwOTUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate orange-mousse"
+    },
+    {
+      "id": "pave-de-pessego-com-biscoito-champanhe",
+      "description": "Pavê de pêssego em camadas com biscoitos e creme, em uma travessa de vidro.",
+      "imageUrl": "https://images.unsplash.com/photo-1709880194932-8f33d90bdae8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZWFjaCUyMHRyaWZsZXxlbnwwfHx8fDE3NTkwMDk4ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "peach trifle"
+    },
+    {
+      "id": "biscoitos-de-gengibre-decorados",
+      "description": "Biscoitos de gengibre em formato de bonecos, decorados com glacê branco.",
+      "imageUrl": "https://images.unsplash.com/photo-1576781439963-955431de3873?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnaW5nZXJicmVhZCUyMG1lbnxlbnwwfHx8fDE3NjA0NzEwMTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gingerbread men"
+    },
+    {
+      "id": "cheesecake-de-frutas-vermelhas",
+      "description": "Cheesecake cremoso com uma cobertura brilhante de calda de frutas vermelhas.",
+      "imageUrl": "https://images.unsplash.com/photo-1565011492388-9ab6551a1538?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiZXJyeSUyMGNoZWVzZWNha2V8ZW58MHx8fHwxNzYwNDcxMDQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "berry cheesecake"
+    },
+    {
+      "id": "gemada-cremosa-sem-alcool",
+      "description": "Caneca de gemada cremosa e fumegante, polvilhada com noz-moscada.",
+      "imageUrl": "https://images.unsplash.com/photo-1640546748239-16a7d554e216?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlZ2clMjBmbGlwfGVufDB8fHx8MTc2MDQ3MTA5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "egg flip"
+    },
+    {
+      "id": "ponche-de-frutas-natalino",
+      "description": "Uma grande poncheira de vidro cheia de ponche com pedaços de frutas flutuando.",
+      "imageUrl": "https://images.unsplash.com/photo-1549822605-4424e6cabea1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmcnVpdCUyMHB1bmNofGVufDB8fHx8MTc2MDQ3MTEzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fruit punch"
+    },
+    {
+      "id": "suco-detox-festivo-verde",
+      "description": "Um copo de suco verde detox com maçã, couve e gengibre.",
+      "imageUrl": "https://images.unsplash.com/photo-1545350329-3a4304?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxncmVlbiUyMGp1aWNlfGVufDB8fHx8MTc2MDQ3MTE1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "green juice"
+    },
+    {
+      "id": "clericot-de-vinho-rose",
+      "description": "Uma jarra de clericot com vinho rosé e frutas frescas como pêssego e morango.",
+      "imageUrl": "https://images.unsplash.com/photo-1626201627553-9a3a78964726?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyb3NlJTIwd2luZSUyMGZydWl0fGVufDB8fHx8MTc2MDQ3MTE5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rose wine-fruit"
+    },
+    {
+      "id": "cha-gelado-de-hibisco-com-canela",
+      "description": "Um copo de chá gelado de hibisco de cor vermelha profunda com um pau de canela.",
+      "imageUrl": "https://images.unsplash.com/photo-1594433533478-75c1033b8535?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpY2VkJTIwaGliaXNjdXMlMjB0ZWF8ZW58MHx8fHwxNzYwNDcxMjE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "iced hibiscus-tea"
+    },
+    {
+      "id": "arroz-com-lentilha-e-cebola-frita",
+      "description": "Prato de arroz com lentilhas (mujaddara) coberto com cebolas fritas crocantes.",
+      "imageUrl": "https://images.unsplash.com/photo-1629524314138-84de04b500ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtdWphZGRhcmF8ZW58MHx8fHwxNzYwNDcxMjQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mujadara"
+    },
+    {
+      "id": "brandade-de-bacalhau",
+      "description": "Brandade de bacalhau cremosa em uma travessa, gratinada e dourada.",
+      "imageUrl": "https://images.unsplash.com/photo-1543541996-04edbff18d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb2QlMjBicmFuZGFkZXxlbnwwfHx8fDE3NTkwMDk4ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cod brandade"
+    },
+    {
+      "id": "file-mignon-ao-molho-madeira",
+      "description": "Fatias suculentas de filé mignon cobertas com molho madeira e champignons.",
+      "imageUrl": "https://images.unsplash.com/photo-1750116314811-e6e873a328a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmaWxldCUyMG1pZ25vbnxlbnwwfHx8fDE3NTg5NTA3MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "filet mignon"
+    },
+    {
+      "id": "vol-au-vent-de-camarao",
+      "description": "Vol-au-vents de massa folhada recheados com um creme de camarão.",
+      "imageUrl": "https://images.unsplash.com/photo-1631112933715-3df0e3558641?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzaHJpbXAlMjB2b2wlMjBhdSUyMHZlbnR8ZW58MHx8fHwxNzYwNDcxMzQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "shrimp vol-au-vent"
+    },
+    {
+      "id": "quiche-lorraine-festiva",
+      "description": "Uma quiche lorraine dourada com recheio de bacon e queijo.",
+      "imageUrl": "https://images.unsplash.com/photo-1563227812-4545233 backpacking?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxxdWljaGUlMjBsb3JyYWluZXxlbnwwfHx8fDE3NjA0NzEzNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "quiche lorraine"
+    },
+    {
+      "id": "arvore-de-natal-de-pao-de-queijo",
+      "description": "Pães de queijo pequenos montados em formato de árvore de Natal.",
+      "imageUrl": "https://images.unsplash.com/photo-1714658367743-87400a376b1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjaGVlc2UlMjBicmVhZC10cmVlfGVufDB8fHx8MTc1OTAwOTg4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cheese bread-tree"
+    },
+    {
+      "id": "canapes-de-pepino-com-pasta-de-ricota",
+      "description": "Canapés frescos feitos com rodelas de pepino e pasta de ricota com hortelã.",
+      "imageUrl": "https://images.unsplash.com/photo-1558501114-35205634563b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjdWN1bWJlciUyMGNhbmFwZXN8ZW58MHx8fHwxNzYwNDcxNDU3fDA&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "cucumber canapes"
+    },
+    {
+      "id": "terrine-de-gorgonzola-com-nozes-e-damasco",
+      "description": "Terrine de queijo com pedaços de nozes e damasco, servida com torradas.",
+      "imageUrl": "https://images.unsplash.com/photo-1632200729570-1043effd1b77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjaGVlc2UlMjB0ZXJyaW5lfGVufDB8fHx8MTc1OTAwOTg4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cheese terrine"
+    },
+    {
+      "id": "camarao-empanado-no-coco",
+      "description": "Camarões crocantes empanados em coco ralado, servidos com molho.",
+      "imageUrl": "https://images.unsplash.com/photo-1625535336803-34503abc3440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb2NvbnV0JTIwc2hyaW1wfGVufDB8fHx8MTc2MDQ3MTUxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coconut shrimp"
+    },
+    {
+      "id": "pure-de-castanhas-portuguesas",
+      "description": "Purê cremoso de castanhas portuguesas em uma tigela.",
+      "imageUrl": "https://images.unsplash.com/photo-1733337336594-61f20d18ac2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjaGVzdG51dCUyMHB1cmVlfGVufDB8fHx8MTc1OTAwOTg4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chestnut puree"
+    },
+    {
+      "id": "legumes-assados-com-alecrim-e-mel",
+      "description": "Legumes coloridos como cenoura e batata doce assados com alecrim.",
+      "imageUrl": "https://images.unsplash.com/photo-1600335895228-356009181146?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyb2FzdGVkJTIwdmVnZXRhYmxlc3xlbnwwfHx8fDE3NjA0NzE1ODd8MA&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "roasted vegetables"
+    },
+    {
+      "id": "cogumelos-recheados-com-ervas-finas",
+      "description": "Cogumelos Portobello recheados com uma mistura de ervas e farinha de rosca, e gratinados.",
+      "imageUrl": "https://images.unsplash.com/photo-1595051390340-d9d9361cab31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHVmZmVkJTIwbXVzaHJvb21zfGVufDB8fHx8MTc2MDQ3MTYxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stuffed mushrooms"
+    },
+    {
+      "id": "torta-fria-de-pao-de-forma",
+      "description": "Torta fria de pão de forma com camadas de recheio e cobertura de purê de batata.",
+      "imageUrl": "https://images.unsplash.com/photo-1602558788071-2a08e8052a87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzYW5kd2ljaCUyMGxvYWZ8ZW58MHx8fHwxNzU4OTM0NjU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sandwich loaf"
+    },
+    {
+      "id": "molho-de-hortela-para-cordeiro",
+      "description": "Molho de hortelã verde e vibrante em uma molheira, ideal para cordeiro.",
+      "imageUrl": "https://images.unsplash.com/photo-1516685018646-549198525c14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaW50JTIwc2F1Y2V8ZW58MHx8fHwxNzYwNDcxNjg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mint sauce"
+    },
+    {
+      "id": "caponata-natalina",
+      "description": "Caponata com berinjela, pimentões e uvas passas em uma tigela.",
+      "imageUrl": "https://images.unsplash.com/photo-1600989223trusted?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYXBvbmF0YXxlbnwwfHx8fDE3NjA0NzE3MTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "caponata"
+    },
+    {
+      "id": "stollen-pao-doce-alemao",
+      "description": "Stollen alemão, um pão doce denso com frutas secas, coberto com açúcar de confeiteiro.",
+      "imageUrl": "https://images.unsplash.com/photo-1640192002341-c674981d3e85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdG9sbGVuJTIwYnJlYWR8ZW58MHx8fHwxNzYwNDcxNzQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stollen bread"
+    },
+    {
+      "id": "pudim-de-leite-condensado-lisinho",
+      "description": "Pudim de leite condensado liso e brilhante com calda de caramelo escorrendo.",
+      "imageUrl": "https://images.unsplash.com/photo-1598214886633-899264c85d7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmbGFufGVufDB8fHx8MTc2MDQ3MTc2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "flan"
+    },
+    {
+      "id": "tronco-de-natal-buche-de-noel",
+      "description": "Bolo em formato de tronco de árvore (Bûche de Noël) coberto com ganache de chocolate.",
+      "imageUrl": "https://images.unsplash.com/photo-1608319914999-7loos95116a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxidWNoZSUyMGRlJTIwbm9lbHxlbnwwfHx8fDE3NjA0NzE3OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yule log"
+    },
+    {
+      "id": "brigadeirao-de-natal",
+      "description": "Um brigadeirão de chocolate cremoso, desenformado e coberto com granulado.",
+      "imageUrl": "https://images.unsplash.com/photo-1671059954529-3c90fb11e19d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaG9jb2xhdGUlMjBmdWRnZS1wdWRkaW5nfGVufDB8fHx8MTc1OTAwOTg4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate fudge-pudding"
+    },
+    {
+      "id": "figos-recheados-com-queijo-de-cabra-e-mel",
+      "description": "Figos frescos cortados e recheados com queijo de cabra, nozes e um fio de mel.",
+      "imageUrl": "https://images.unsplash.com/photo-1567327683435-57933185341a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmaWdzJTIwd2l0aCUyMGdvYXQlMjBjaGVlc2V8ZW58MHx8fHwxNzYwNDcxODY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "figs goat-cheese"
+    },
+    {
+      "id": "camafeu-de-nozes",
+      "description": "Docinhos camafeu de nozes banhados em fondant branco e decorados com meia noz.",
+      "imageUrl": "https://images.unsplash.com/photo-1733337336594-61f20d18ac2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3YWxudXQlMjBjYW1hZmV1fGVufDB8fHx8MTc1OTAwOTg4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "walnut camafeu"
+    },
+    {
+      "id": "panforte-de-siena",
+      "description": "Torta italiana densa e escura (Panforte) com nozes e frutas, coberta com açúcar de confeiteiro.",
+      "imageUrl": "https://images.unsplash.com/photo-1641575823122-388a115b8535?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwYW5mb3J0ZXxlbnwwfHx8fDE3NjA0NzE5Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "panforte"
+    },
+    {
+      "id": "torta-de-limao-merengada",
+      "description": "Torta de limão com uma camada generosa de merengue suíço tostado.",
+      "imageUrl": "https://images.unsplash.com/photo-1582293041079-7814c24a4ba3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsZW1vbiUyMG1lcmluZ3VlJTIwcGllfGVufDB8fHx8MTc2MDQ3MTk1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lemon meringue-pie"
+    },
+    {
+      "id": "bolo-de-reis",
+      "description": "Bolo de Reis em formato de coroa, decorado com frutas cristalizadas coloridas.",
+      "imageUrl": "https://images.unsplash.com/photo-1673005852136-39599553641a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxib2xvJTIwcmVpfGVufDB8fHx8MTc2MDQ3MTk4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "king cake"
+    },
+    {
+      "id": "creme-brulee-de-baunilha",
+      "description": "Crème brûlée com a casquinha de caramelo dourada e crocante sendo quebrada.",
+      "imageUrl": "https://images.unsplash.com/photo-1543588949-514433994191?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjcmVtZSUyMGJydWxlZXxlbnwwfHx8fDE3NjA0NzIwMTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "creme brulee"
+    },
+    {
+      "id": "vinho-quente-com-especiarias",
+      "description": "Caneca de vinho quente (mulled wine) com especiarias e uma rodela de laranja.",
+      "imageUrl": "https://images.unsplash.com/photo-1602249367848-8468f3979e63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtdWxsZWQlMjB3aW5lfGVufDB8fHx8MTc1OTAwODM2MHww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "mulled wine"
+    },
+    {
+      "id": "irish-coffee-natalino",
+      "description": "Irish coffee em uma taça de vidro, com camada de creme no topo e café escuro embaixo.",
+      "imageUrl": "https://images.unsplash.com/photo-1551030173-1a2a4a243542?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpcmlzaCUyMGNvZmZlZXxlbnwwfHx8fDE3NjA0NzIwNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "irish coffee"
+    },
+    {
+      "id": "chocolate-quente-com-pimenta",
+      "description": "Chocolate quente escuro e intenso com um toque de pimenta, em uma caneca.",
+      "imageUrl": "https://images.unsplash.com/photo-1610632380533-315183344654?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzcGljeSUyMGhvdCUyMGNob2NvbGF0ZXxlbnwwfHx8fDE3NjA0NzIxMDZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "spicy hot-chocolate"
+    },
+    {
+      "id": "grogue-de-natal",
+      "description": "Caneca de grogue fumegante com rum, limão e especiarias.",
+      "imageUrl": "https://images.unsplash.com/photo-1549925232-95generation?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyb2clMjBkcmlua3xlbnwwfHx8fDE3NjA0NzIxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "grog drink"
+    },
+    {
+      "id": "cafe-bombom-festivo",
+      "description": "Café bombom em um copo de vidro mostrando as camadas de leite condensado e café.",
+      "imageUrl": "https://images.unsplash.com/photo-1605651213038-f40b8a75a7a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYWZlJTIwYm9tYm9ufGVufDB8fHx8MTc2MDQ3MjE3MHww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "cafe bombon"
+    },
+    {
+      "id": "cidra-de-maca-quente-com-especiarias",
+      "description": "Cidra de maçã quente em uma caneca com canela e anis estrelado.",
+      "imageUrl": "https://images.unsplash.com/photo-1572565623067-5582745a554a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxob3QlMjBhcHBsZSUyMGNpZGVyfGVufDB8fHx8MTc2MDQ3MjE5Nnww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "hot apple-cider"
+    },
+    {
+      "id": "spritz-de-inverno-com-cranberry",
+      "description": "Coquetel spritz avermelhado com cranberry e um ramo de alecrim.",
+      "imageUrl": "https://images.unsplash.com/photo-1605673562444-482ff573d742?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjcmFuYmVycnklMjBzcHJpdHp8ZW58MHx8fHwxNzYwNDcyMjI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cranberry spritz"
+    },
+    {
+      "id": "limonada-suica-com-hortela",
+      "description": "Limonada suíça cremosa e espumante com folhas de hortelã.",
+      "imageUrl": "https://images.unsplash.com/photo-162336472ULD8-e1526de5c1b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzd2lzcyUyMGxlbW9uYWRlfGVufDB8fHx8MTc2MDQ3MjI1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "swiss lemonade"
+    },
+    {
+      "id": "batida-de-coco",
+      "description": "Batida de coco branca e cremosa em um copo, decorada com coco ralado.",
+      "imageUrl": "https://images.unsplash.com/photo-1595991254894-3a335553ee27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb2NvbnV0JTIwY29ja3RhaWx8ZW58MHx8fHwxNzYwNDcyMjg0fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "coconut cocktail"
+    },
+    {
+      "id": "moscow-mule-de-gengibre",
+      "description": "Moscow mule servido na tradicional caneca de cobre com espuma de gengibre e limão.",
+      "imageUrl": "https://images.unsplash.com/photo-1551538855-889818134383?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb3Njb3clMjBtdWxlfGVufDB8fHx8MTc2MDQ3MjMxMnww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "moscow mule"
+    },
+    {
+      "id": "panna-cotta-com-calda-de-damasco",
+      "description": "Panna cotta branca e sedosa com uma calda laranja de damasco por cima.",
+      "imageUrl": "https://images.unsplash.com/photo-1626084399996-a88a87af4809?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwYW5uYSUyMGNvdHRhJTIwYXByaWNvdHxlbnwwfHx8fDE3NjA0NzIzNDB8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "panna cotta"
+    },
+    {
+      "id": "palha-italiana-de-chocotone",
+      "description": "Quadrados de palha italiana de chocolate com pedaços de chocotone visíveis.",
+      "imageUrl": "https://images.unsplash.com/photo-1662230791691-b77f85c5b43a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2hvY29sYXRlJTIwc2FsYW1pfGVufDB8fHx8MTc1OTAwOTg4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate salami"
+    },
+    {
+      "id": "tiramisu-de-natal",
+      "description": "Tiramisù em uma travessa de vidro, com camadas de creme e biscoito, polvilhado com cacau.",
+      "imageUrl": "https://images.unsplash.com/photo-1571877275992-87Trust?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0aXJhbWlzdXxlbnwwfHx8fDE3NjA0NzI0MDV8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "tiramisu"
+    },
+    {
+      "id": "merengue-de-morangos",
+      "description": "Sobremesa de merengue em uma taça com camadas de suspiro, chantilly e morangos frescos.",
+      "imageUrl": "https://images.unsplash.com/photo-1572490122747-97B14BSa55d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlb24lMjBtZXNzfGVufDB8fHx8MTc2MDQ3MjQzNHww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "eton mess"
+    },
+    {
+      "id": "sorvete-caseiro-de-flocos",
+      "description": "Sorvete de creme caseiro com pedacinhos de chocolate (flocos).",
+      "imageUrl": "https://images.unsplash.com/photo-1629814249514-72a953526516?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHJhY2NpYXRlbGxhJTIwaWNlJTIwY3JlYW18ZW58MHx8fHwxNzYwNDcyNDYyfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "stracciatella ice-cream"
+    },
+    {
+      "id": "alfajor-de-doce-de-leite",
+      "description": "Alfajores recheados com doce de leite e banhados em chocolate.",
+      "imageUrl": "https://images.unsplash.com/photo-1626221034G480-1a1a9e7d9b7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbGZham9yZXN8ZW58MHx8fHwxNzYwNDcyNDg5fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "alfajores"
+    },
+    {
+      "id": "pudim-de-pao-natalino",
+      "description": "Pudim de pão dourado com frutas cristalizadas, coberto com calda de caramelo.",
+      "imageUrl": "https://images.unsplash.com/photo-15423125PMS87-5d8d0246a48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYWtlJTIwcHVkemVfbmV3c3xlbnwwfHx8fDE3NjA0NzI1MTd8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "bread pudding"
+    },
+    {
+      "id": "torta-de-macas-com-crumble",
+      "description": "Torta de maçã com uma cobertura crocante de crumble.",
+      "imageUrl": "https://images.unsplash.com/photo-1576618148400-f54bed99fCFd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcHBsZSUyMGNydW1ibGV8ZW58MHx8fHwxNzYwNDcyNTQ1fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "apple crumble"
+    },
+    {
+      "id": "doce-de-abobora-com-coco",
+      "description": "Doce de abóbora cremoso com coco em uma tigela.",
+      "imageUrl": "https://images.unsplash.com/photo-1636935507946-f5fc4dfd0b1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwdW1wa2luJTIwamFtfGVufDB8fHx8MTc1OTAwOTg4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pumpkin jam"
+    },
+    {
+      "id": "cupcakes-red-velvet-com-frosting",
+      "description": "Cupcakes Red Velvet de cor vermelha intensa com frosting branco de cream cheese.",
+      "imageUrl": "https://images.unsplash.com/photo-1614707267537-74a71359b634?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWQlMjB2ZWx2ZXQlMjBjdXBjYWtlc3xlbnwwfHx8fDE3NjA0NzI2MTB8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "red velvet-cupcakes"
+    },
+    {
+      "id": "caipirinha-de-frutas-vermelhas",
+      "description": "Caipirinha vermelha em um copo com frutas vermelhas e limão.",
+      "imageUrl": "https://images.unsplash.com/photo-1598449333932-045335454379?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiZXJyeSUyMGNhaXBpcmluaGF8ZW58MHx8fHwxNzYwNDcyNjQ2fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "berry caipirinha"
+    },
+    {
+      "id": "cafe-gelado-com-caramelo",
+      "description": "Copo alto de café gelado com leite e calda de caramelo escorrendo pelas laterais.",
+      "imageUrl": "https://images.unsplash.com/photo-157249885remember?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpY2VkJTIwY2FyYW1lbCUyMGNvZmZlZXxlbnwwfHx8fDE3NjA0NzI2NzV8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "iced caramel-coffee"
+    },
+    {
+      "id": "bellini-de-pessego",
+      "description": "Coquetel Bellini de cor alaranjada em uma taça flute.",
+      "imageUrl": "https://images.unsplash.com/photo-1601925300899-a41e9136696e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiZWxsaW5pJTIwY29ja3RhaWx8ZW58MHx8fHwxNzYwNDcyNzAxfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "bellini cocktail"
+    },
+    {
+      "id": "agua-aromatizada-com-pepino-e-hortela",
+      "description": "Jarra de água com fatias de pepino e ramos de hortelã.",
+      "imageUrl": "https://images.unsplash.com/photo-1547999420-56d56fE58D7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjdWN1bWJlciUyMG1pbnQlMjB3YXRlcnxlbnwwfHx8fDE3NjA0NzI3Mjh8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "cucumber mint-water"
+    },
+    {
+      "id": "mimosa-de-laranja",
+      "description": "Taça de Mimosa com suco de laranja e espumante.",
+      "imageUrl": "https://images.unsplash.com/photo-1622597441165-f79ab8438183?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaW1vc2ElMjBjb2NrdGFpbHxlbnwwfHx8fDE3NjA0NzI3NTV8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "mimosa cocktail"
+    },
+    {
+      "id": "smoothie-de-manga-com-gengibre",
+      "description": "Smoothie amarelo de manga cremoso em um copo.",
+      "imageUrl": "https://images.unsplash.com/photo-1610970881699-44a5c8a01473?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW5nbyUyMHNtb290aGllfGVufDB8fHx8MTc2MDQ3Mjc4M3ww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "mango smoothie"
+    },
+    {
+      "id": "choconhaque",
+      "description": "Bebida quente de chocolate com conhaque em uma caneca.",
+      "imageUrl": "https://images.unsplash.com/photo-1563312416-4ca09c8ba9c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjaG9jb2xhdGUlMjBjb2duYWN8ZW58MHx8fHwxNzU5MDA5ODg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate cognac"
+    },
+    {
+      "id": "frozen-de-abacaxi-com-hortela",
+      "description": "Frozen de abacaxi com hortelã, com consistência de raspadinha, em um copo.",
+      "imageUrl": "https://images.unsplash.com/photo-1525498105345-b4ac12stable?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwaW5lYXBwbGUlMjBzbHVzaHl8ZW58MHx8fHwxNzYwNDcyODU3fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "pineapple slushy"
+    },
+    {
+      "id": "espresso-tonica",
+      "description": "Espresso tônica em um copo alto, mostrando a separação entre a tônica e o café.",
+      "imageUrl": "https://images.unsplash.com/photo-1608933939396-3390311d4023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlc3ByZXNzbyUyMHRvbmljfGVufDB8fHx8MTc2MDQ3Mjg5MHww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "espresso tonic"
+    },
+    {
+      "id": "licor-cremoso-de-chocolate",
+      "description": "Garrafa de licor de chocolate cremoso com um pequeno copo ao lado.",
+      "imageUrl": "https://images.unsplash.com/photo-1546852199-239551?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaG9jb2xhdGUlMjBsaXF1ZXVyfGVufDB8fHx8MTc2MDQ3MjkxN3ww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate liqueur"
+    },
+    {
+      "id": "farofa-de-banana-da-terra",
+      "description": "Farofa dourada com pedaços de banana-da-terra frita.",
+      "imageUrl": "https://images.unsplash.com/photo-1694365719894-c01c95ebc100?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwbGFudGFpbiUyMGZhcm9mYXxlbnwwfHx8fDE3NTkwMDk4ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "plantain farofa"
+    },
+    {
+      "id": "salada-de-folhas-com-peras-e-nozes",
+      "description": "Salada de folhas verdes com fatias de pera, nozes e queijo gorgonzola.",
+      "imageUrl": "https://images.unsplash.com/photo-1551248429-45735115664b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZWFyJTIwd2FsbnV0JTIwc2FsYWR8ZW58MHx8fHwxNzYwNDcyOTgyfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "pear walnut-salad"
+    },
+    {
+      "id": "maionese-de-batata-com-ovo",
+      "description": "Maionese de batata cremosa com pedaços de ovo cozido e salsinha.",
+      "imageUrl": "https://images.unsplash.com/photo-1707339088654-117df66bd55c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwb3RhdG8lMjBzYWxhZHxlbnwwfHx8fDE3NTkwMDk4ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "potato salad"
+    },
+    {
+      "id": "risoto-de-cogumelos-funghi",
+      "description": "Risoto cremoso com cogumelos funghi secchi hidratados.",
+      "imageUrl": "https://images.unsplash.com/photo-1595908129221-6563365bee58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtdXNocm9vbSUyMHJpc290dG98ZW58MHx8fHwxNzYwNDczMDQxfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "mushroom risotto"
+    },
+    {
+      "id": "creme-de-espinafre-para-recheio",
+      "description": "Creme de espinafre verde e espesso em uma tigela.",
+      "imageUrl": "https://images.unsplash.com/photo-1627907222583-0545703f4368?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjcmVhbWVkJTIwc3BpbmFjaHxlbnwwfHx8fDE3NjA0NzMwNjl8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "creamed spinach"
+    },
+    {
+      "id": "broa-de-fuba-natalina",
+      "description": "Broa de fubá redonda e dourada com um aroma de erva-doce.",
+      "imageUrl": "https://images.unsplash.com/photo-1602630236440-a829a1d70114?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb3JubWVhbCUyMGNha2V8ZW58MHx8fHwxNzU5MDA5ODg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cornmeal cake"
+    },
+    {
+      "id": "casadinho-de-goiabada",
+      "description": "Biscoitos tipo casadinho recheados com goiabada e polvilhados com açúcar.",
+      "imageUrl": "https://images.unsplash.com/photo-1708631000778-51afb6ba2639?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxndWF2YSUyMGNvb2tpZXxlbnwwfHx8fDE3NTkwMDk4ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "guava cookie"
+    },
+    {
+      "id": "bolo-gelado-de-coco-embrulhado",
+      "description": "Pedaços de bolo gelado de coco embrulhados individualmente em papel alumínio.",
+      "imageUrl": "https://images.unsplash.com/photo-1716579899416-72375f69ada7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb2NvbnV0JTIwY2FrZXxlbnwwfHx8fDE3NTkwMDk4ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coconut cake"
+    },
+    {
+      "id": "brownie-de-chocolate-com-nozes",
+      "description": "Pedaços de brownie de chocolate denso com nozes visíveis.",
+      "imageUrl": "https://images.unsplash.com/photo-1599351307994-666eaced4343?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaG9jb2xhdGUlMjB3YWxudXQlMjBicm93bmllc3xlbnwwfHx8fDE3NjA0NzMyMDJ8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate walnut-brownies"
+    },
+    {
+      "id": "sagu-de-vinho-com-creme-ingles",
+      "description": "Taça de sagu de vinho tinto com bolinhas translúcidas, coberto com creme inglês amarelo.",
+      "imageUrl": "https://images.unsplash.com/photo-1651244670679-375106d63488?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzYWdvJTIwd2luZXxlbnwwfHx8fDE3NTkwMDk4ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sago wine"
     }
   ]
 }
