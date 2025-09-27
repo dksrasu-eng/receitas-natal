@@ -2,9 +2,9 @@
   "placeholderImages": [
     {
       "id": "peru-de-natal-classico",
-      "description": "Um peru de natal dourado e suculento, decorado com ervas e laranjas.",
-      "imageUrl": "https://images.unsplash.com/photo-1574672282223-f16dcd423f85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyb2FzdCUyMHR1cmtleXxlbnwwfHx8fDE3NTkwMDc1NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "roast turkey"
+      "description": "Um peru de natal dourado e suculento, decorado com ervas e laranjas, em um ambiente festivo com velas.",
+      "imageUrl": "https://images.unsplash.com/photo-1604013328586-a9a0842e8d7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmZXN0aXZlJTIwdHVya2V5fGVufDB8fHx8MTc2MDQ3MzI1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "festive turkey"
     },
     {
       "id": "bacalhau-a-gomes-de-sa-festivo",
@@ -363,7 +363,7 @@
     {
       "id": "vinho-quente-com-especiarias",
       "description": "Caneca de vinho quente (mulled wine) com especiarias e uma rodela de laranja.",
-      "imageUrl": "https://images.unsplash.com/photo-1602249367848-8468f3979e63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtdWxsZWQlMjB3aW5lfGVufDB8fHx8MTc1OTAwODM2MHww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1602249367848-8468f3979e63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtdWxsZWQlMjB3aW5lfGVufDB8fHx8MTc1OTAwODM2MHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "mulled wine"
     },
     {
@@ -375,7 +375,7 @@
     {
       "id": "chocolate-quente-com-pimenta",
       "description": "Chocolate quente escuro e intenso com um toque de pimenta, em uma caneca.",
-      "imageUrl": "https://images.unsplash.com/photo-1610632380533-315183344654?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzcGljeSUyMGhvdCUyMGNob2NvbGF0ZXxlbnwwfHx8fDE3NjA0NzIxMDZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1610632380533-315183344654?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzcGljeSUyMGhvdCUyMGNob2NvbGF0ZXxlbnwwfHx8fDE3NjA0NzIxMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "spicy hot-chocolate"
     },
     {
@@ -387,13 +387,13 @@
     {
       "id": "cafe-bombom-festivo",
       "description": "Café bombom em um copo de vidro mostrando as camadas de leite condensado e café.",
-      "imageUrl": "https://images.unsplash.com/photo-1605651213038-f40b8a75a7a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYWZlJTIwYm9tYm9ufGVufDB8fHx8MTc2MDQ3MjE3MHww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1605651213038-f40b8a75a7a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYWZlJTIwYm9tYm9ufGVufDB8fHx8MTc2MDQ3MjE3MHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "cafe bombon"
     },
     {
       "id": "cidra-de-maca-quente-com-especiarias",
       "description": "Cidra de maçã quente em uma caneca com canela e anis estrelado.",
-      "imageUrl": "https://images.unsplash.com/photo-1572565623067-5582745a554a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxob3QlMjBhcHBsZSUyMGNpZGVyfGVufDB8fHx8MTc2MDQ3MjE5Nnww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1572565623067-5582745a554a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxob3QlMjBhcHBsZSUyMGNpZGVyfGVufDB8fHx8MTc2MDQ3MjE5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "hot apple-cider"
     },
     {
@@ -405,25 +405,25 @@
     {
       "id": "limonada-suica-com-hortela",
       "description": "Limonada suíça cremosa e espumante com folhas de hortelã.",
-      "imageUrl": "https://images.unsplash.com/photo-162336472ULD8-e1526de5c1b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzd2lzcyUyMGxlbW9uYWRlfGVufDB8fHx8MTc2MDQ3MjI1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-162336472ULD8-e1526de5c1b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzd2lzcyUyMGxlbW9uYWRlfGVufDB8fHx8MTc2MDQ3MjI1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "swiss lemonade"
     },
     {
       "id": "batida-de-coco",
       "description": "Batida de coco branca e cremosa em um copo, decorada com coco ralado.",
-      "imageUrl": "https://images.unsplash.com/photo-1595991254894-3a335553ee27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb2NvbnV0JTIwY29ja3RhaWx8ZW58MHx8fHwxNzYwNDcyMjg0fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1595991254894-3a335553ee27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb2NvbnV0JTIwY29ja3RhaWx8ZW58MHx8fHwxNzYwNDcyMjg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "coconut cocktail"
     },
     {
       "id": "moscow-mule-de-gengibre",
       "description": "Moscow mule servido na tradicional caneca de cobre com espuma de gengibre e limão.",
-      "imageUrl": "https://images.unsplash.com/photo-1551538855-889818134383?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb3Njb3clMjBtdWxlfGVufDB8fHx8MTc2MDQ3MjMxMnww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1551538855-889818134383?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb3Njb3clMjBtdWxlfGVufDB8fHx8MTc2MDQ3MjMxMnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "moscow mule"
     },
     {
       "id": "panna-cotta-com-calda-de-damasco",
       "description": "Panna cotta branca e sedosa com uma calda laranja de damasco por cima.",
-      "imageUrl": "https://images.unsplash.com/photo-1626084399996-a88a87af4809?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwYW5uYSUyMGNvdHRhJTIwYXByaWNvdHxlbnwwfHx8fDE3NjA0NzIzNDB8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1626084399996-a88a87af4809?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwYW5uYSUyMGNvdHRhJTIwYXByaWNvdHxlbnwwfHx8fDE3NjA0NzIzNDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "panna cotta"
     },
     {
@@ -435,25 +435,25 @@
     {
       "id": "tiramisu-de-natal",
       "description": "Tiramisù em uma travessa de vidro, com camadas de creme e biscoito, polvilhado com cacau.",
-      "imageUrl": "https://images.unsplash.com/photo-1571877275992-87Trust?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0aXJhbWlzdXxlbnwwfHx8fDE3NjA0NzI0MDV8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1571877275992-87Trust?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0aXJhbWlzdXxlbnwwfHx8fDE3NjA0NzI0MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "tiramisu"
     },
     {
       "id": "merengue-de-morangos",
       "description": "Sobremesa de merengue em uma taça com camadas de suspiro, chantilly e morangos frescos.",
-      "imageUrl": "https://images.unsplash.com/photo-1572490122747-97B14BSa55d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlb24lMjBtZXNzfGVufDB8fHx8MTc2MDQ3MjQzNHww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1572490122747-97B14BSa55d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlb24lMjBtZXNzfGVufDB8fHx8MTc2MDQ3MjQzNHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "eton mess"
     },
     {
       "id": "sorvete-caseiro-de-flocos",
       "description": "Sorvete de creme caseiro com pedacinhos de chocolate (flocos).",
-      "imageUrl": "https://images.unsplash.com/photo-1629814249514-72a953526516?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHJhY2NpYXRlbGxhJTIwaWNlJTIwY3JlYW18ZW58MHx8fHwxNzYwNDcyNDYyfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1629814249514-72a953526516?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHJhY2NpYXRlbGxhJTIwaWNlJTIwY3JlYW18ZW58MHx8fHwxNzYwNDcyNDYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "stracciatella ice-cream"
     },
     {
       "id": "alfajor-de-doce-de-leite",
       "description": "Alfajores recheados com doce de leite e banhados em chocolate.",
-      "imageUrl": "https://images.unsplash.com/photo-1626221034G480-1a1a9e7d9b7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbGZham9yZXN8ZW58MHx8fHwxNzYwNDcyNDg5fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1626221034G480-1a1a9e7d9b7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbGZham9yZXN8ZW58MHx8fHwxNzYwNDcyNDg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "alfajores"
     },
     {
@@ -465,7 +465,7 @@
     {
       "id": "torta-de-macas-com-crumble",
       "description": "Torta de maçã com uma cobertura crocante de crumble.",
-      "imageUrl": "https://images.unsplash.com/photo-1576618148400-f54bed99fCFd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcHBsZSUyMGNydW1ibGV8ZW58MHx8fHwxNzYwNDcyNTQ1fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1576618148400-f54bed99fCFd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcHBsZSUyMGNydW1ibGV8ZW58MHx8fHwxNzYwNDcyNTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "apple crumble"
     },
     {
@@ -477,43 +477,43 @@
     {
       "id": "cupcakes-red-velvet-com-frosting",
       "description": "Cupcakes Red Velvet de cor vermelha intensa com frosting branco de cream cheese.",
-      "imageUrl": "https://images.unsplash.com/photo-1614707267537-74a71359b634?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWQlMjB2ZWx2ZXQlMjBjdXBjYWtlc3xlbnwwfHx8fDE3NjA0NzI2MTB8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1614707267537-74a71359b634?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWQlMjB2ZWx2ZXQlMjBjdXBjYWtlc3xlbnwwfHx8fDE3NjA0NzI2MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "red velvet-cupcakes"
     },
     {
       "id": "caipirinha-de-frutas-vermelhas",
       "description": "Caipirinha vermelha em um copo com frutas vermelhas e limão.",
-      "imageUrl": "https://images.unsplash.com/photo-1598449333932-045335454379?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiZXJyeSUyMGNhaXBpcmluaGF8ZW58MHx8fHwxNzYwNDcyNjQ2fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1598449333932-045335454379?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiZXJyeSUyMGNhaXBpcmluaGF8ZW58MHx8fHwxNzYwNDcyNjQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "berry caipirinha"
     },
     {
       "id": "cafe-gelado-com-caramelo",
       "description": "Copo alto de café gelado com leite e calda de caramelo escorrendo pelas laterais.",
-      "imageUrl": "https://images.unsplash.com/photo-157249885remember?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpY2VkJTIwY2FyYW1lbCUyMGNvZmZlZXxlbnwwfHx8fDE3NjA0NzI2NzV8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-157249885remember?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpY2VkJTIwY2FyYW1lbCUyMGNvZmZlZXxlbnwwfHx8fDE3NjA0NzI2NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "iced caramel-coffee"
     },
     {
       "id": "bellini-de-pessego",
       "description": "Coquetel Bellini de cor alaranjada em uma taça flute.",
-      "imageUrl": "https://images.unsplash.com/photo-1601925300899-a41e9136696e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiZWxsaW5pJTIwY29ja3RhaWx8ZW58MHx8fHwxNzYwNDcyNzAxfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1601925300899-a41e9136696e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiZWxsaW5pJTIwY29ja3RhaWx8ZW58MHx8fHwxNzYwNDcyNzAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "bellini cocktail"
     },
     {
       "id": "agua-aromatizada-com-pepino-e-hortela",
       "description": "Jarra de água com fatias de pepino e ramos de hortelã.",
-      "imageUrl": "https://images.unsplash.com/photo-1547999420-56d56fE58D7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjdWN1bWJlciUyMG1pbnQlMjB3YXRlcnxlbnwwfHx8fDE3NjA0NzI3Mjh8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1547999420-56d56fE58D7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjdWN1bWJlciUyMG1pbnQlMjB3YXRlcnxlbnwwfHx8fDE3NjA0NzI3Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "cucumber mint-water"
     },
     {
       "id": "mimosa-de-laranja",
       "description": "Taça de Mimosa com suco de laranja e espumante.",
-      "imageUrl": "https://images.unsplash.com/photo-1622597441165-f79ab8438183?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaW1vc2ElMjBjb2NrdGFpbHxlbnwwfHx8fDE3NjA0NzI3NTV8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1622597441165-f79ab8438183?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaW1vc2ElMjBjb2NrdGFpbHxlbnwwfHx8fDE3NjA0NzI3NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "mimosa cocktail"
     },
     {
       "id": "smoothie-de-manga-com-gengibre",
       "description": "Smoothie amarelo de manga cremoso em um copo.",
-      "imageUrl": "https://images.unsplash.com/photo-1610970881699-44a5c8a01473?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW5nbyUyMHNtb290aGllfGVufDB8fHx8MTc2MDQ3Mjc4M3ww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1610970881699-44a5c8a01473?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW5nbyUyMHNtb290aGllfGVufDB8fHx8MTc2MDQ3Mjc4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "mango smoothie"
     },
     {
@@ -525,19 +525,19 @@
     {
       "id": "frozen-de-abacaxi-com-hortela",
       "description": "Frozen de abacaxi com hortelã, com consistência de raspadinha, em um copo.",
-      "imageUrl": "https://images.unsplash.com/photo-1525498105345-b4ac12stable?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwaW5lYXBwbGUlMjBzbHVzaHl8ZW58MHx8fHwxNzYwNDcyODU3fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1525498105345-b4ac12stable?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwaW5lYXBwbGUlMjBzbHVzaHl8ZW58MHx8fHwxNzYwNDcyODU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "pineapple slushy"
     },
     {
       "id": "espresso-tonica",
       "description": "Espresso tônica em um copo alto, mostrando a separação entre a tônica e o café.",
-      "imageUrl": "https://images.unsplash.com/photo-1608933939396-3390311d4023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlc3ByZXNzbyUyMHRvbmljfGVufDB8fHx8MTc2MDQ3Mjg5MHww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1608933939396-3390311d4023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlc3ByZXNzbyUyMHRvbmljfGVufDB8fHx8MTc2MDQ3Mjg5MHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "espresso tonic"
     },
     {
       "id": "licor-cremoso-de-chocolate",
       "description": "Garrafa de licor de chocolate cremoso com um pequeno copo ao lado.",
-      "imageUrl": "https://images.unsplash.com/photo-1546852199-239551?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaG9jb2xhdGUlMjBsaXF1ZXVyfGVufDB8fHx8MTc2MDQ3MjkxN3ww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1546852199-239551?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaG9jb2xhdGUlMjBsaXF1ZXVyfGVufDB8fHx8MTc2MDQ3MjkxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "chocolate liqueur"
     },
     {
@@ -549,7 +549,7 @@
     {
       "id": "salada-de-folhas-com-peras-e-nozes",
       "description": "Salada de folhas verdes com fatias de pera, nozes e queijo gorgonzola.",
-      "imageUrl": "https://images.unsplash.com/photo-1551248429-45735115664b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZWFyJTIwd2FsbnV0JTIwc2FsYWR8ZW58MHx8fHwxNzYwNDcyOTgyfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1551248429-45735115664b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZWFyJTIwd2FsbnV0JTIwc2FsYWR8ZW58MHx8fHwxNzYwNDcyOTgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "pear walnut-salad"
     },
     {
@@ -561,13 +561,13 @@
     {
       "id": "risoto-de-cogumelos-funghi",
       "description": "Risoto cremoso com cogumelos funghi secchi hidratados.",
-      "imageUrl": "https://images.unsplash.com/photo-1595908129221-6563365bee58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtdXNocm9vbSUyMHJpc290dG98ZW58MHx8fHwxNzYwNDczMDQxfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1595908129221-6563365bee58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtdXNocm9vbSUyMHJpc290dG98ZW58MHx8fHwxNzYwNDczMDQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "mushroom risotto"
     },
     {
       "id": "creme-de-espinafre-para-recheio",
       "description": "Creme de espinafre verde e espesso em uma tigela.",
-      "imageUrl": "https://images.unsplash.com/photo-1627907222583-0545703f4368?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjcmVhbWVkJTIwc3BpbmFjaHxlbnwwfHx8fDE3NjA0NzMwNjl8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1627907222583-0545703f4368?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjcmVhbWVkJTIwc3BpbmFjaHxlbnwwfHx8fDE3NjA0NzMwNjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "creamed spinach"
     },
     {
@@ -591,7 +591,7 @@
     {
       "id": "brownie-de-chocolate-com-nozes",
       "description": "Pedaços de brownie de chocolate denso com nozes visíveis.",
-      "imageUrl": "https://images.unsplash.com/photo-1599351307994-666eaced4343?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaG9jb2xhdGUlMjB3YWxudXQlMjBicm93bmllc3xlbnwwfHx8fDE3NjA0NzMyMDJ8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1599351307994-666eaced4343?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaG9jb2xhdGUlMjB3YWxudXQlMjBicm93bmllc3xlbnwwfHx8fDE3NjA0NzMyMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "chocolate walnut-brownies"
     },
     {
