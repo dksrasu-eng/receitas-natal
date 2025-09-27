@@ -1,3 +1,4 @@
+
 [
   {
     "id": "peru-de-natal-classico",
@@ -592,26 +593,3167 @@
     ],
     "sugestoes_apresentacao": "Pode ser servido quente ou frio. Um pau de canela no copo adiciona um aroma especial.",
     "foto_id": "recipe15"
+  },
+  {
+    "id": "pernil-assado-com-ervas",
+    "titulo": "Pernil Assado com Ervas",
+    "categoria": "salgada",
+    "subcategoria": "prato principal",
+    "tempo_preparo": "5 horas",
+    "rendimento": "12 porções",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Pernil e Marinada",
+        "itens": [
+          "1 pernil de porco com osso (cerca de 5kg)",
+          "1 xícara de vinho branco seco",
+          "Suco de 3 limões",
+          "8 dentes de alho amassados",
+          "Sal e pimenta do reino a gosto",
+          "Alecrim, tomilho e sálvia frescos"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Faça furos no pernil com uma faca e tempere com sal, pimenta, alho e ervas, esfregando bem.",
+          "Coloque em um recipiente grande, regue com o vinho e o suco de limão. Deixe marinar na geladeira por 24 horas, virando na metade do tempo.",
+          "Pré-aqueça o forno a 160°C. Envolva o pernil em papel alumínio e asse por 4 horas.",
+          "Retire o papel alumínio, aumente o forno para 200°C e asse por mais 1 hora ou até a pele ficar crocante e dourada."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Sirva com batatas assadas na mesma assadeira e decore com ramos de ervas frescas.",
+    "foto_id": "recipe16"
+  },
+  {
+    "id": "chester-desossado-e-recheado",
+    "titulo": "Chester Desossado e Recheado",
+    "categoria": "salgada",
+    "subcategoria": "prato principal",
+    "tempo_preparo": "3 horas",
+    "rendimento": "10 porções",
+    "dificuldade": "difícil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten"],
+    "ingredientes": [
+      {
+        "secao": "Chester e Recheio",
+        "itens": [
+          "1 chester de aproximadamente 3kg",
+          "200g de miolo de pão amanhecido",
+          "1 xícara de leite",
+          "100g de bacon picado",
+          "1 cebola picada",
+          "100g de azeitonas picadas",
+          "Cheiro-verde picado, sal e pimenta"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Desosse o chester com cuidado (ou compre já desossado). Tempere por dentro e por fora.",
+          "Umedeça o miolo de pão no leite. Em uma panela, frite o bacon, junte a cebola e refogue. Misture com o pão, azeitonas e temperos.",
+          "Recheie o chester e costure a abertura.",
+          "Leve ao forno a 180°C, coberto com papel alumínio, por 2 horas. Retire o alumínio e asse até dourar."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Fatie e sirva com o recheio aparecendo, acompanhado de purê de maçã.",
+    "foto_id": "recipe17"
+  },
+  {
+    "id": "lombo-recheado-com-damasco",
+    "titulo": "Lombo Recheado com Damasco",
+    "categoria": "salgada",
+    "subcategoria": "prato principal",
+    "tempo_preparo": "2 horas",
+    "rendimento": "8 porções",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 peça de lombo suíno de 1.5kg",
+          "200g de damascos secos picados",
+          "100g de bacon em cubos",
+          "Sal, pimenta e alho a gosto",
+          "Barbante para amarrar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Abra o lombo em uma manta e tempere com sal, pimenta e alho.",
+          "Espalhe os damascos e o bacon sobre a carne.",
+          "Enrole como um rocambole e amarre bem com o barbante.",
+          "Sele o lombo em uma panela quente com azeite.",
+          "Transfira para uma assadeira e leve ao forno a 180°C por 1h30, regando com o caldo que se forma."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Fatie o lombo e sirva com um molho agridoce feito com o caldo da assadeira.",
+    "foto_id": "recipe18"
+  },
+  {
+    "id": "salpicao-de-frango-defumado",
+    "titulo": "Salpicão de Frango Defumado",
+    "categoria": "salgada",
+    "subcategoria": "salada",
+    "tempo_preparo": "30 minutos",
+    "rendimento": "10 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "500g de frango defumado desfiado",
+          "2 cenouras raladas",
+          "1 lata de milho verde escorrido",
+          "100g de uvas passas brancas",
+          "1 maçã verde em cubos",
+          "200g de maionese",
+          "Batata palha para cobrir"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma tigela grande, misture o frango, a cenoura, o milho, as passas e a maçã.",
+          "Adicione a maionese e misture delicadamente até todos os ingredientes estarem incorporados.",
+          "Leve à geladeira por pelo menos 30 minutos.",
+          "Cubra com batata palha apenas na hora de servir para manter a crocância."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Sirva em uma travessa bonita decorada com folhas de salsa.",
+    "foto_id": "recipe19"
+  },
+  {
+    "id": "salada-de-lentilha-com-roma",
+    "titulo": "Salada de Lentilha com Romã",
+    "categoria": "salgada",
+    "subcategoria": "salada",
+    "tempo_preparo": "40 minutos",
+    "rendimento": "6 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Salada e Molho",
+        "itens": [
+          "2 xícaras de lentilha cozida e escorrida",
+          "1 xícara de sementes de romã",
+          "1/2 xícara de nozes picadas",
+          "1/2 cebola roxa picada",
+          "Salsinha e hortelã picados a gosto",
+          "Azeite, suco de limão, sal e pimenta para o molho"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma saladeira, combine a lentilha, as sementes de romã, as nozes e a cebola roxa.",
+          "Adicione a salsinha e a hortelã picadas.",
+          "Em uma tigela pequena, prepare o molho misturando azeite, suco de limão, sal e pimenta.",
+          "Regue a salada com o molho e misture bem antes de servir."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Sirva fria como entrada ou acompanhamento. É uma ótima opção para trazer sorte no Ano Novo.",
+    "foto_id": "recipe20"
+  },
+  {
+    "id": "cuscuz-marroquino-com-frutas-secas",
+    "titulo": "Cuscuz Marroquino com Frutas Secas",
+    "categoria": "salgada",
+    "subcategoria": "acompanhamento",
+    "tempo_preparo": "20 minutos",
+    "rendimento": "8 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém nozes"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "2 xícaras de cuscuz marroquino",
+          "2 xícaras de caldo de legumes fervente",
+          "1/2 xícara de damascos picados",
+          "1/2 xícara de tâmaras picadas",
+          "1/2 xícara de amêndoas laminadas",
+          "Hortelã fresca picada",
+          "Azeite, sal e pimenta"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Coloque o cuscuz em uma tigela e regue com o caldo de legumes fervente. Tampe e deixe hidratar por 5 minutos.",
+          "Solte o cuscuz com um garfo e adicione as frutas secas, as amêndoas e a hortelã.",
+          "Tempere com azeite, sal e pimenta a gosto.",
+          "Misture bem e sirva."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Sirva quente ou em temperatura ambiente. Fica delicioso com carnes de porco ou cordeiro.",
+    "foto_id": "recipe21"
+  },
+  {
+    "id": "batatas-gratinadas-com-queijo",
+    "titulo": "Batatas Gratinadas com Queijo",
+    "categoria": "salgada",
+    "subcategoria": "acompanhamento",
+    "tempo_preparo": "70 minutos",
+    "rendimento": "8 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1kg de batatas fatiadas finamente",
+          "2 xícaras de creme de leite fresco",
+          "1 xícara de queijo gruyère ralado",
+          "1 xícara de queijo parmesão ralado",
+          "Noz-moscada, sal e pimenta a gosto"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Pré-aqueça o forno a 190°C. Unte um refratário com manteiga.",
+          "Em uma tigela, misture o creme de leite, metade dos queijos, noz-moscada, sal e pimenta.",
+          "Arrume as fatias de batata no refratário, sobrepondo-as.",
+          "Despeje a mistura de creme de leite sobre as batatas.",
+          "Cubra com o restante dos queijos e leve ao forno por cerca de 60 minutos, ou até as batatas estarem macias e o topo dourado."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Deixe descansar por 10 minutos antes de servir para firmar.",
+    "foto_id": "recipe22"
+  },
+  {
+    "id": "arroz-a-grega-natalino",
+    "titulo": "Arroz à Grega Natalino",
+    "categoria": "salgada",
+    "subcategoria": "acompanhamento",
+    "tempo_preparo": "35 minutos",
+    "rendimento": "8 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "2 xícaras de arroz cozido",
+          "1 cenoura pequena em cubos, cozida",
+          "1 pimentão vermelho em cubos",
+          "1/2 xícara de ervilhas frescas ou congeladas",
+          "1/2 xícara de uvas passas",
+          "Cheiro-verde picado"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma panela, refogue o pimentão no azeite até amolecer.",
+          "Adicione a cenoura cozida, as ervilhas e as passas. Refogue por mais alguns minutos.",
+          "Incorpore o arroz já cozido e misture bem.",
+          "Finalize com o cheiro-verde picado e sirva."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Pode ser enriquecido com presunto ou frango desfiado.",
+    "foto_id": "recipe23"
+  },
+  {
+    "id": "salmao-ao-molho-de-maracuja",
+    "titulo": "Salmão ao Molho de Maracujá",
+    "categoria": "salgada",
+    "subcategoria": "prato principal",
+    "tempo_preparo": "30 minutos",
+    "rendimento": "4 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém peixe"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "4 postas de salmão (cerca de 200g cada)",
+          "Polpa de 2 maracujás",
+          "1/2 xícara de suco de laranja",
+          "2 colheres de sopa de mel",
+          "Sal e pimenta a gosto"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Tempere o salmão com sal e pimenta. Grelhe em uma frigideira com azeite até dourar e cozinhar por dentro.",
+          "Em uma panela pequena, misture a polpa de maracujá, o suco de laranja e o mel. Cozinhe em fogo baixo até o molho reduzir e engrossar levemente.",
+          "Sirva as postas de salmão regadas com o molho de maracujá."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Acompanha bem um purê de mandioquinha ou arroz com brócolis.",
+    "foto_id": "recipe24"
+  },
+  {
+    "id": "cebola-caramelizada-para-acompanhamento",
+    "titulo": "Cebola Caramelizada para Acompanhamento",
+    "categoria": "salgada",
+    "subcategoria": "acompanhamento",
+    "tempo_preparo": "45 minutos",
+    "rendimento": "2 xícaras",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "4 cebolas grandes fatiadas finamente",
+          "2 colheres de sopa de manteiga",
+          "1 colher de sopa de açúcar mascavo",
+          "2 colheres de sopa de vinagre balsâmico",
+          "Sal a gosto"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma frigideira grande, derreta a manteiga em fogo baixo.",
+          "Adicione as cebolas e cozinhe lentamente, mexendo ocasionalmente, por cerca de 30 minutos, até ficarem bem macias e douradas.",
+          "Adicione o açúcar mascavo e o vinagre balsâmico. Cozinhe por mais 10 minutos, até caramelizar bem.",
+          "Tempere com sal e sirva."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Ideal para acompanhar carnes assadas, hambúrgueres ou servir sobre torradas.",
+    "foto_id": "recipe25"
+  },
+  {
+    "id": "salada-waldorf-natalina",
+    "titulo": "Salada Waldorf Natalina",
+    "categoria": "salgada",
+    "subcategoria": "salada",
+    "tempo_preparo": "20 minutos",
+    "rendimento": "6 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém nozes", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "2 maçãs vermelhas em cubos",
+          "2 talos de aipo picados",
+          "1 xícara de uvas verdes sem sementes, cortadas ao meio",
+          "1/2 xícara de nozes picadas",
+          "1/2 xícara de maionese",
+          "2 colheres de sopa de suco de limão"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma tigela, misture o suco de limão com as maçãs para não escurecerem.",
+          "Adicione o aipo, as uvas e as nozes.",
+          "Incorpore a maionese e misture delicadamente.",
+          "Sirva sobre folhas de alface ou endívias."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Para um toque extra, adicione cranberries secas.",
+    "foto_id": "recipe26"
+  },
+  {
+    "id": "mousse-de-chocolate-com-laranja",
+    "titulo": "Mousse de Chocolate com Laranja",
+    "categoria": "doce",
+    "subcategoria": "sobremesa",
+    "tempo_preparo": "25 minutos + geladeira",
+    "rendimento": "6 porções",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "200g de chocolate meio amargo picado",
+          "4 ovos (claras e gemas separadas)",
+          "4 colheres de sopa de açúcar",
+          "Raspas da casca de 1 laranja",
+          "1 lata de creme de leite sem soro"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Derreta o chocolate em banho-maria ou no micro-ondas e deixe amornar.",
+          "Bata as gemas com o açúcar até formar um creme claro. Misture o chocolate derretido e as raspas de laranja.",
+          "Incorpore o creme de leite.",
+          "Bata as claras em neve e incorpore delicadamente à mistura de chocolate.",
+          "Distribua em taças e leve à geladeira por pelo menos 4 horas."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Decore com raspas de chocolate e um segmento de laranja.",
+    "foto_id": "recipe27"
+  },
+  {
+    "id": "pave-de-pessego-com-biscoito-champanhe",
+    "titulo": "Pavê de Pêssego com Biscoito Champanhe",
+    "categoria": "doce",
+    "subcategoria": "sobremesa",
+    "tempo_preparo": "40 minutos + geladeira",
+    "rendimento": "10 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Creme e Montagem",
+        "itens": [
+          "1 lata de leite condensado",
+          "A mesma medida de leite",
+          "2 gemas",
+          "1 colher de sopa de amido de milho",
+          "1 pacote de biscoito champanhe",
+          "1 lata de pêssego em calda, picado",
+          "Calda do pêssego para umedecer"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma panela, misture o leite condensado, o leite, as gemas e o amido. Leve ao fogo, mexendo até engrossar. Deixe esfriar.",
+          "Em um refratário, faça uma camada de biscoitos umedecidos na calda do pêssego.",
+          "Faça uma camada com metade do creme e espalhe os pêssegos picados.",
+          "Repita as camadas de biscoito e creme.",
+          "Decore com fatias de pêssego e leve para gelar por 4 horas."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Pode ser coberto com chantilly antes de decorar com os pêssegos.",
+    "foto_id": "recipe28"
+  },
+  {
+    "id": "biscoitos-de-gengibre-decorados",
+    "titulo": "Biscoitos de Gengibre Decorados",
+    "categoria": "doce",
+    "subcategoria": "biscoito",
+    "tempo_preparo": "90 minutos",
+    "rendimento": "30 biscoitos",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Massa e Glacê",
+        "itens": [
+          "3 xícaras de farinha de trigo",
+          "1 colher de chá de bicarbonato de sódio",
+          "2 colheres de chá de gengibre em pó",
+          "1 colher de chá de canela em pó",
+          "1/2 xícara de manteiga sem sal",
+          "1/2 xícara de açúcar mascavo",
+          "1 ovo",
+          "1/2 xícara de melado de cana",
+          "Glacê real pronto para decorar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Peneire a farinha, o bicarbonato e as especiarias.",
+          "Na batedeira, bata a manteiga e o açúcar até ficar cremoso. Adicione o ovo e o melado.",
+          "Aos poucos, adicione os ingredientes secos. Forme uma bola, achate, envolva em plástico e leve à geladeira por 1 hora.",
+          "Abra a massa, corte com cortadores natalinos e asse a 180°C por 10-12 minutos.",
+          "Depois de frios, decore com glacê real."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Use corantes alimentícios no glacê para criar decorações coloridas.",
+    "foto_id": "recipe29"
+  },
+  {
+    "id": "cheesecake-de-frutas-vermelhas",
+    "titulo": "Cheesecake de Frutas Vermelhas",
+    "categoria": "doce",
+    "subcategoria": "torta",
+    "tempo_preparo": "1h 30min + geladeira",
+    "rendimento": "12 porções",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Base, Creme e Calda",
+        "itens": [
+          "200g de biscoito maisena triturado",
+          "100g de manteiga derretida",
+          "600g de cream cheese",
+          "1 lata de leite condensado",
+          "Suco de 1 limão",
+          "3 ovos",
+          "300g de frutas vermelhas (morangos, framboesas, amoras)",
+          "1/2 xícara de açúcar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Misture o biscoito com a manteiga e forre o fundo de uma forma de aro removível. Asse por 10 minutos a 180°C.",
+          "Na batedeira, bata o cream cheese, leite condensado e suco de limão. Adicione os ovos um a um.",
+          "Despeje sobre a base e asse por 40-50 minutos em banho-maria. Deixe esfriar e leve à geladeira.",
+          "Para a calda, cozinhe as frutas com açúcar até engrossar. Deixe esfriar e cubra o cheesecake."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Sirva bem gelado, decorado com frutas frescas.",
+    "foto_id": "recipe30"
+  },
+  {
+    "id": "gemada-cremosa-sem-alcool",
+    "titulo": "Gemada Cremosa (Sem Álcool)",
+    "categoria": "bebida",
+    "subcategoria": "bebida quente",
+    "tempo_preparo": "15 minutos",
+    "rendimento": "4 copos",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém ovos", "contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "4 gemas",
+          "4 colheres de sopa de açúcar",
+          "1 litro de leite",
+          "1 pau de canela",
+          "Noz-moscada ralada a gosto"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Bata as gemas com o açúcar até obter um creme esbranquiçado e fofo.",
+          "Aqueça o leite com o pau de canela, sem deixar ferver.",
+          "Despeje o leite quente lentamente sobre a mistura de gemas, mexendo sem parar para não cozinhar os ovos.",
+          "Volte a mistura para a panela em fogo baixo, mexendo até engrossar um pouco.",
+          "Sirva quente, polvilhado com noz-moscada."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Pode ser servido em canecas com um pau de canela para decorar.",
+    "foto_id": "recipe31"
+  },
+  {
+    "id": "ponche-de-frutas-natalino",
+    "titulo": "Ponche de Frutas Natalino",
+    "categoria": "bebida",
+    "subcategoria": "mocktail",
+    "tempo_preparo": "20 minutos",
+    "rendimento": "15 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 litro de suco de abacaxi",
+          "1 litro de guaraná",
+          "2 xícaras de frutas picadas (abacaxi, morango, kiwi, uva)",
+          "1 laranja em rodelas finas",
+          "Folhas de hortelã"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma poncheira ou jarra grande, misture o suco de abacaxi e as frutas picadas.",
+          "Leve à geladeira por pelo menos 1 hora.",
+          "Na hora de servir, adicione o guaraná bem gelado, as rodelas de laranja e as folhas de hortelã.",
+          "Sirva com gelo."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Para uma versão com álcool, adicione 1 xícara de rum branco.",
+    "foto_id": "recipe32"
+  },
+  {
+    "id": "suco-detox-festivo-verde",
+    "titulo": "Suco Detox Festivo Verde",
+    "categoria": "bebida",
+    "subcategoria": "suco",
+    "tempo_preparo": "10 minutos",
+    "rendimento": "2 copos",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "2 folhas de couve",
+          "1 maçã verde",
+          "Suco de 1 limão",
+          "1 rodela de gengibre",
+          "200ml de água de coco"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Lave bem a couve e a maçã.",
+          "Pique a maçã, retirando as sementes.",
+          "Bata todos os ingredientes no liquidificador até obter uma mistura homogênea.",
+          "Coe se preferir e sirva imediatamente."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Beba pela manhã para ajudar a desintoxicar após as festas.",
+    "foto_id": "recipe33"
+  },
+  {
+    "id": "clericot-de-vinho-rose",
+    "titulo": "Clericot de Vinho Rosé",
+    "categoria": "bebida",
+    "subcategoria": "coquetel",
+    "tempo_preparo": "15 minutos",
+    "rendimento": "8 copos",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "com álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 garrafa de vinho rosé seco",
+          "1/2 xícara de licor de laranja (Cointreau)",
+          "2 xícaras de frutas picadas (pêssego, morango, nectarina, kiwi)",
+          "500ml de club soda ou água com gás",
+          "Gelo a gosto"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma jarra grande, combine o vinho rosé, o licor de laranja e as frutas picadas.",
+          "Leve à geladeira para gelar bem, por pelo menos 1 hora.",
+          "Na hora de servir, adicione a club soda bem gelada e bastante gelo.",
+          "Mexa suavemente e sirva."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Decore as taças com uma fatia de carambola na borda para um toque estrelado.",
+    "foto_id": "recipe34"
+  },
+  {
+    "id": "cha-gelado-de-hibisco-com-canela",
+    "titulo": "Chá Gelado de Hibisco com Canela",
+    "categoria": "bebida",
+    "subcategoria": "chá",
+    "tempo_preparo": "10 minutos + resfriamento",
+    "rendimento": "1 litro",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 litro de água",
+          "4 colheres de sopa de flores de hibisco secas",
+          "2 paus de canela",
+          "Açúcar ou adoçante a gosto",
+          "Rodelas de limão para servir"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Ferva a água com os paus de canela.",
+          "Desligue o fogo, adicione as flores de hibisco e abafe por 10 minutos.",
+          "Coe o chá, adoce a gosto e deixe esfriar completamente.",
+          "Leve à geladeira para gelar.",
+          "Sirva com gelo e rodelas de limão."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Adicione algumas folhas de hortelã para um frescor extra.",
+    "foto_id": "recipe35"
+  },
+  {
+    "id": "arroz-com-lentilha-e-cebola-frita",
+    "titulo": "Arroz com Lentilha e Cebola Frita",
+    "categoria": "salgada",
+    "subcategoria": "acompanhamento",
+    "tempo_preparo": "50 minutos",
+    "rendimento": "8 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 xícara de lentilha",
+          "2 xícaras de arroz",
+          "2 cebolas grandes fatiadas",
+          "Azeite para fritar",
+          "Sal e cominho em pó a gosto"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Cozinhe a lentilha em água e sal até ficar macia, mas sem desmanchar. Escorra e reserve a água do cozimento.",
+          "Complete a água da lentilha para 4 xícaras e use-a para cozinhar o arroz.",
+          "Frite a cebola em azeite quente até ficar bem dourada e crocante. Escorra em papel toalha.",
+          "Misture a lentilha cozida ao arroz cozido. Tempere com sal e cominho.",
+          "Sirva coberto com a cebola frita."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Um clássico da sorte e prosperidade para as festas de fim de ano.",
+    "foto_id": "recipe36"
+  },
+  {
+    "id": "brandade-de-bacalhau",
+    "titulo": "Brandade de Bacalhau",
+    "categoria": "salgada",
+    "subcategoria": "entrada",
+    "tempo_preparo": "60 minutos",
+    "rendimento": "8 porções",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém peixe", "contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "500g de bacalhau dessalgado e desfiado",
+          "500g de batatas cozidas e espremidas",
+          "1 xícara de leite quente",
+          "1/2 xícara de azeite",
+          "2 dentes de alho picados",
+          "Queijo parmesão para gratinar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma panela, aqueça o azeite e doure o alho. Adicione o bacalhau desfiado e refogue bem.",
+          "Adicione a batata espremida e misture.",
+          "Aos poucos, adicione o leite quente, mexendo vigorosamente para criar uma emulsão cremosa.",
+          "Transfira para um refratário, polvilhe queijo parmesão e leve ao forno para gratinar.",
+          "Sirva com torradas."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Pode ser servido quente como entrada ou prato principal leve.",
+    "foto_id": "recipe37"
+  },
+  {
+    "id": "file-mignon-ao-molho-madeira",
+    "titulo": "Filé Mignon ao Molho Madeira",
+    "categoria": "salgada",
+    "subcategoria": "prato principal",
+    "tempo_preparo": "40 minutos",
+    "rendimento": "6 porções",
+    "dificuldade": "médio",
+    "indicacao_alcool": "com álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 peça de filé mignon (aprox. 1.2kg)",
+          "Sal e pimenta do reino a gosto",
+          "2 colheres de sopa de manteiga",
+          "1 cebola picada",
+          "1 xícara de vinho Madeira",
+          "2 xícaras de caldo de carne",
+          "Champignons fatiados"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Tempere o filé com sal e pimenta. Sele a peça inteira em uma panela quente com manteiga.",
+          "Transfira a carne para uma assadeira e leve ao forno a 200°C por 20 minutos (para ponto mal passado).",
+          "Na mesma panela, refogue a cebola. Deglaceie com o vinho Madeira, raspando o fundo. Deixe reduzir.",
+          "Adicione o caldo de carne e os champignons. Cozinhe até o molho engrossar.",
+          "Fatie o filé e sirva com o molho."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Acompanha arroz à piamontese ou batatas gratinadas.",
+    "foto_id": "recipe38"
+  },
+  {
+    "id": "vol-au-vent-de-camarao",
+    "titulo": "Vol-au-vent de Camarão",
+    "categoria": "salgada",
+    "subcategoria": "entrada",
+    "tempo_preparo": "45 minutos",
+    "rendimento": "12 unidades",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém crustáceos", "contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "12 massas folhadas para vol-au-vent",
+          "500g de camarão limpo",
+          "1 tomate picado sem sementes",
+          "1/2 cebola picada",
+          "1 dente de alho picado",
+          "1/2 xícara de creme de leite",
+          "Requeijão cremoso a gosto",
+          "Salsinha picada"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Asse as massas de vol-au-vent conforme as instruções da embalagem.",
+          "Refogue a cebola e o alho no azeite. Adicione o camarão e cozinhe até ficar rosado. Junte o tomate.",
+          "Adicione o creme de leite e o requeijão, mexendo até formar um creme.",
+          "Finalize com salsinha picada.",
+          "Recheie os vol-au-vents assados e sirva imediatamente."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Uma entrada sofisticada e deliciosa para a ceia.",
+    "foto_id": "recipe39"
+  },
+  {
+    "id": "quiche-lorraine-festiva",
+    "titulo": "Quiche Lorraine Festiva",
+    "categoria": "salgada",
+    "subcategoria": "torta salgada",
+    "tempo_preparo": "75 minutos",
+    "rendimento": "8 fatias",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Massa e Recheio",
+        "itens": [
+          "1 rolo de massa brisée ou de torta",
+          "200g de bacon em cubos",
+          "200g de queijo gruyère ralado",
+          "3 ovos",
+          "1 lata de creme de leite",
+          "Noz-moscada, sal e pimenta"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Forre uma forma de torta com a massa. Fure o fundo com um garfo.",
+          "Frite o bacon até ficar crocante e escorra a gordura. Espalhe sobre a massa junto com o queijo.",
+          "No liquidificador, bata os ovos, o creme de leite e os temperos.",
+          "Despeje a mistura sobre o bacon e o queijo.",
+          "Asse em forno pré-aquecido a 180°C por 40-45 minutos, ou até dourar e firmar."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Pode ser servida quente ou em temperatura ambiente, acompanhada de uma salada verde.",
+    "foto_id": "recipe40"
+  },
+  {
+    "id": "arvore-de-natal-de-pao-de-queijo",
+    "titulo": "Árvore de Natal de Pão de Queijo",
+    "categoria": "salgada",
+    "subcategoria": "aperitivo",
+    "tempo_preparo": "40 minutos",
+    "rendimento": "1 árvore",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "500g de mistura para pão de queijo",
+          "200g de queijo minas padrão ralado",
+          "2 ovos",
+          "Água ou leite até dar o ponto",
+          "Ramos de alecrim para decorar",
+          "Tomate cereja para decorar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Prepare a massa do pão de queijo seguindo as instruções da embalagem, adicionando o queijo extra.",
+          "Faça bolinhas pequenas e disponha-as em uma assadeira forrada com papel manteiga, formando o desenho de uma árvore de Natal.",
+          "Pincele com gema se desejar.",
+          "Asse em forno pré-aquecido a 180°C por 25 minutos ou até dourarem.",
+          "Decore com raminhos de alecrim e tomates cereja para simular os enfeites."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Sirva quente como um aperitivo divertido e interativo.",
+    "foto_id": "recipe41"
+  },
+  {
+    "id": "canapes-de-pepino-com-pasta-de-ricota",
+    "titulo": "Canapés de Pepino com Pasta de Ricota",
+    "categoria": "salgada",
+    "subcategoria": "aperitivo",
+    "tempo_preparo": "15 minutos",
+    "rendimento": "20 canapés",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 pepino japonês grande",
+          "200g de ricota fresca",
+          "2 colheres de sopa de iogurte natural",
+          "Hortelã picada a gosto",
+          "Sal e pimenta do reino",
+          "Tomates cereja para decorar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Corte o pepino em rodelas de 1cm de espessura.",
+          "Amasse a ricota com um garfo e misture com o iogurte, a hortelã, o sal e a pimenta até formar uma pasta.",
+          "Coloque uma pequena porção da pasta sobre cada rodela de pepino.",
+          "Decore com metade de um tomate cereja em cima."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Um aperitivo leve, fresco e sem glúten.",
+    "foto_id": "recipe42"
+  },
+  {
+    "id": "terrine-de-gorgonzola-com-nozes-e-damasco",
+    "titulo": "Terrine de Gorgonzola com Nozes e Damasco",
+    "categoria": "salgada",
+    "subcategoria": "entrada",
+    "tempo_preparo": "20 minutos + geladeira",
+    "rendimento": "10 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose", "contém nozes"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "300g de queijo gorgonzola",
+          "300g de cream cheese",
+          "1/2 xícara de nozes picadas",
+          "1/2 xícara de damascos secos picados",
+          "2 colheres de sopa de mel"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Forre uma forma de bolo inglês pequena com plástico filme.",
+          "Em uma tigela, amasse o gorgonzola com um garfo e misture com o cream cheese até obter uma pasta homogênea.",
+          "Adicione as nozes e os damascos, misturando bem.",
+          "Transfira a mistura para a forma preparada, alise a superfície e cubra com plástico filme.",
+          "Leve à geladeira por pelo menos 4 horas.",
+          "Desenforme e regue com mel antes de servir com torradas ou pães."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Pode ser decorado com mais nozes e damascos por cima.",
+    "foto_id": "recipe43"
+  },
+  {
+    "id": "camarao-empanado-no-coco",
+    "titulo": "Camarão Empanado no Coco",
+    "categoria": "salgada",
+    "subcategoria": "aperitivo",
+    "tempo_preparo": "30 minutos",
+    "rendimento": "4 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém crustáceos", "contém glúten", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "500g de camarão grande, limpo",
+          "1 xícara de farinha de trigo",
+          "2 ovos batidos",
+          "2 xícaras de coco ralado (seco e sem açúcar)",
+          "Sal e pimenta a gosto",
+          "Óleo para fritar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Tempere os camarões com sal e pimenta.",
+          "Passe cada camarão na farinha de trigo, depois nos ovos batidos e por último no coco ralado, pressionando bem para aderir.",
+          "Frite em óleo quente até ficarem dourados e crocantes.",
+          "Escorra em papel toalha e sirva."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Sirva com um molho agridoce ou geleia de pimenta.",
+    "foto_id": "recipe44"
+  },
+  {
+    "id": "pure-de-castanhas-portuguesas",
+    "titulo": "Purê de Castanhas Portuguesas",
+    "categoria": "salgada",
+    "subcategoria": "acompanhamento",
+    "tempo_preparo": "40 minutos",
+    "rendimento": "6 porções",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "500g de castanhas portuguesas cozidas e descascadas",
+          "1 xícara de leite",
+          "2 colheres de sopa de manteiga",
+          "Sal e noz-moscada a gosto"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Passe as castanhas cozidas por um espremedor de batatas ou processe até formar um purê.",
+          "Em uma panela, aqueça o purê de castanhas com o leite e a manteiga.",
+          "Mexa em fogo baixo até obter uma consistência cremosa e homogênea.",
+          "Tempere com sal e noz-moscada a gosto.",
+          "Sirva quente."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Um acompanhamento sofisticado para carnes assadas, especialmente peru e pernil.",
+    "foto_id": "recipe45"
+  },
+  {
+    "id": "legumes-assados-com-alecrim-e-mel",
+    "titulo": "Legumes Assados com Alecrim e Mel",
+    "categoria": "salgada",
+    "subcategoria": "acompanhamento",
+    "tempo_preparo": "50 minutos",
+    "rendimento": "8 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1kg de legumes variados (cenoura, batata doce, abóbora, cebola roxa)",
+          "3 colheres de sopa de azeite",
+          "2 colheres de sopa de mel",
+          "Ramos de alecrim fresco",
+          "Sal e pimenta do reino a gosto"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Pré-aqueça o forno a 200°C.",
+          "Corte os legumes em pedaços grandes e uniformes.",
+          "Em uma tigela, misture os legumes com o azeite, o mel, o alecrim, sal e pimenta.",
+          "Espalhe os legumes em uma única camada em uma assadeira.",
+          "Asse por 35-45 minutos, virando na metade do tempo, até ficarem macios e caramelizados."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Um acompanhamento colorido, saudável e delicioso.",
+    "foto_id": "recipe46"
+  },
+  {
+    "id": "cogumelos-recheados-com-ervas-finas",
+    "titulo": "Cogumelos Recheados com Ervas Finas",
+    "categoria": "salgada",
+    "subcategoria": "aperitivo",
+    "tempo_preparo": "35 minutos",
+    "rendimento": "6 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "12 cogumelos Portobello grandes",
+          "1 xícara de farinha de rosca",
+          "1/2 xícara de queijo parmesão ralado",
+          "2 dentes de alho picados",
+          "Salsinha, cebolinha e tomilho picados",
+          "Azeite, sal e pimenta"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Limpe os cogumelos e retire os talos. Pique os talos finamente.",
+          "Refogue os talos picados com o alho no azeite.",
+          "Em uma tigela, misture os talos refogados com a farinha de rosca, o parmesão e as ervas. Tempere com sal e pimenta.",
+          "Recheie os cogumelos com essa mistura.",
+          "Regue com um fio de azeite e asse em forno a 200°C por 20 minutos."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Sirva como entrada quente ou aperitivo.",
+    "foto_id": "recipe47"
+  },
+  {
+    "id": "torta-fria-de-pao-de-forma",
+    "titulo": "Torta Fria de Pão de Forma",
+    "categoria": "salgada",
+    "subcategoria": "torta salgada",
+    "tempo_preparo": "30 minutos + geladeira",
+    "rendimento": "10 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 pacote de pão de forma sem casca",
+          "2 xícaras de frango cozido e desfiado",
+          "1 lata de milho verde",
+          "1 cenoura ralada",
+          "Maionese para dar liga",
+          "Purê de batata para cobrir",
+          "Batata palha para decorar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma tigela, misture o frango, o milho, a cenoura e maionese suficiente para formar uma pasta cremosa.",
+          "Em um refratário, faça camadas alternadas de pão de forma e recheio, começando e terminando com pão.",
+          "Umedeça levemente as camadas de pão com leite ou guaraná.",
+          "Cubra toda a torta com o purê de batata, alisando bem.",
+          "Decore com batata palha e leve para gelar por pelo menos 2 horas antes de servir."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Use a criatividade na decoração, com azeitonas, ovos de codorna ou tomates cereja.",
+    "foto_id": "recipe48"
+  },
+  {
+    "id": "molho-de-hortela-para-cordeiro",
+    "titulo": "Molho de Hortelã para Cordeiro",
+    "categoria": "salgada",
+    "subcategoria": "molho",
+    "tempo_preparo": "10 minutos",
+    "rendimento": "1 xícara",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 maço de hortelã fresca (só as folhas)",
+          "1/4 de xícara de vinagre de vinho branco",
+          "2 colheres de sopa de açúcar",
+          "4 colheres de sopa de água fervente",
+          "1 pitada de sal"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Pique bem as folhas de hortelã.",
+          "Em uma tigela, dissolva o açúcar e o sal na água fervente.",
+          "Adicione o vinagre e a hortelã picada.",
+          "Misture bem e deixe descansar por pelo menos 30 minutos para apurar o sabor."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "O acompanhamento clássico e indispensável para pernil ou carré de cordeiro.",
+    "foto_id": "recipe49"
+  },
+  {
+    "id": "caponata-natalina",
+    "titulo": "Caponata Natalina",
+    "categoria": "salgada",
+    "subcategoria": "antepasto",
+    "tempo_preparo": "60 minutos",
+    "rendimento": "6 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém nozes"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "2 berinjelas em cubos",
+          "1 pimentão vermelho em cubos",
+          "1 pimentão amarelo em cubos",
+          "1 cebola em cubos",
+          "1/2 xícara de uvas passas",
+          "1/2 xícara de nozes picadas",
+          "1/4 xícara de vinagre balsâmico",
+          "Azeite, sal e orégano a gosto"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma assadeira grande, misture todos os legumes com azeite, sal e orégano.",
+          "Asse em forno pré-aquecido a 200°C por cerca de 40 minutos, mexendo na metade do tempo.",
+          "Retire do forno e, ainda quente, adicione as passas, as nozes e o vinagre balsâmico.",
+          "Misture bem e deixe esfriar.",
+          "Sirva frio com pães e torradas."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Fica ainda mais saborosa se preparada na véspera.",
+    "foto_id": "recipe50"
+  },
+  {
+    "id": "stollen-pao-doce-alemao",
+    "titulo": "Stollen (Pão Doce Alemão)",
+    "categoria": "doce",
+    "subcategoria": "pão doce",
+    "tempo_preparo": "3 horas",
+    "rendimento": "1 pão grande",
+    "dificuldade": "difícil",
+    "indicacao_alcool": "com álcool",
+    "alergenos": ["contém glúten", "contém lactose", "contém ovos", "contém nozes"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "500g de farinha de trigo",
+          "10g de fermento biológico seco",
+          "80g de açúcar",
+          "200ml de leite morno",
+          "150g de manteiga",
+          "1 ovo",
+          "150g de frutas cristalizadas",
+          "100g de amêndoas picadas",
+          "50g de uvas passas embebidas em rum",
+          "Açúcar de confeiteiro para polvilhar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Ative o fermento com leite morno e um pouco de açúcar. Deixe descansar.",
+          "Misture a farinha, o restante do açúcar, o ovo e a manteiga. Adicione o fermento ativado.",
+          "Sove a massa e depois incorpore as frutas, amêndoas e passas. Deixe crescer por 1 hora.",
+          "Modele o pão em formato oval, dobre uma parte sobre a outra e asse a 180°C por 45 minutos.",
+          "Pincele com manteiga derretida e polvilhe generosamente com açúcar de confeiteiro."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Um pão denso e rico, tradicionalmente consumido durante o Advento na Alemanha.",
+    "foto_id": "recipe51"
+  },
+  {
+    "id": "pudim-de-leite-condensado-lisinho",
+    "titulo": "Pudim de Leite Condensado Lisinho",
+    "categoria": "doce",
+    "subcategoria": "sobremesa",
+    "tempo_preparo": "90 minutos",
+    "rendimento": "8 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Pudim e Calda",
+        "itens": [
+          "1 lata de leite condensado",
+          "A mesma medida de leite",
+          "3 ovos inteiros",
+          "1 xícara de açúcar para a calda"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Derreta o açúcar na forma de pudim em fogo baixo até virar uma calda dourada. Espalhe pela forma.",
+          "No liquidificador, bata o leite condensado, o leite e os ovos por 2 minutos.",
+          "Despeje a mistura na forma caramelizada.",
+          "Cubra com papel alumínio e asse em banho-maria em forno pré-aquecido a 180°C por cerca de 1h20min.",
+          "Deixe esfriar completamente e leve à geladeira antes de desenformar."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Para um pudim lisinho, não bata demais e asse em banho-maria.",
+    "foto_id": "recipe52"
+  },
+  {
+    "id": "tronco-de-natal-buche-de-noel",
+    "titulo": "Tronco de Natal (Bûche de Noël)",
+    "categoria": "doce",
+    "subcategoria": "bolo",
+    "tempo_preparo": "2 horas",
+    "rendimento": "10 porções",
+    "dificuldade": "difícil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Rocambole e Cobertura",
+        "itens": [
+          "4 ovos",
+          "4 colheres de sopa de açúcar",
+          "4 colheres de sopa de farinha de trigo",
+          "1 colher de chá de fermento",
+          "300g de chocolate meio amargo",
+          "1 lata de creme de leite",
+          "Açúcar de confeiteiro para decorar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Bata as claras em neve, junte as gemas e o açúcar. Incorpore a farinha e o fermento.",
+          "Asse a massa em forma retangular (30x40cm) forrada com papel manteiga a 180°C por 15 minutos.",
+          "Desenforme morno sobre um pano úmido e enrole. Reserve.",
+          "Derreta o chocolate com o creme de leite para fazer a ganache. Use metade para rechear o rocambole e a outra metade para cobrir.",
+          "Corte uma fatia da ponta na diagonal e posicione na lateral para simular um galho. Cubra tudo com ganache e faça ranhuras com um garfo para imitar a casca de uma árvore."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Decore com frutinhas vermelhas e açúcar de confeiteiro para parecer neve.",
+    "foto_id": "recipe53"
+  },
+  {
+    "id": "brigadeirao-de-natal",
+    "titulo": "Brigadeirão de Natal",
+    "categoria": "doce",
+    "subcategoria": "sobremesa",
+    "tempo_preparo": "60 minutos",
+    "rendimento": "10 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 lata de leite condensado",
+          "1 lata de creme de leite",
+          "1 xícara de chocolate em pó",
+          "4 colheres de sopa de açúcar",
+          "1 colher de sopa de manteiga",
+          "3 ovos",
+          "Chocolate granulado para decorar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Bata todos os ingredientes (exceto o granulado) no liquidificador.",
+          "Despeje em uma forma com furo central untada com manteiga e polvilhada com açúcar.",
+          "Asse em banho-maria em forno pré-aquecido a 180°C por cerca de 50 minutos.",
+          "Deixe esfriar para desenformar e cubra com chocolate granulado."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Sirva gelado. Fica delicioso acompanhado de morangos frescos.",
+    "foto_id": "recipe54"
+  },
+  {
+    "id": "figos-recheados-com-queijo-de-cabra-e-mel",
+    "titulo": "Figos Recheados com Queijo de Cabra e Mel",
+    "categoria": "doce",
+    "subcategoria": "aperitivo",
+    "tempo_preparo": "15 minutos",
+    "rendimento": "12 unidades",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose", "contém nozes"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "12 figos frescos",
+          "150g de queijo de cabra cremoso",
+          "Nozes picadas a gosto",
+          "Mel para regar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Lave os figos e faça um corte em cruz no topo, sem chegar até a base.",
+          "Abra-os delicadamente e recheie com o queijo de cabra.",
+          "Salpique as nozes picadas por cima.",
+          "Regue com um fio de mel e leve ao forno pré-aquecido a 200°C por 5-7 minutos, apenas para aquecer.",
+          "Sirva imediatamente."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Um aperitivo agridoce sofisticado, que pode ser servido como entrada ou sobremesa.",
+    "foto_id": "recipe55"
+  },
+  {
+    "id": "camafeu-de-nozes",
+    "titulo": "Camafeu de Nozes",
+    "categoria": "doce",
+    "subcategoria": "doce fino",
+    "tempo_preparo": "60 minutos",
+    "rendimento": "40 unidades",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém nozes", "contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Doce e Cobertura",
+        "itens": [
+          "1 lata de leite condensado",
+          "1 gema peneirada",
+          "1 colher de sopa de manteiga",
+          "1 xícara de nozes moídas",
+          "Fondant pronto ou calda de açúcar para banhar",
+          "Metades de nozes para decorar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma panela, misture o leite condensado, a gema e a manteiga. Leve ao fogo baixo, mexendo sempre.",
+          "Quando começar a desgrudar do fundo da panela, adicione as nozes moídas e cozinhe por mais 2 minutos.",
+          "Deixe esfriar, enrole os docinhos e banhe-os no fondant derretido.",
+          "Decore com meia noz em cima antes que o fondant seque."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Um clássico das mesas de festa, perfeito para o Natal.",
+    "foto_id": "recipe56"
+  },
+  {
+    "id": "panforte-de-siena",
+    "titulo": "Panforte de Siena",
+    "categoria": "doce",
+    "subcategoria": "torta",
+    "tempo_preparo": "45 minutos",
+    "rendimento": "1 torta",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém nozes"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "150g de amêndoas torradas",
+          "150g de avelãs torradas",
+          "100g de frutas cristalizadas",
+          "100g de farinha de trigo",
+          "1 colher de sopa de especiarias (canela, noz-moscada, cravo)",
+          "150g de mel",
+          "150g de açúcar",
+          "Açúcar de confeiteiro para polvilhar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Misture as nozes, frutas, farinha e especiarias.",
+          "Em uma panela, aqueça o mel e o açúcar até dissolver bem. Despeje sobre a mistura de ingredientes secos e mexa rapidamente.",
+          "Pressione a mistura em uma forma redonda (20cm) forrada com papel manteiga.",
+          "Asse a 150°C por 30 minutos.",
+          "Deixe esfriar e polvilhe com açúcar de confeiteiro."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Um doce italiano denso e aromático, que dura por semanas.",
+    "foto_id": "recipe57"
+  },
+  {
+    "id": "torta-de-limao-merengada",
+    "titulo": "Torta de Limão Merengada",
+    "categoria": "doce",
+    "subcategoria": "torta",
+    "tempo_preparo": "60 minutos",
+    "rendimento": "10 porções",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Base, Creme e Merengue",
+        "itens": [
+          "200g de biscoito maisena triturado",
+          "100g de manteiga derretida",
+          "1 lata de leite condensado",
+          "Suco de 4 limões",
+          "Raspas de 1 limão",
+          "3 claras",
+          "1 xícara de açúcar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Faça a base misturando o biscoito e a manteiga. Forre uma forma e asse por 10 min a 180°C.",
+          "Misture o leite condensado com o suco e as raspas de limão. Despeje sobre a base fria.",
+          "Bata as claras em neve, adicione o açúcar aos poucos e bata até formar um merengue firme.",
+          "Cubra a torta com o merengue e leve ao forno alto (220°C) por 5-10 minutos, apenas para dourar o merengue."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Leve à geladeira antes de servir. O contraste do doce com o azedo é o destaque.",
+    "foto_id": "recipe58"
+  },
+  {
+    "id": "bolo-de-reis",
+    "titulo": "Bolo de Reis",
+    "categoria": "doce",
+    "subcategoria": "bolo",
+    "tempo_preparo": "2h 30min",
+    "rendimento": "1 bolo grande",
+    "dificuldade": "médio",
+    "indicacao_alcool": "com álcool",
+    "alergenos": ["contém glúten", "contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "500g de farinha de trigo",
+          "10g de fermento de padeiro",
+          "100g de açúcar",
+          "100g de manteiga",
+          "3 ovos",
+          "100ml de leite morno",
+          "1 cálice de vinho do Porto",
+          "Frutas cristalizadas e frutas secas para decorar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Siga os passos de uma massa de pão doce: ative o fermento, misture os ingredientes, sove a massa e deixe crescer.",
+          "Incorpore frutas picadas na massa.",
+          "Modele a massa em formato de rosca, coloque em uma assadeira e deixe crescer novamente.",
+          "Pincele com gema e decore com frutas cristalizadas inteiras.",
+          "Asse a 180°C por 30-40 minutos."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Um bolo tradicional português para o Dia de Reis.",
+    "foto_id": "recipe59"
+  },
+  {
+    "id": "creme-brulee-de-baunilha",
+    "titulo": "Crème Brûlée de Baunilha",
+    "categoria": "doce",
+    "subcategoria": "sobremesa",
+    "tempo_preparo": "75 minutos",
+    "rendimento": "6 porções",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "500ml de creme de leite fresco",
+          "1 fava de baunilha (ou 1 colher de chá de extrato)",
+          "5 gemas",
+          "1/2 xícara de açúcar",
+          "Açúcar cristal para caramelizar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Aqueça o creme de leite com a fava de baunilha aberta, sem ferver. Deixe em infusão por 15 minutos.",
+          "Bata as gemas com o açúcar até clarear. Retire a fava e despeje o creme quente sobre as gemas, mexendo.",
+          "Distribua em ramequins e asse em banho-maria a 160°C por 50 minutos.",
+          "Leve para gelar por no mínimo 4 horas.",
+          "Na hora de servir, polvilhe açúcar cristal e queime com um maçarico culinário."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "A casquinha crocante quebrada na hora é a melhor parte da experiência.",
+    "foto_id": "recipe60"
+  },
+  {
+    "id": "vinho-quente-com-especiarias",
+    "titulo": "Vinho Quente com Especiarias",
+    "categoria": "bebida",
+    "subcategoria": "coquetel",
+    "tempo_preparo": "20 minutos",
+    "rendimento": "1 litro",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "com álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 garrafa de vinho tinto seco",
+          "1 laranja em rodelas",
+          "4 paus de canela",
+          "8 cravos-da-índia",
+          "1/2 xícara de açúcar",
+          "1/4 xícara de conhaque (opcional)"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma panela grande, combine todos os ingredientes, exceto o conhaque.",
+          "Leve ao fogo médio e aqueça, sem deixar ferver.",
+          "Abaixe o fogo e deixe em infusão por pelo menos 15 minutos para que os sabores se misturem.",
+          "Se for usar, adicione o conhaque no final.",
+          "Sirva quente em canecas."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Também conhecido como 'mulled wine', é perfeito para noites frias.",
+    "foto_id": "recipe61"
+  },
+  {
+    "id": "irish-coffee-natalino",
+    "titulo": "Irish Coffee Natalino",
+    "categoria": "bebida",
+    "subcategoria": "coquetel",
+    "tempo_preparo": "10 minutos",
+    "rendimento": "1 copo",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "com álcool",
+    "alergenos": ["contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "150ml de café forte e quente",
+          "50ml de uísque irlandês",
+          "2 colheres de chá de açúcar mascavo",
+          "Creme de leite fresco batido (chantilly mole)",
+          "Noz-moscada para polvilhar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Aqueça uma taça de vidro com água quente e descarte a água.",
+          "Coloque o açúcar mascavo e o uísque na taça e mexa até dissolver.",
+          "Adicione o café quente.",
+          "Com cuidado, despeje o creme batido sobre as costas de uma colher para que ele flutue sobre o café.",
+          "Polvilhe com noz-moscada ralada na hora."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Não mexa! Beba o café quente através do creme frio.",
+    "foto_id": "recipe62"
+  },
+  {
+    "id": "chocolate-quente-com-pimenta",
+    "titulo": "Chocolate Quente com Pimenta",
+    "categoria": "bebida",
+    "subcategoria": "bebida quente",
+    "tempo_preparo": "15 minutos",
+    "rendimento": "2 xícaras",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "500ml de leite",
+          "100g de chocolate amargo (70%) picado",
+          "1 colher de sopa de cacau em pó",
+          "1 pitada de pimenta caiena em pó",
+          "Açúcar a gosto"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Aqueça o leite em uma panela.",
+          "Adicione o chocolate picado e o cacau em pó, mexendo com um fouet até dissolver completamente.",
+          "Adicione a pitada de pimenta caiena e açúcar a gosto.",
+          "Continue aquecendo e mexendo até obter a consistência desejada.",
+          "Sirva imediatamente."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "A pimenta realça o sabor do chocolate e aquece o corpo.",
+    "foto_id": "recipe63"
+  },
+  {
+    "id": "grogue-de-natal",
+    "titulo": "Grogue de Natal",
+    "categoria": "bebida",
+    "subcategoria": "coquetel",
+    "tempo_preparo": "15 minutos",
+    "rendimento": "4 copos",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "com álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "200ml de rum escuro",
+          "600ml de água quente",
+          "Suco de 1 limão",
+          "4 colheres de sopa de mel ou açúcar mascavo",
+          "Especiarias a gosto (canela em pau, cravo, anis estrelado)"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma panela, aqueça a água com as especiarias, sem deixar ferver.",
+          "Em 4 canecas resistentes ao calor, divida o rum, o suco de limão e o mel.",
+          "Coe a água quente com as especiarias e despeje sobre a mistura nas canecas.",
+          "Mexa bem para dissolver o mel.",
+          "Sirva quente."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Decore com uma rodela de limão e um pau de canela.",
+    "foto_id": "recipe64"
+  },
+  {
+    "id": "cafe-bombom-festivo",
+    "titulo": "Café Bombom Festivo",
+    "categoria": "bebida",
+    "subcategoria": "café",
+    "tempo_preparo": "5 minutos",
+    "rendimento": "1 copo",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "2 colheres de sopa de leite condensado",
+          "1 dose de café expresso quente (cerca de 50ml)",
+          "Espuma de leite (opcional)"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em um copo de vidro pequeno, coloque o leite condensado no fundo.",
+          "Com cuidado, despeje o café expresso quente sobre o leite condensado, inclinando o copo para criar camadas distintas.",
+          "Se desejar, cubra com uma camada de espuma de leite.",
+          "Sirva imediatamente, para que a pessoa possa misturar na hora de beber."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "O visual das camadas é o charme desta bebida. Use um copo transparente.",
+    "foto_id": "recipe65"
+  },
+  {
+    "id": "cidra-de-maca-quente-com-especiarias",
+    "titulo": "Cidra de Maçã Quente com Especiarias",
+    "categoria": "bebida",
+    "subcategoria": "bebida quente",
+    "tempo_preparo": "20 minutos",
+    "rendimento": "1 litro",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 litro de suco de maçã integral",
+          "2 paus de canela",
+          "4 cravos-da-índia",
+          "1 anis estrelado",
+          "Rodelas de laranja"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma panela, coloque o suco de maçã, as especiarias e as rodelas de laranja.",
+          "Aqueça em fogo baixo por cerca de 15 a 20 minutos, sem deixar ferver.",
+          "Deixe os sabores se misturarem.",
+          "Coe e sirva em canecas."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Para uma versão alcoólica, adicione uma dose de bourbon ou rum em cada caneca.",
+    "foto_id": "recipe66"
+  },
+  {
+    "id": "spritz-de-inverno-com-cranberry",
+    "titulo": "Spritz de Inverno com Cranberry",
+    "categoria": "bebida",
+    "subcategoria": "coquetel",
+    "tempo_preparo": "5 minutos",
+    "rendimento": "1 copo",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "com álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "90ml de Prosecco ou espumante brut",
+          "60ml de Aperol ou Campari",
+          "30ml de suco de cranberry",
+          "Água com gás para completar",
+          "Ramo de alecrim e cranberries frescas para decorar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Encha uma taça de vinho com gelo.",
+          "Adicione o Aperol (ou Campari) e o suco de cranberry.",
+          "Complete com o Prosecco e um splash de água com gás.",
+          "Mexa suavemente e decore com um ramo de alecrim e algumas cranberries frescas."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Uma variação festiva e colorida do clássico spritz.",
+    "foto_id": "recipe67"
+  },
+  {
+    "id": "limonada-suica-com-hortela",
+    "titulo": "Limonada Suíça com Hortelã",
+    "categoria": "bebida",
+    "subcategoria": "suco",
+    "tempo_preparo": "10 minutos",
+    "rendimento": "1 litro",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "2 limões Tahiti com casca, bem lavados",
+          "1 litro de água gelada",
+          "Açúcar ou adoçante a gosto",
+          "Folhas de hortelã fresca a gosto",
+          "Gelo"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Corte as pontas dos limões e parta-os em quatro partes.",
+          "No liquidificador, bata os limões (com casca e tudo) com a água e a hortelã.",
+          "Bata rapidamente (cerca de 20 segundos) para não amargar.",
+          "Coe a mistura em uma peneira fina, pressionando bem.",
+          "Adoce a gosto e sirva imediatamente com muito gelo."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "O segredo é bater rápido e coar bem para evitar o amargor da casca.",
+    "foto_id": "recipe68"
+  },
+  {
+    "id": "batida-de-coco",
+    "titulo": "Batida de Coco",
+    "categoria": "bebida",
+    "subcategoria": "coquetel",
+    "tempo_preparo": "5 minutos",
+    "rendimento": "4 copos",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "com álcool",
+    "alergenos": ["contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 lata de leite condensado",
+          "A mesma medida de cachaça ou vodka",
+          "200ml de leite de coco",
+          "Gelo a gosto"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "No liquidificador, bata todos os ingredientes até a mistura ficar homogênea e cremosa.",
+          "Sirva em copos com gelo."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Pode ser decorada com coco ralado queimado por cima.",
+    "foto_id": "recipe69"
+  },
+  {
+    "id": " Moscow-mule-de-gengibre",
+    "titulo": "Moscow Mule de Gengibre",
+    "categoria": "bebida",
+    "subcategoria": "coquetel",
+    "tempo_preparo": "5 minutos",
+    "rendimento": "1 copo",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "com álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "60ml de vodka",
+          "30ml de suco de limão fresco",
+          "120ml de ginger beer (refrigerante de gengibre)",
+          "Espuma de gengibre para cobrir",
+          "1 rodela de limão para decorar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Encha uma caneca de cobre com gelo.",
+          "Adicione a vodka e o suco de limão.",
+          "Complete com a ginger beer.",
+          "Cubra com a espuma de gengibre.",
+          "Decore com uma rodela de limão e sirva."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "A caneca de cobre é tradicional e ajuda a manter a bebida gelada.",
+    "foto_id": "recipe70"
+  },
+  {
+    "id": "panna-cotta-com-calda-de-damasco",
+    "titulo": "Panna Cotta com Calda de Damasco",
+    "categoria": "doce",
+    "subcategoria": "sobremesa",
+    "tempo_preparo": "20 minutos + geladeira",
+    "rendimento": "6 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "500ml de creme de leite fresco",
+          "1/2 xícara de açúcar",
+          "1 colher de chá de extrato de baunilha",
+          "1 envelope de gelatina em pó sem sabor",
+          "1 xícara de damascos secos picados",
+          "1/2 xícara de suco de laranja"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Hidrate a gelatina em 3 colheres de sopa de água fria.",
+          "Aqueça o creme de leite com o açúcar e a baunilha, sem ferver. Dissolva a gelatina hidratada no creme quente.",
+          "Distribua em forminhas individuais ou taças e leve à geladeira por 4 horas.",
+          "Para a calda, cozinhe os damascos com o suco de laranja até amolecerem e formarem uma calda.",
+          "Sirva a panna cotta com a calda fria por cima."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Uma sobremesa elegante e de textura aveludada.",
+    "foto_id": "recipe71"
+  },
+  {
+    "id": "palha-italiana-de-chocotone",
+    "titulo": "Palha Italiana de Chocotone",
+    "categoria": "doce",
+    "subcategoria": "doce",
+    "tempo_preparo": "20 minutos + geladeira",
+    "rendimento": "16 pedaços",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 lata de leite condensado",
+          "3 colheres de sopa de chocolate em pó",
+          "1 colher de sopa de manteiga",
+          "1 xícara de chocotone picado em cubos",
+          "Açúcar de confeiteiro para polvilhar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Faça um brigadeiro com o leite condensado, chocolate em pó e manteiga, mexendo até desgrudar do fundo da panela.",
+          "Desligue o fogo e misture os cubos de chocotone.",
+          "Despeje em um refratário pequeno untado com manteiga e alise a superfície.",
+          "Leve à geladeira por 2 horas.",
+          "Corte em quadrados e passe no açúcar de confeiteiro."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Uma forma criativa de aproveitar as sobras de chocotone.",
+    "foto_id": "recipe72"
+  },
+  {
+    "id": "tiramisu-de-natal",
+    "titulo": "Tiramisù de Natal",
+    "categoria": "doce",
+    "subcategoria": "sobremesa",
+    "tempo_preparo": "30 minutos + geladeira",
+    "rendimento": "8 porções",
+    "dificuldade": "médio",
+    "indicacao_alcool": "com álcool",
+    "alergenos": ["contém glúten", "contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "500g de queijo mascarpone",
+          "4 ovos (gemas e claras separadas)",
+          "1/2 xícara de açúcar",
+          "1 pacote de biscoito champanhe",
+          "1 xícara de café forte frio",
+          "2 colheres de sopa de licor de café ou rum",
+          "Cacau em pó para polvilhar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Bata as gemas com o açúcar até formar um creme claro. Adicione o mascarpone e misture bem.",
+          "Bata as claras em neve e incorpore delicadamente ao creme de mascarpone.",
+          "Misture o café com o licor. Umedeça rapidamente os biscoitos e faça uma camada em um refratário.",
+          "Cubra com uma camada de creme. Repita as camadas, terminando com creme.",
+          "Leve à geladeira por no mínimo 6 horas. Polvilhe com cacau em pó antes de servir."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "O segredo é umedecer os biscoitos rapidamente para não desmancharem.",
+    "foto_id": "recipe73"
+  },
+  {
+    "id": "merengue-de-morangos",
+    "titulo": "Merengue de Morangos",
+    "categoria": "doce",
+    "subcategoria": "sobremesa",
+    "tempo_preparo": "30 minutos",
+    "rendimento": "8 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "2 caixas de morangos frescos, limpos e picados",
+          "500ml de creme de leite fresco gelado",
+          "4 colheres de sopa de açúcar",
+          "200g de suspiros prontos"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Bata o creme de leite com o açúcar na batedeira até ponto de chantilly firme.",
+          "Em uma taça grande ou em taças individuais, monte camadas alternadas de chantilly, suspiros quebrados e morangos picados.",
+          "Comece com chantilly e termine com morangos para decorar.",
+          "Leve à geladeira por 1 hora antes de servir."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Monte na hora de servir para que os suspiros permaneçam crocantes.",
+    "foto_id": "recipe74"
+  },
+  {
+    "id": "sorvete-caseiro-de-flocos",
+    "titulo": "Sorvete Caseiro de Flocos",
+    "categoria": "doce",
+    "subcategoria": "sorvete",
+    "tempo_preparo": "20 minutos + congelador",
+    "rendimento": "1.5 litro",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 lata de leite condensado",
+          "1 lata de creme de leite",
+          "A mesma medida da lata de leite",
+          "1 colher de chá de emulsificante para sorvete",
+          "100g de chocolate meio amargo picado"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Bata no liquidificador o leite condensado, o creme de leite e o leite.",
+          "Transfira para a batedeira, adicione o emulsificante e bata por 10 minutos, até dobrar de volume.",
+          "Incorpore o chocolate picado.",
+          "Leve ao congelador em um pote com tampa por pelo menos 6 horas."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Uma sobremesa refrescante para equilibrar a ceia.",
+    "foto_id": "recipe75"
+  },
+  {
+    "id": "alfajor-de-doce-de-leite",
+    "titulo": "Alfajor de Doce de Leite",
+    "categoria": "doce",
+    "subcategoria": "biscoito",
+    "tempo_preparo": "60 minutos",
+    "rendimento": "20 alfajores",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Massa e Recheio",
+        "itens": [
+          "200g de amido de milho",
+          "150g de farinha de trigo",
+          "100g de açúcar",
+          "150g de manteiga",
+          "2 gemas",
+          "Doce de leite para rechear",
+          "Chocolate derretido para banhar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Misture os ingredientes secos. Adicione a manteiga e as gemas, amassando até formar uma massa homogênea.",
+          "Abra a massa e corte círculos. Asse a 180°C por 10-12 minutos, sem deixar dourar muito.",
+          "Depois de frios, una dois biscoitos com uma camada generosa de doce de leite.",
+          "Banhe os alfajores no chocolate derretido e deixe secar sobre papel manteiga."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Embale individualmente para presentear.",
+    "foto_id": "recipe76"
+  },
+  {
+    "id": "pudim-de-pao-natalino",
+    "titulo": "Pudim de Pão Natalino",
+    "categoria": "doce",
+    "subcategoria": "sobremesa",
+    "tempo_preparo": "70 minutos",
+    "rendimento": "8 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "4 pães franceses amanhecidos",
+          "500ml de leite",
+          "1 lata de leite condensado",
+          "3 ovos",
+          "1/2 xícara de frutas cristalizadas e passas",
+          "Calda de caramelo"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Pique o pão e umedeça com o leite. Deixe descansar por 15 minutos.",
+          "Bata no liquidificador com o leite condensado e os ovos.",
+          "Misture as frutas cristalizadas e as passas.",
+          "Despeje em uma forma caramelizada e asse em banho-maria a 180°C por 50 minutos.",
+          "Deixe esfriar para desenformar."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Uma ótima forma de reaproveitar o pão do dia anterior.",
+    "foto_id": "recipe77"
+  },
+  {
+    "id": "torta-de-macas-com-crumble",
+    "titulo": "Torta de Maçãs com Crumble",
+    "categoria": "doce",
+    "subcategoria": "torta",
+    "tempo_preparo": "90 minutos",
+    "rendimento": "8 fatias",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Torta e Crumble",
+        "itens": [
+          "1 massa de torta pronta",
+          "4 maçãs fatiadas",
+          "Suco de 1/2 limão",
+          "1/2 xícara de açúcar",
+          "1 colher de chá de canela",
+          "1 xícara de farinha de trigo",
+          "1/2 xícara de açúcar mascavo",
+          "100g de manteiga gelada em cubos"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Forre uma forma com a massa. Misture as maçãs com o limão, açúcar e canela, e espalhe sobre a massa.",
+          "Para o crumble, misture com a ponta dos dedos a farinha, o açúcar mascavo e a manteiga até formar uma farofa grossa.",
+          "Cubra as maçãs com o crumble.",
+          "Asse a 180°C por 50-60 minutos, até dourar."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Sirva quente com uma bola de sorvete de creme.",
+    "foto_id": "recipe78"
+  },
+  {
+    "id": "doce-de-abobora-com-coco",
+    "titulo": "Doce de Abóbora com Coco",
+    "categoria": "doce",
+    "subcategoria": "doce de compota",
+    "tempo_preparo": "60 minutos",
+    "rendimento": "1 pote grande",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1kg de abóbora de pescoço em cubos",
+          "500g de açúcar",
+          "100g de coco ralado",
+          "Cravos-da-índia a gosto"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma panela, coloque a abóbora, o açúcar e os cravos.",
+          "Cozinhe em fogo baixo, mexendo ocasionalmente, até a abóbora desmanchar e o doce engrossar.",
+          "Adicione o coco ralado e cozinhe por mais 10 minutos.",
+          "Deixe esfriar e guarde em compota."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Sirva com queijo branco fresco para um contraste de sabores.",
+    "foto_id": "recipe79"
+  },
+  {
+    "id": "cupcakes-red-velvet-com-frosting",
+    "titulo": "Cupcakes Red Velvet com Frosting",
+    "categoria": "doce",
+    "subcategoria": "cupcake",
+    "tempo_preparo": "50 minutos",
+    "rendimento": "12 cupcakes",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Massa e Cobertura",
+        "itens": [
+          "1 e 1/4 xícara de farinha de trigo",
+          "1 colher de sopa de cacau em pó",
+          "1/2 colher de chá de bicarbonato",
+          "1 ovo",
+          "3/4 xícara de açúcar",
+          "1/2 xícara de óleo",
+          "1/2 xícara de buttermilk (leite com 1 col. de sopa de vinagre)",
+          "Corante alimentício vermelho",
+          "200g de cream cheese",
+          "1/2 xícara de açúcar de confeiteiro"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Misture os ingredientes secos. Bata o ovo, açúcar e óleo. Alterne a adição dos secos com o buttermilk. Adicione o corante.",
+          "Distribua em forminhas de cupcake e asse a 180°C por 20 minutos.",
+          "Para o frosting, bata o cream cheese com o açúcar de confeiteiro.",
+          "Decore os cupcakes frios com o frosting."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "A cor vermelha vibrante é perfeita para a decoração de Natal.",
+    "foto_id": "recipe80"
+  },
+  {
+    "id": "caipirinha-de-frutas-vermelhas",
+    "titulo": "Caipirinha de Frutas Vermelhas",
+    "categoria": "bebida",
+    "subcategoria": "coquetel",
+    "tempo_preparo": "5 minutos",
+    "rendimento": "1 copo",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "com álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1/2 xícara de frutas vermelhas (morango, amora, framboesa)",
+          "2 colheres de sopa de açúcar",
+          "50ml de cachaça, vodka ou saquê",
+          "Gelo"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em um copo, macere as frutas vermelhas com o açúcar.",
+          "Adicione a bebida alcoólica de sua preferência.",
+          "Complete o copo com gelo picado e mexa bem.",
+          "Sirva imediatamente."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Use frutas frescas para um sabor mais intenso.",
+    "foto_id": "recipe81"
+  },
+  {
+    "id": "cafe-gelado-com-caramelo",
+    "titulo": "Café Gelado com Caramelo",
+    "categoria": "bebida",
+    "subcategoria": "café",
+    "tempo_preparo": "10 minutos",
+    "rendimento": "1 copo",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "200ml de café forte frio",
+          "100ml de leite",
+          "Calda de caramelo a gosto",
+          "Gelo",
+          "Chantilly para decorar (opcional)"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Decore as paredes internas de um copo alto com a calda de caramelo.",
+          "Encha o copo com gelo.",
+          "Misture o café frio com o leite e despeje no copo.",
+          "Se desejar, cubra com chantilly e mais calda de caramelo."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Uma bebida refrescante e indulgente para os amantes de café.",
+    "foto_id": "recipe82"
+  },
+  {
+    "id": "bellini-de-pessego",
+    "titulo": "Bellini de Pêssego",
+    "categoria": "bebida",
+    "subcategoria": "coquetel",
+    "tempo_preparo": "5 minutos",
+    "rendimento": "1 taça",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "com álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 parte de purê de pêssego branco (suco concentrado)",
+          "2 partes de Prosecco bem gelado"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma taça flute, coloque o purê de pêssego.",
+          "Complete lentamente com o Prosecco para não perder o gás.",
+          "Mexa delicadamente com uma colher bailarina.",
+          "Sirva imediatamente."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Um coquetel clássico italiano, elegante e refrescante.",
+    "foto_id": "recipe83"
+  },
+  {
+    "id": "agua-aromatizada-com-pepino-e-hortela",
+    "titulo": "Água Aromatizada com Pepino e Hortelã",
+    "categoria": "bebida",
+    "subcategoria": "água saborizada",
+    "tempo_preparo": "5 minutos + infusão",
+    "rendimento": "1 litro",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 litro de água filtrada",
+          "1/2 pepino fatiado finamente",
+          "Ramos de hortelã fresca",
+          "Rodelas de limão (opcional)"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma jarra, coloque a água, as fatias de pepino e os ramos de hortelã.",
+          "Se usar, adicione as rodelas de limão.",
+          "Leve à geladeira por pelo menos 1 hora para os sabores se misturarem.",
+          "Sirva gelada."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Uma bebida extremamente refrescante e hidratante para os dias de festa.",
+    "foto_id": "recipe84"
+  },
+  {
+    "id": "mimosa-de-laranja",
+    "titulo": "Mimosa de Laranja",
+    "categoria": "bebida",
+    "subcategoria": "coquetel",
+    "tempo_preparo": "5 minutos",
+    "rendimento": "1 taça",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "com álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "75ml de suco de laranja fresco e coado",
+          "75ml de espumante brut bem gelado"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma taça flute, despeje o suco de laranja.",
+          "Incline a taça e complete lentamente com o espumante para preservar as bolhas.",
+          "Não é necessário mexer."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "O coquetel perfeito para um brunch ou celebração matinal.",
+    "foto_id": "recipe85"
+  },
+  {
+    "id": "smoothie-de-manga-com-gengibre",
+    "titulo": "Smoothie de Manga com Gengibre",
+    "categoria": "bebida",
+    "subcategoria": "smoothie",
+    "tempo_preparo": "5 minutos",
+    "rendimento": "2 copos",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose (se usar iogurte)"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 manga madura em cubos, congelada",
+          "1 pedaço pequeno de gengibre fresco",
+          "200ml de iogurte natural ou água de coco",
+          "Mel a gosto (opcional)"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Coloque todos os ingredientes no liquidificador.",
+          "Bata até obter uma mistura cremosa e homogênea.",
+          "Sirva imediatamente."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Congelar a manga antes garante um smoothie mais cremoso e gelado sem precisar de gelo.",
+    "foto_id": "recipe86"
+  },
+  {
+    "id": "choconhaque",
+    "titulo": "Choconhaque",
+    "categoria": "bebida",
+    "subcategoria": "coquetel",
+    "tempo_preparo": "10 minutos",
+    "rendimento": "1 caneca",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "com álcool",
+    "alergenos": ["contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "200ml de leite",
+          "2 colheres de sopa de chocolate em pó",
+          "1 colher de sopa de açúcar",
+          "50ml de conhaque"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Aqueça o leite com o chocolate em pó e o açúcar, mexendo bem para dissolver.",
+          "Quando estiver quente, mas sem ferver, retire do fogo.",
+          "Despeje em uma caneca e adicione o conhaque.",
+          "Mexa bem e sirva."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Uma bebida quente e reconfortante com um toque alcoólico.",
+    "foto_id": "recipe87"
+  },
+  {
+    "id": "frozen-de-abacaxi-com-hortela",
+    "titulo": "Frozen de Abacaxi com Hortelã",
+    "categoria": "bebida",
+    "subcategoria": "mocktail",
+    "tempo_preparo": "5 minutos",
+    "rendimento": "2 copos",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "2 xícaras de abacaxi em cubos congelado",
+          "Folhas de hortelã a gosto",
+          "1/2 xícara de água ou água de coco",
+          "Açúcar ou adoçante a gosto"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Bata todos os ingredientes no liquidificador até atingir uma consistência de raspadinha.",
+          "Sirva imediatamente."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Para uma versão alcoólica, adicione uma dose de rum ou vodka.",
+    "foto_id": "recipe88"
+  },
+  {
+    "id": "espresso-tonica",
+    "titulo": "Espresso Tônica",
+    "categoria": "bebida",
+    "subcategoria": "café",
+    "tempo_preparo": "5 minutos",
+    "rendimento": "1 copo",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 lata de água tônica",
+          "1 dose de café espresso (cerca de 50ml)",
+          "1 rodela de laranja ou limão siciliano",
+          "Gelo"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Encha um copo alto com gelo.",
+          "Adicione a rodela de laranja ou limão.",
+          "Despeje a água tônica até cerca de 3/4 do copo.",
+          "Extraia o café espresso e despeje-o lentamente sobre a tônica."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Uma bebida surpreendentemente refrescante e complexa.",
+    "foto_id": "recipe89"
+  },
+  {
+    "id": "licor-cremoso-de-chocolate",
+    "titulo": "Licor Cremoso de Chocolate",
+    "categoria": "bebida",
+    "subcategoria": "licor",
+    "tempo_preparo": "20 minutos + descanso",
+    "rendimento": "750 ml",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "com álcool",
+    "alergenos": ["contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 lata de leite condensado",
+          "1 lata de creme de leite",
+          "1/2 xícara de chocolate em pó",
+          "500ml de cachaça ou vodka",
+          "1 xícara de água"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma panela, misture o leite condensado, o creme de leite, o chocolate em pó e a água.",
+          "Leve ao fogo baixo, mexendo sempre, até a mistura ficar homogênea e levemente encorpada. Não deixe ferver.",
+          "Deixe esfriar completamente.",
+          "Adicione a cachaça (ou vodka) e misture bem.",
+          "Coe para uma garrafa, tampe e guarde na geladeira."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Fica mais saboroso após alguns dias de descanso na geladeira. Sirva gelado.",
+    "foto_id": "recipe90"
+  },
+  {
+    "id": "farofa-de-banana-da-terra",
+    "titulo": "Farofa de Banana-da-terra",
+    "categoria": "salgada",
+    "subcategoria": "acompanhamento",
+    "tempo_preparo": "20 minutos",
+    "rendimento": "6 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "2 bananas-da-terra maduras, em rodelas",
+          "1 cebola roxa fatiada",
+          "3 colheres de sopa de manteiga",
+          "2 xícaras de farinha de mandioca flocada",
+          "Cheiro-verde picado a gosto",
+          "Sal"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma frigideira, derreta a manteiga e doure as rodelas de banana dos dois lados. Reserve.",
+          "Na mesma frigideira, refogue a cebola roxa até ficar macia.",
+          "Adicione a farinha e torre por alguns minutos, mexendo sempre.",
+          "Volte as bananas para a frigideira, adicione o cheiro-verde e o sal. Misture delicadamente.",
+          "Sirva a seguir."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Um toque agridoce delicioso para acompanhar carnes e peixes.",
+    "foto_id": "recipe91"
+  },
+  {
+    "id": "salada-de-folhas-com-peras-e-nozes",
+    "titulo": "Salada de Folhas com Pêras e Nozes",
+    "categoria": "salgada",
+    "subcategoria": "salada",
+    "tempo_preparo": "15 minutos",
+    "rendimento": "4 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém nozes", "contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "Mix de folhas verdes (alface romana, rúcula, agrião)",
+          "2 peras maduras, mas firmes, fatiadas",
+          "1/2 xícara de nozes torradas",
+          "100g de queijo gorgonzola em pedaços",
+          "Azeite, vinagre balsâmico, mel e sal para o molho"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Disponha as folhas verdes em uma saladeira.",
+          "Arrume as fatias de pêra, as nozes e o queijo gorgonzola sobre as folhas.",
+          "Prepare o molho misturando 3 partes de azeite para 1 de vinagre, um fio de mel e sal.",
+          "Regue a salada com o molho na hora de servir."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Uma salada sofisticada e cheia de contrastes de sabores e texturas.",
+    "foto_id": "recipe92"
+  },
+  {
+    "id": "maionese-de-batata-com-ovo",
+    "titulo": "Maionese de Batata com Ovo",
+    "categoria": "salgada",
+    "subcategoria": "acompanhamento",
+    "tempo_preparo": "40 minutos",
+    "rendimento": "8 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1kg de batatas cozidas e em cubos",
+          "4 ovos cozidos e picados",
+          "1/2 cebola picada finamente",
+          "Cheiro-verde picado a gosto",
+          "Maionese até dar o ponto",
+          "Sal e pimenta do reino"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Cozinhe as batatas e os ovos. Deixe esfriar.",
+          "Em uma tigela grande, misture delicadamente as batatas em cubos, os ovos picados, a cebola e o cheiro-verde.",
+          "Adicione a maionese aos poucos, até atingir a cremosidade desejada.",
+          "Tempere com sal e pimenta a gosto.",
+          "Leve à geladeira antes de servir."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Pode adicionar outros ingredientes como cenoura, vagem ou milho.",
+    "foto_id": "recipe93"
+  },
+  {
+    "id": "risoto-de-cogumelos-funghi",
+    "titulo": "Risoto de Cogumelos Funghi",
+    "categoria": "salgada",
+    "subcategoria": "prato principal",
+    "tempo_preparo": "40 minutos",
+    "rendimento": "4 porções",
+    "dificuldade": "médio",
+    "indicacao_alcool": "com álcool",
+    "alergenos": ["contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "30g de cogumelos funghi secchi",
+          "1.5 litro de caldo de legumes quente",
+          "1 cebola picada",
+          "2 xícaras de arroz arbóreo",
+          "1/2 xícara de vinho branco seco",
+          "Queijo parmesão ralado",
+          "Manteiga e azeite"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Hidrate os cogumelos em água quente. Pique-os e coe a água para usar no caldo.",
+          "Refogue a cebola na manteiga e azeite. Adicione o arroz e frite um pouco. Junte o vinho e deixe evaporar.",
+          "Adicione os cogumelos picados. Vá adicionando o caldo quente (com a água do funghi) aos poucos, mexendo sempre, até o arroz ficar 'al dente'.",
+          "Finalize com queijo parmesão e uma colher de manteiga (mantecatura).",
+          "Sirva imediatamente."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Um prato vegetariano elegante e cheio de sabor umami.",
+    "foto_id": "recipe94"
+  },
+  {
+    "id": "creme-de-espinafre-para-recheio",
+    "titulo": "Creme de Espinafre para Recheio",
+    "categoria": "salgada",
+    "subcategoria": "molho",
+    "tempo_preparo": "20 minutos",
+    "rendimento": "2 xícaras",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 maço de espinafre cozido, espremido e picado",
+          "1 dente de alho picado",
+          "1 colher de sopa de manteiga",
+          "2 colheres de sopa de farinha de trigo",
+          "1 xícara de leite",
+          "Noz-moscada, sal e pimenta"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Derreta a manteiga e doure o alho. Adicione o espinafre e refogue.",
+          "Polvilhe a farinha de trigo e mexa bem.",
+          "Aos poucos, adicione o leite, mexendo sem parar para não empelotar, até formar um creme.",
+          "Tempere com noz-moscada, sal e pimenta.",
+          "Use para rechear tortas, panquecas ou como acompanhamento."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Fica ótimo como recheio de rondelli ou cannelloni.",
+    "foto_id": "recipe95"
+  },
+  {
+    "id": "broa-de-fuba-natalina",
+    "titulo": "Broa de Fubá Natalina",
+    "categoria": "doce",
+    "subcategoria": "bolo",
+    "tempo_preparo": "50 minutos",
+    "rendimento": "1 broa grande",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "2 xícaras de fubá",
+          "1 xícara de farinha de trigo",
+          "1 xícara de açúcar",
+          "1 colher de sopa de fermento em pó",
+          "1 colher de chá de erva-doce",
+          "3 ovos",
+          "1 xícara de leite",
+          "1/2 xícara de óleo"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Misture todos os ingredientes secos em uma tigela.",
+          "Em outra tigela, misture os ovos, o leite e o óleo.",
+          "Junte os líquidos aos secos, misturando bem até obter uma massa homogênea.",
+          "Despeje em uma forma de bolo com furo central, untada e enfarinhada.",
+          "Asse em forno pré-aquecido a 180°C por cerca de 40 minutos."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Perfeita para o café da tarde durante as festas.",
+    "foto_id": "recipe96"
+  },
+  {
+    "id": "casadinho-de-goiabada",
+    "titulo": "Casadinho de Goiabada",
+    "categoria": "doce",
+    "subcategoria": "biscoito",
+    "tempo_preparo": "45 minutos",
+    "rendimento": "30 biscoitos",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "300g de amido de milho",
+          "100g de farinha de trigo",
+          "100g de açúcar de confeiteiro",
+          "200g de manteiga em temperatura ambiente",
+          "Goiabada cremosa para rechear",
+          "Açúcar de confeiteiro para polvilhar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Amasse todos os ingredientes da massa (exceto a goiabada) até obter uma mistura que não grude nas mãos.",
+          "Faça pequenas bolinhas e achate-as levemente. Faça uma pequena cavidade no centro de metade delas.",
+          "Asse em forno a 180°C por 15 minutos, sem deixar dourar.",
+          "Após esfriar, una um biscoito liso com um biscoito com cavidade, usando goiabada como recheio.",
+          "Polvilhe com açúcar de confeiteiro."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "A massa que derrete na boca é o segredo deste doce.",
+    "foto_id": "recipe97"
+  },
+  {
+    "id": "bolo-gelado-de-coco-embrulhado",
+    "titulo": "Bolo Gelado de Coco Embrulhado",
+    "categoria": "doce",
+    "subcategoria": "bolo",
+    "tempo_preparo": "60 minutos + geladeira",
+    "rendimento": "20 pedaços",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Bolo e Calda",
+        "itens": [
+          "4 ovos",
+          "2 xícaras de açúcar",
+          "2 xícaras de farinha de trigo",
+          "1 xícara de leite quente",
+          "1 colher de sopa de fermento",
+          "1 lata de leite condensado",
+          "200ml de leite de coco",
+          "Coco ralado para passar os pedaços"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Bata os ovos com o açúcar até dobrar de volume. Alterne a adição da farinha e do leite quente. Por último, adicione o fermento.",
+          "Asse em forma retangular a 180°C por 30 minutos.",
+          "Deixe o bolo amornar e corte em quadrados.",
+          "Misture o leite condensado com o leite de coco para fazer a calda.",
+          "Passe cada pedaço de bolo na calda e depois no coco ralado.",
+          "Embrulhe em papel alumínio e leve à geladeira por pelo menos 4 horas."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Uma receita clássica que remete à infância.",
+    "foto_id": "recipe98"
+  },
+  {
+    "id": "brownie-de-chocolate-com-nozes",
+    "titulo": "Brownie de Chocolate com Nozes",
+    "categoria": "doce",
+    "subcategoria": "bolo",
+    "tempo_preparo": "45 minutos",
+    "rendimento": "16 pedaços",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose", "contém ovos", "contém nozes"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "200g de chocolate meio amargo",
+          "100g de manteiga",
+          "1 xícara de açúcar",
+          "3 ovos",
+          "1 xícara de farinha de trigo",
+          "1/2 xícara de nozes picadas"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Derreta o chocolate com a manteiga.",
+          "Em outra tigela, bata os ovos com o açúcar. Adicione a mistura de chocolate.",
+          "Incorpore a farinha de trigo e, por último, as nozes.",
+          "Despeje em uma forma quadrada (20x20cm) untada e forrada com papel manteiga.",
+          "Asse a 180°C por 25-30 minutos. O centro deve ficar úmido."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Sirva com sorvete de baunilha e calda de chocolate.",
+    "foto_id": "recipe99"
+  },
+  {
+    "id": "sagu-de-vinho-com-creme-ingles",
+    "titulo": "Sagu de Vinho com Creme Inglês",
+    "categoria": "doce",
+    "subcategoria": "sobremesa",
+    "tempo_preparo": "40 minutos + hidratação",
+    "rendimento": "8 porções",
+    "dificuldade": "médio",
+    "indicacao_alcool": "com álcool",
+    "alergenos": ["contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Sagu e Creme",
+        "itens": [
+          "1 xícara de sagu",
+          "1 litro de vinho tinto suave",
+          "1 xícara de açúcar",
+          "Canela e cravo a gosto",
+          "Creme inglês pronto ou caseiro para servir"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Deixe o sagu de molho em água por 1 hora. Escorra.",
+          "Em uma panela, ferva o vinho com o açúcar e as especiarias.",
+          "Adicione o sagu e cozinhe em fogo baixo, mexendo, até as bolinhas ficarem transparentes.",
+          "Deixe esfriar e leve à geladeira.",
+          "Sirva o sagu gelado com creme inglês por cima."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Uma sobremesa tradicional do sul do Brasil, com um lindo contraste de cores.",
+    "foto_id": "recipe100"
   }
-],
-"repeated": [
-    {
-      "count": 35,
-      "base_id_prefix": "salgada-extra-",
-      "base_title_prefix": "Prato Salgado Especial ",
-      "categoria": "salgada"
-    },
-    {
-      "count": 20,
-      "base_id_prefix": "doce-extra-",
-      "base_title_prefix": "Sobremesa Festiva ",
-      "categoria": "doce"
-    },
-    {
-      "count": 5,
-      "base_id_prefix": "bebida-extra-",
-      "base_title_prefix": "Bebida de Natal ",
-      "categoria": "bebida"
-    }
-  ]
-}
+]
