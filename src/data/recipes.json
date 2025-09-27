@@ -1,0 +1,617 @@
+[
+  {
+    "id": "peru-de-natal-classico",
+    "titulo": "Peru de Natal Clássico",
+    "categoria": "salgada",
+    "subcategoria": "prato principal",
+    "tempo_preparo": "4 horas",
+    "rendimento": "10 porções",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Peru e Marinada",
+        "itens": [
+          "1 peru de aproximadamente 4kg",
+          "2 xícaras de suco de laranja",
+          "1 xícara de vinho branco seco",
+          "4 dentes de alho amassados",
+          "Sal e pimenta do reino a gosto",
+          "Ervas frescas (alecrim, tomilho)"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma tigela grande, misture os ingredientes da marinada.",
+          "Coloque o peru em um saco grande ou refratário e regue com a marinada, garantindo que cubra toda a ave. Deixe marinar na geladeira por pelo menos 12 horas.",
+          "Pré-aqueça o forno a 180°C.",
+          "Transfira o peru para uma assadeira, regue com a marinada e cubra com papel alumínio.",
+          "Asse por cerca de 3 horas. Retire o papel alumínio e asse por mais 1 hora ou até dourar."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Sirva decorado com frutas frescas como uvas e figos.",
+    "foto_id": "recipe1"
+  },
+  {
+    "id": "bacalhau-a-gomes-de-sa-festivo",
+    "titulo": "Bacalhau à Gomes de Sá Festivo",
+    "categoria": "salgada",
+    "subcategoria": "prato principal",
+    "tempo_preparo": "90 minutos",
+    "rendimento": "6 porções",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém peixe", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes Principais",
+        "itens": [
+          "1kg de bacalhau dessalgado e em lascas",
+          "1kg de batatas cozidas em rodelas",
+          "4 ovos cozidos em rodelas",
+          "2 cebolas grandes em rodelas",
+          "Azeitonas pretas a gosto",
+          "Azeite de oliva extra virgem a gosto"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Refogue as cebolas no azeite até ficarem macias.",
+          "Em um refratário, monte camadas de batata, bacalhau e cebola. Repita até acabarem os ingredientes.",
+          "Regue generosamente com azeite.",
+          "Leve ao forno pré-aquecido a 200°C por 30 minutos.",
+          "Decore com os ovos cozidos e as azeitonas antes de servir."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Salpique salsinha picada por cima antes de servir.",
+    "foto_id": "recipe2"
+  },
+  {
+    "id": "tender-bolinha-com-molho-de-laranja",
+    "titulo": "Tender Bolinha com Molho de Laranja",
+    "categoria": "salgada",
+    "subcategoria": "prato principal",
+    "tempo_preparo": "60 minutos",
+    "rendimento": "8 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Tender e Molho",
+        "itens": [
+          "1 tender bolinha (aprox. 1.5kg)",
+          "Cravos-da-índia para decorar",
+          "2 xícaras de suco de laranja",
+          "1/2 xícara de mel",
+          "2 colheres de sopa de mostarda Dijon"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Faça cortes superficiais em losangos no tender e espete os cravos nas junções.",
+          "Em uma panela, misture o suco de laranja, o mel e a mostarda. Leve ao fogo baixo até o molho engrossar um pouco.",
+          "Pincele o tender com o molho e leve ao forno a 180°C por 45 minutos, pincelando mais molho a cada 15 minutos.",
+          "Sirva o tender fatiado com o restante do molho."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Decore com rodelas de laranja e cerejas em calda.",
+    "foto_id": "recipe3"
+  },
+  {
+    "id": "rabanada-tradicional",
+    "titulo": "Rabanada Tradicional",
+    "categoria": "doce",
+    "subcategoria": "sobremesa",
+    "tempo_preparo": "30 minutos",
+    "rendimento": "15 fatias",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose", "contém ovos"],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 pão para rabanada (ou pão francês amanhecido)",
+          "2 xícaras de leite",
+          "1 lata de leite condensado",
+          "3 ovos batidos",
+          "Óleo para fritar",
+          "Açúcar e canela em pó para polvilhar"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Corte o pão em fatias de 2cm de espessura.",
+          "Em uma tigela, misture o leite e o leite condensado. Em outra, bata os ovos.",
+          "Passe cada fatia de pão na mistura de leite e depois nos ovos batidos.",
+          "Frite em óleo quente até dourar dos dois lados.",
+          "Escorra em papel toalha e passe as rabanadas na mistura de açúcar e canela."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Sirva quente ou fria. Fica ótima com uma bola de sorvete de creme.",
+    "foto_id": "recipe6"
+  },
+  {
+    "id": "quentao-de-vinho-branco",
+    "titulo": "Quentão de Vinho Branco",
+    "categoria": "bebida",
+    "subcategoria": "coquetel",
+    "tempo_preparo": "20 minutos",
+    "rendimento": "6 copos",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "com álcool",
+    "alergenos": [],
+    "ingredientes": [
+      {
+        "secao": "Ingredientes",
+        "itens": [
+          "1 litro de vinho branco seco",
+          "1/2 xícara de açúcar",
+          "1 maçã em cubos",
+          "Gengibre em rodelas a gosto",
+          "Canela em pau e cravos-da-índia a gosto"
+        ]
+      }
+    ],
+    "modo_preparo": [
+      {
+        "secao": "Preparo",
+        "passos": [
+          "Em uma panela grande, coloque todos os ingredientes.",
+          "Leve ao fogo médio e, quando começar a ferver, abaixe o fogo.",
+          "Deixe cozinhar por cerca de 15 minutos para apurar os sabores.",
+          "Sirva quente em canecas."
+        ]
+      }
+    ],
+    "sugestoes_apresentacao": "Decore cada caneca com uma rodela de laranja ou limão.",
+    "foto_id": "recipe11"
+  },
+  {
+    "id": "arroz-com-amendoas-e-champanhe",
+    "titulo": "Arroz com Amêndoas e Champanhe",
+    "categoria": "salgada",
+    "subcategoria": "acompanhamento",
+    "tempo_preparo": "40 minutos",
+    "rendimento": "8 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "com álcool",
+    "alergenos": ["contém nozes"],
+    "ingredientes": [
+        {
+            "secao": "Ingredientes",
+            "itens": [
+                "2 xícaras de arroz branco",
+                "1 cebola pequena picada",
+                "2 colheres de sopa de manteiga",
+                "1 xícara de champanhe ou espumante brut",
+                "3 xícaras de caldo de legumes quente",
+                "1/2 xícara de amêndoas laminadas torradas",
+                "Sal a gosto",
+                "Salsinha picada para decorar"
+            ]
+        }
+    ],
+    "modo_preparo": [
+        {
+            "secao": "Preparo",
+            "passos": [
+                "Em uma panela, derreta a manteiga e refogue a cebola até ficar transparente.",
+                "Adicione o arroz e refogue por mais 2 minutos.",
+                "Despeje o champanhe e cozinhe, mexendo, até evaporar quase por completo.",
+                "Adicione o caldo de legumes quente e o sal. Cozinhe em fogo baixo, com a panela semi-tampada, até o arroz secar e ficar macio.",
+                "Solte o arroz com um garfo, misture as amêndoas torradas e sirva."
+            ]
+        }
+    ],
+    "sugestoes_apresentacao": "Decore com salsinha picada fresca por cima.",
+    "foto_id": "recipe4"
+  },
+  {
+      "id": "farofa-rica-de-natal",
+      "titulo": "Farofa Rica de Natal",
+      "categoria": "salgada",
+      "subcategoria": "acompanhamento",
+      "tempo_preparo": "30 minutos",
+      "rendimento": "10 porções",
+      "dificuldade": "fácil",
+      "indicacao_alcool": "sem álcool",
+      "alergenos": ["contém glúten (se a farinha tiver)"],
+      "ingredientes": [
+          {
+              "secao": "Ingredientes",
+              "itens": [
+                  "200g de bacon em cubos",
+                  "200g de linguiça calabresa em cubos",
+                  "1 cebola picada",
+                  "2 dentes de alho picados",
+                  "500g de farinha de mandioca",
+                  "1/2 xícara de azeitonas picadas",
+                  "1/2 xícara de uvas passas",
+                  "1/2 xícara de nozes picadas",
+                  "Cheiro-verde picado a gosto",
+                  "Sal e pimenta do reino a gosto"
+              ]
+          }
+      ],
+      "modo_preparo": [
+          {
+              "secao": "Preparo",
+              "passos": [
+                  "Em uma panela grande, frite o bacon na própria gordura até dourar. Retire e reserve.",
+                  "Na mesma panela, frite a linguiça. Retire e reserve.",
+                  "Refogue a cebola e o alho na gordura que sobrou na panela.",
+                  "Adicione a farinha de mandioca e mexa bem, deixando torrar por alguns minutos.",
+                  "Desligue o fogo e misture o bacon, a linguiça, as azeitonas, as passas, as nozes e o cheiro-verde.",
+                  "Tempere com sal e pimenta do reino a gosto."
+              ]
+          }
+      ],
+      "sugestoes_apresentacao": "Sirva como acompanhamento para o peru ou tender.",
+      "foto_id": "recipe5"
+  },
+  {
+    "id": "panetone-caseiro",
+    "titulo": "Panetone Caseiro",
+    "categoria": "doce",
+    "subcategoria": "pão doce",
+    "tempo_preparo": "3 horas",
+    "rendimento": "2 panetones",
+    "dificuldade": "difícil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose", "contém ovos"],
+    "ingredientes": [
+        {
+            "secao": "Ingredientes",
+            "itens": [
+                "1kg de farinha de trigo",
+                "10g de fermento biológico seco",
+                "1 xícara de açúcar",
+                "1 pitada de sal",
+                "5 ovos",
+                "200g de manteiga em temperatura ambiente",
+                "1 xícara de água morna",
+                "1 xícara de frutas cristalizadas",
+                "1 xícara de uvas passas",
+                "Raspas de 1 laranja e 1 limão"
+            ]
+        }
+    ],
+    "modo_preparo": [
+        {
+            "secao": "Preparo",
+            "passos": [
+                "Em uma tigela, misture o fermento, um pouco de açúcar e a água morna. Deixe descansar por 10 minutos.",
+                "Em outra tigela grande, coloque a farinha, o restante do açúcar, o sal, os ovos, a manteiga e as raspas. Adicione a mistura do fermento.",
+                "Sove a massa por cerca de 15 minutos até ficar lisa e elástica. Deixe crescer por 1 hora.",
+                "Incorpore as frutas cristalizadas e as passas na massa.",
+                "Divida a massa em duas formas de panetone e deixe crescer por mais 1 hora.",
+                "Asse em forno pré-aquecido a 180°C por cerca de 45 minutos."
+            ]
+        }
+    ],
+    "sugestoes_apresentacao": "Pincele manteiga derretida por cima assim que sair do forno.",
+    "foto_id": "recipe7"
+  },
+  {
+    "id": "torta-holandesa-de-natal",
+    "titulo": "Torta Holandesa de Natal",
+    "categoria": "doce",
+    "subcategoria": "sobremesa",
+    "tempo_preparo": "60 minutos + geladeira",
+    "rendimento": "10 porções",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém glúten", "contém lactose"],
+    "ingredientes": [
+        {
+            "secao": "Base e Cobertura",
+            "itens": [
+                "1 pacote de biscoito maisena triturado",
+                "100g de manteiga derretida",
+                "1 pacote de biscoito calipso para decorar",
+                "1 lata de creme de leite",
+                "200g de chocolate meio amargo picado"
+            ]
+        },
+        {
+            "secao": "Creme",
+            "itens": [
+                "1 lata de leite condensado",
+                "1 lata de creme de leite sem soro",
+                "100g de manteiga sem sal",
+                "1 gema"
+            ]
+        }
+    ],
+    "modo_preparo": [
+        {
+            "secao": "Preparo",
+            "passos": [
+                "Misture o biscoito triturado com a manteiga derretida e forre o fundo de uma forma de aro removível.",
+                "Disponha os biscoitos calipso na lateral da forma.",
+                "Na batedeira, bata a manteiga, a gema e o leite condensado até formar um creme claro. Adicione o creme de leite e misture.",
+                "Despeje o creme sobre a base e leve à geladeira por 4 horas.",
+                "Para a cobertura, aqueça o creme de leite e despeje sobre o chocolate picado. Mexa até derreter e cubra a torta.",
+                "Leve à geladeira por mais 1 hora antes de servir."
+            ]
+        }
+    ],
+    "sugestoes_apresentacao": "Sirva bem gelada.",
+    "foto_id": "recipe8"
+  },
+  {
+    "id": "manjar-de-coco-com-ameixa",
+    "titulo": "Manjar de Coco com Ameixa",
+    "categoria": "doce",
+    "subcategoria": "sobremesa",
+    "tempo_preparo": "30 minutos + geladeira",
+    "rendimento": "8 porções",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose"],
+    "ingredientes": [
+        {
+            "secao": "Manjar e Calda",
+            "itens": [
+                "1 litro de leite",
+                "1 vidro de leite de coco (200ml)",
+                "1 lata de leite condensado",
+                "5 colheres de sopa de amido de milho",
+                "100g de coco ralado",
+                "200g de ameixa seca sem caroço",
+                "1 xícara de açúcar",
+                "1 xícara de água"
+            ]
+        }
+    ],
+    "modo_preparo": [
+        {
+            "secao": "Preparo",
+            "passos": [
+                "Dissolva o amido de milho em um pouco de leite. Leve ao fogo com o restante do leite, o leite de coco, o leite condensado e o coco ralado, mexendo sempre até engrossar.",
+                "Despeje em uma forma de pudim molhada com água e leve à geladeira por 6 horas.",
+                "Para a calda, cozinhe a ameixa com o açúcar e a água em fogo baixo até formar uma calda grossa.",
+                "Desenforme o manjar e sirva com a calda fria por cima."
+            ]
+        }
+    ],
+    "sugestoes_apresentacao": "Decore com algumas ameixas inteiras.",
+    "foto_id": "recipe9"
+  },
+  {
+    "id": "bolo-de-nozes-com-baba-de-moca",
+    "titulo": "Bolo de Nozes com Baba de Moça",
+    "categoria": "doce",
+    "subcategoria": "sobremesa",
+    "tempo_preparo": "90 minutos",
+    "rendimento": "12 porções",
+    "dificuldade": "médio",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém nozes", "contém glúten", "contém lactose", "contém ovos"],
+    "ingredientes": [
+        {
+            "secao": "Massa",
+            "itens": [
+                "200g de nozes moídas",
+                "6 ovos (claras e gemas separadas)",
+                "1 xícara de açúcar",
+                "1 xícara de farinha de trigo",
+                "1 colher de sopa de fermento em pó"
+            ]
+        },
+        {
+            "secao": "Baba de Moça",
+            "itens": [
+                "1 lata de leite condensado",
+                "1/2 xícara de leite de coco",
+                "3 gemas peneiradas"
+            ]
+        }
+    ],
+    "modo_preparo": [
+        {
+            "secao": "Preparo",
+            "passos": [
+                "Bata as claras em neve e reserve. Bata as gemas com o açúcar até obter um creme fofo.",
+                "Adicione a farinha, o fermento e as nozes à mistura de gemas. Incorpore delicadamente as claras em neve.",
+                "Asse em forma untada e enfarinhada em forno a 180°C por 40 minutos.",
+                "Para a baba de moça, misture todos os ingredientes e leve ao fogo baixo, mexendo até engrossar.",
+                "Corte o bolo ao meio, recheie e cubra com a baba de moça."
+            ]
+        }
+    ],
+    "sugestoes_apresentacao": "Decore com nozes inteiras.",
+    "foto_id": "recipe10"
+  },
+  {
+    "id": "sangria-natalina",
+    "titulo": "Sangria Natalina",
+    "categoria": "bebida",
+    "subcategoria": "coquetel",
+    "tempo_preparo": "15 minutos + geladeira",
+    "rendimento": "8 copos",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "com álcool",
+    "alergenos": [],
+    "ingredientes": [
+        {
+            "secao": "Ingredientes",
+            "itens": [
+                "1 garrafa de vinho tinto seco",
+                "1 lata de refrigerante de limão",
+                "1/4 xícara de conhaque",
+                "2 colheres de sopa de açúcar",
+                "1 maçã em cubos",
+                "1 laranja em rodelas",
+                "1 cacho de uvas",
+                "Canela em pau"
+            ]
+        }
+    ],
+    "modo_preparo": [
+        {
+            "secao": "Preparo",
+            "passos": [
+                "Em uma jarra grande, misture o vinho, o conhaque e o açúcar.",
+                "Adicione as frutas e a canela em pau.",
+                "Leve à geladeira por pelo menos 2 horas.",
+                "Na hora de servir, adicione o refrigerante de limão e gelo."
+            ]
+        }
+    ],
+    "sugestoes_apresentacao": "Sirva em taças com algumas das frutas da jarra.",
+    "foto_id": "recipe12"
+  },
+  {
+    "id": "coquetel-de-frutas-vermelhas-sem-alcool",
+    "titulo": "Coquetel de Frutas Vermelhas (sem álcool)",
+    "categoria": "bebida",
+    "subcategoria": "mocktail",
+    "tempo_preparo": "10 minutos",
+    "rendimento": "4 copos",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": [],
+    "ingredientes": [
+        {
+            "secao": "Ingredientes",
+            "itens": [
+                "500ml de suco de cranberry",
+                "500ml de água com gás",
+                "1 xícara de frutas vermelhas congeladas (morangos, framboesas, mirtilos)",
+                "Folhas de hortelã fresca",
+                "Suco de 1 limão"
+            ]
+        }
+    ],
+    "modo_preparo": [
+        {
+            "secao": "Preparo",
+            "passos": [
+                "Em uma jarra, misture o suco de cranberry, o suco de limão e as frutas vermelhas.",
+                "Adicione a água com gás gelada e as folhas de hortelã na hora de servir.",
+                "Mexa delicadamente e sirva com gelo."
+            ]
+        }
+    ],
+    "sugestoes_apresentacao": "Decore os copos com uma folha de hortelã na borda.",
+    "foto_id": "recipe13"
+  },
+  {
+    "id": "chocolate-quente-cremoso-especial",
+    "titulo": "Chocolate Quente Cremoso Especial",
+    "categoria": "bebida",
+    "subcategoria": "bebida quente",
+    "tempo_preparo": "15 minutos",
+    "rendimento": "4 xícaras",
+    "dificuldade": "fácil",
+    "indicacao_alcool": "sem álcool",
+    "alergenos": ["contém lactose"],
+    "ingredientes": [
+        {
+            "secao": "Ingredientes",
+            "itens": [
+                "1 litro de leite integral",
+                "1 lata de creme de leite",
+                "200g de chocolate meio amargo de boa qualidade",
+                "4 colheres de sopa de chocolate em pó",
+                "3 colheres de sopa de açúcar",
+                "1 pitada de canela em pó"
+            ]
+        }
+    ],
+    "modo_preparo": [
+        {
+            "secao": "Preparo",
+            "passos": [
+                "No liquidificador, bata o leite, o chocolate em pó e o açúcar.",
+                "Despeje a mistura em uma panela e adicione o chocolate picado e a canela.",
+                "Leve ao fogo médio, mexendo sempre, até o chocolate derreter e a mistura começar a engrossar.",
+                "Desligue o fogo, adicione o creme de leite e misture bem.",
+                "Sirva imediatamente."
+            ]
+        }
+    ],
+    "sugestoes_apresentacao": "Sirva com marshmallows, chantilly ou raspas de chocolate por cima.",
+    "foto_id": "recipe14"
+  },
+  {
+    "id": "eggnog-classico",
+    "titulo": "Eggnog Clássico",
+    "categoria": "bebida",
+    "subcategoria": "coquetel",
+    "tempo_preparo": "20 minutos",
+    "rendimento": "6 copos",
+    "dificuldade": "médio",
+    "indicacao_alcool": "com álcool",
+    "alergenos": ["contém ovos", "contém lactose"],
+    "ingredientes": [
+        {
+            "secao": "Ingredientes",
+            "itens": [
+                "6 gemas de ovo",
+                "1/2 xícara de açúcar",
+                "2 xícaras de leite integral",
+                "1 xícara de creme de leite fresco",
+                "1/2 xícara de rum, conhaque ou uísque (opcional)",
+                "Noz-moscada ralada na hora"
+            ]
+        }
+    ],
+    "modo_preparo": [
+        {
+            "secao": "Preparo",
+            "passos": [
+                "Na batedeira, bata as gemas e o açúcar até obter um creme claro e fofo.",
+                "Em uma panela, aqueça o leite e o creme de leite em fogo baixo, sem deixar ferver.",
+                "Com a batedeira em velocidade baixa, despeje lentamente a mistura de leite quente sobre as gemas.",
+                "Volte tudo para a panela e cozinhe em fogo baixo, mexendo constantemente, até a mistura engrossar o suficiente para cobrir as costas de uma colher (não deixe ferver).",
+                "Retire do fogo, coe e, se desejar, adicione a bebida alcoólica. Leve para gelar.",
+                "Sirva gelado com noz-moscada ralada por cima."
+            ]
+        }
+    ],
+    "sugestoes_apresentacao": "Pode ser servido quente ou frio. Um pau de canela no copo adiciona um aroma especial.",
+    "foto_id": "recipe15"
+  }
+],
+"repeated": [
+    {
+      "count": 35,
+      "base_id_prefix": "salgada-extra-",
+      "base_title_prefix": "Prato Salgado Especial ",
+      "categoria": "salgada"
+    },
+    {
+      "count": 20,
+      "base_id_prefix": "doce-extra-",
+      "base_title_prefix": "Sobremesa Festiva ",
+      "categoria": "doce"
+    },
+    {
+      "count": 5,
+      "base_id_prefix": "bebida-extra-",
+      "base_title_prefix": "Bebida de Natal ",
+      "categoria": "bebida"
+    }
+  ]
+}

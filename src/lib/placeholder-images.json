@@ -1,3 +1,94 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "recipe1",
+      "description": "Um peru de natal dourado e suculento, decorado com ervas.",
+      "imageUrl": "https://images.unsplash.com/photo-1606728035253-49e8a23146de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyb2FzdCUyMHR1cmtleXxlbnwwfHx8fDE3NTkwMDc1NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "roast turkey"
+    },
+    {
+      "id": "recipe2",
+      "description": "Uma travessa de bacalhau à Gomes de Sá com batatas, ovos e azeitonas.",
+      "imageUrl": "https://images.unsplash.com/photo-1579523609295-1ef35e6bd1c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb2RmaXNoJTIwZGlzaHxlbnwwfHx8fDE3NTg5MzI1Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "codfish dish"
+    },
+    {
+      "id": "recipe3",
+      "description": "Um tender bolinha glaceado com molho de laranja.",
+      "imageUrl": "https://images.unsplash.com/photo-1607556671970-488bec51557a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxnbGF6ZWQlMjBoYW18ZW58MHx8fHwxNzU5MDA4MzYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "glazed ham"
+    },
+    {
+      "id": "recipe4",
+      "description": "Arroz de natal decorado com amêndoas e passas.",
+      "imageUrl": "https://images.unsplash.com/photo-1648788767168-aa2df5105037?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaHJpc3RtYXMlMjByaWNlfGVufDB8fHx8MTc1OTAwODM2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "christmas rice"
+    },
+    {
+      "id": "recipe5",
+      "description": "Farofa rica com bacon, linguiça e frutas secas.",
+      "imageUrl": "https://images.unsplash.com/photo-1662692761875-06ac14f8d527?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxicmF6aWxpYW4lMjBmYXJvZmF8ZW58MHx8fHwxNzU5MDA4MzYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "brazilian farofa"
+    },
+    {
+      "id": "recipe6",
+      "description": "Fatias douradas de rabanada polvilhadas com açúcar e canela.",
+      "imageUrl": "https://images.unsplash.com/photo-1631707928780-153b053e09aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmcmVuY2glMjB0b2FzdHxlbnwwfHx8fDE3NTkwMDc1NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "french toast"
+    },
+    {
+      "id": "recipe7",
+      "description": "Um panetone caseiro com frutas cristalizadas e crosta dourada.",
+      "imageUrl": "https://images.unsplash.com/photo-1737065175923-7b05466a2c1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwYW5ldHRvbmUlMjBicmVhZHxlbnwwfHx8fDE3NTkwMDc1NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "panettone bread"
+    },
+    {
+      "id": "recipe8",
+      "description": "Uma torta holandesa com cobertura de chocolate e biscoitos na lateral.",
+      "imageUrl": "https://images.unsplash.com/photo-1662844907162-f146836d6bd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2hvY29sYXRlJTIwcGllfGVufDB8fHx8MTc1OTAwODM2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate pie"
+    },
+    {
+      "id": "recipe9",
+      "description": "Um manjar branco com calda de ameixa.",
+      "imageUrl": "https://images.unsplash.com/photo-1671523557643-b80db31443d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29jb251dCUyMHB1ZGRpbmd8ZW58MHx8fHwxNzU4OTQxMjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coconut pudding"
+    },
+    {
+      "id": "recipe10",
+      "description": "Um bolo de nozes fofinho com recheio de baba de moça.",
+      "imageUrl": "https://images.unsplash.com/photo-1749937457328-fc8abe27dd50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3YWxudXQlMjBjYWtlfGVufDB8fHx8MTc1OTAwODM2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "walnut cake"
+    },
+    {
+      "id": "recipe11",
+      "description": "Uma caneca fumegante de quentão de vinho branco com especiarias.",
+      "imageUrl": "https://images.unsplash.com/photo-1602249367848-8468f3979e63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtdWxsZWQlMjB3aW5lfGVufDB8fHx8MTc1OTAwODM2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mulled wine"
+    },
+    {
+      "id": "recipe12",
+      "description": "Uma jarra de sangria com frutas vermelhas e rodelas de laranja.",
+      "imageUrl": "https://images.unsplash.com/photo-1582010563675-58cb3e182d26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzYW5ncmlhJTIwcHVuY2h8ZW58MHx8fHwxNzU5MDA4MzYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sangria punch"
+    },
+    {
+      "id": "recipe13",
+      "description": "Um copo de coquetel rosa sem álcool, decorado com hortelã.",
+      "imageUrl": "https://images.unsplash.com/photo-1612344025746-8f86cac0be8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwaW5rJTIwbW9ja3RhaWx8ZW58MHx8fHwxNzU5MDA4MzYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pink mocktail"
+    },
+    {
+      "id": "recipe14",
+      "description": "Uma caneca de chocolate quente cremoso com marshmallows.",
+      "imageUrl": "https://images.unsplash.com/photo-1707219811253-b4197a022ffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxob3QlMjBjaG9jb2xhdGV8ZW58MHx8fHwxNzU5MDA3NTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hot chocolate"
+    },
+    {
+      "id": "recipe15",
+      "description": "Um copo de eggnog cremoso polvilhado com noz-moscada.",
+      "imageUrl": "https://images.unsplash.com/photo-1587004956875-c61776f95b10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZWdnbm9nJTIwZHJpbmt8ZW58MHx8fHwxNzU5MDA4MzYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "eggnog drink"
+    }
+  ]
 }
