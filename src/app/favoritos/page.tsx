@@ -4,17 +4,14 @@ import { useState, useEffect } from 'react';
 import { getAllRecipes } from '@/lib/recipes';
 import type { Recipe } from '@/lib/types';
 import RecipeCard from '@/components/recipes/recipe-card';
-import { PlaceHolderImages, type ImagePlaceholder } from '@/lib/placeholder-images';
 import { Heart } from 'lucide-react';
 
 export default function FavoritosPage() {
   const [favoriteRecipes, setFavoriteRecipes] = useState<Recipe[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 
-  const allRecipes = getAllRecipes();
-  const imageMap = new Map(PlaceHolderImages.map(img => [img.id, img]));
-
   useEffect(() => {
+    const allRecipes = getAllRecipes();
     const storedFavorites = localStorage.getItem('favorite_recipes');
     if (storedFavorites) {
       const favoriteIds: string[] = JSON.parse(storedFavorites);
@@ -22,7 +19,7 @@ export default function FavoritosPage() {
       setFavoriteRecipes(recipes);
     }
     setIsLoading(false);
-  }, [allRecipes]);
+  }, []);
 
   if (isLoading) {
     return (
@@ -45,9 +42,8 @@ export default function FavoritosPage() {
       {favoriteRecipes.length > 0 ? (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
           {favoriteRecipes.map(recipe => {
-             const image = imageMap.get(recipe.foto_id);
              return (
-               <RecipeCard key={recipe.id} recipe={recipe} image={image} />
+               <RecipeCard key={recipe.id} recipe={recipe} />
              );
           })}
         </div>

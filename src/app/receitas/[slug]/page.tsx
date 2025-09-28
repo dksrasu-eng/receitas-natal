@@ -1,6 +1,5 @@
 import { getRecipeBySlug, getAllRecipes } from '@/lib/recipes';
 import { notFound } from 'next/navigation';
-import { PlaceHolderImages } from '@/lib/placeholder-images';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { ChefHat, Clock, Users, UtensilsCrossed, BarChart, Info, GlassWater, Sprout } from 'lucide-react';
@@ -76,23 +75,24 @@ export default function RecipePage({ params }: RecipePageProps) {
     notFound();
   }
 
-  const image = PlaceHolderImages.find(img => img.id === recipe.foto_id);
-
   return (
     <>
       <RecipeJsonLd recipe={recipe} />
       <div className="print-container max-w-4xl mx-auto bg-card p-4 sm:p-8 rounded-lg shadow-lg">
         <div className="print-content">
-          <div className="flex justify-between items-start mb-4 no-print">
-            <h1 className="text-3xl md:text-4xl font-headline font-bold text-primary">{recipe.titulo}</h1>
-            <div className="flex items-center gap-2">
+          <div className="flex justify-between items-start mb-4">
+            <h1 className="text-3xl md:text-4xl font-headline font-bold text-primary print-title">{recipe.titulo}</h1>
+            <div className="flex items-center gap-2 no-print">
               <FavoriteButton recipeId={recipe.id} />
               <ShareButton recipe={recipe} />
               <PrintButton />
             </div>
           </div>
-          <h1 className="hidden print:block print-title">{recipe.titulo}</h1>
-
+          
+          <div className="mb-6 flex flex-wrap gap-2">
+            <Badge variant="secondary">{recipe.categoria}</Badge>
+            <Badge variant="outline">{recipe.subcategoria}</Badge>
+          </div>
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6 text-center">
             <div className="bg-secondary/50 p-3 rounded-lg">
@@ -113,11 +113,6 @@ export default function RecipePage({ params }: RecipePageProps) {
             </div>
           </div>
           
-          <div className="mb-6 flex flex-wrap gap-2">
-            <Badge variant="secondary">{recipe.categoria}</Badge>
-            <Badge variant="outline">{recipe.subcategoria}</Badge>
-          </div>
-
           <div className="grid md:grid-cols-3 gap-8">
             <div className="md:col-span-1 space-y-6">
               <Card>

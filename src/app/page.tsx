@@ -3,7 +3,6 @@ import { getAllRecipes } from '@/lib/recipes';
 import RecipeCard from '@/components/recipes/recipe-card';
 import Filters from '@/components/recipes/filters';
 import Pagination from '@/components/recipes/pagination';
-import { PlaceHolderImages } from '@/lib/placeholder-images';
 
 export const dynamic = 'force-dynamic';
 
@@ -27,7 +26,6 @@ export default function Home({ searchParams }: HomeProps) {
   const currentPage = Number(searchParams?.page) || 1;
 
   const allRecipes = getAllRecipes();
-  const imageMap = new Map(PlaceHolderImages.map(img => [img.id, img]));
 
   const filteredRecipes = allRecipes.filter(recipe => {
     const matchesQuery = query
@@ -73,9 +71,8 @@ export default function Home({ searchParams }: HomeProps) {
       {paginatedRecipes.length > 0 ? (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
           {paginatedRecipes.map(recipe => {
-            const image = imageMap.get(recipe.foto_id);
             return (
-              <RecipeCard key={recipe.id} recipe={recipe} image={image} />
+              <RecipeCard key={recipe.id} recipe={recipe} />
             );
           })}
         </div>
