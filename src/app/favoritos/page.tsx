@@ -41,11 +41,9 @@ export default function FavoritosPage() {
       
       {favoriteRecipes.length > 0 ? (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-          {favoriteRecipes.map(recipe => {
-             return (
-               <RecipeCard key={recipe.id} recipe={recipe} />
-             );
-          })}
+          {favoriteRecipes.map(recipe => (
+            <RecipeCard key={recipe.id} recipe={recipe} />
+          ))}
         </div>
       ) : (
         <div className="text-center py-16 flex flex-col items-center space-y-4">
@@ -59,3 +57,5 @@ export default function FavoritosPage() {
     </div>
   );
 }
+
+    

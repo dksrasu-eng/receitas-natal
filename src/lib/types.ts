@@ -1,3 +1,5 @@
+import type { ImagePlaceholder } from "./placeholder-images";
+
 export interface IngredientItem {
   secao: string;
   itens: string[];
@@ -22,4 +24,7 @@ export interface Recipe {
   modo_preparo: PreparationStep[];
   sugestoes_apresentacao: string;
   foto_id: string;
+  image?: ImagePlaceholder;
 }
+
+    

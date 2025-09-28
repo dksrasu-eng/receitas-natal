@@ -1,19 +1,33 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import type { Recipe } from '@/lib/types';
-import type { ImagePlaceholder } from '@/lib/placeholder-images';
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Clock, BarChart } from 'lucide-react';
+import { PlaceHolderImages } from '@/lib/placeholder-images';
 
 type RecipeCardProps = {
   recipe: Recipe;
-  image?: ImagePlaceholder;
 };
 
-export default function RecipeCard({ recipe, image }: RecipeCardProps) {
-  return (
+export default function RecipeCard({ recipe }: RecipeCardProps) {
+    const image = PlaceHolderImages.find(img => img.id === recipe.id);
+  
+    return (
     <Card className="h-full flex flex-col overflow-hidden transition-transform transform hover:-translate-y-1 hover:shadow-xl">
       <Link href={`/receitas/${recipe.id}`} className="flex flex-col h-full">
+        {image && (
+          <div className="relative w-full h-48">
+            <Image
+              src={image.imageUrl}
+              alt={recipe.titulo}
+              fill
+              style={{ objectFit: 'cover' }}
+              className="bg-muted"
+              data-ai-hint={image.imageHint}
+            />
+          </div>
+        )}
         <CardHeader className="p-4">
             <Badge variant="secondary" className="mb-2 w-fit">{recipe.categoria}</Badge>
             <CardTitle className="text-lg font-headline leading-tight">{recipe.titulo}</CardTitle>
@@ -35,3 +49,5 @@ export default function RecipeCard({ recipe, image }: RecipeCardProps) {
     </Card>
   );
 }
+
+    
