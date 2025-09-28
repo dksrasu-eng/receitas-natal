@@ -24,7 +24,4 @@ export interface Recipe {
   modo_preparo: PreparationStep[];
   sugestoes_apresentacao: string;
   foto_id: string;
-  image?: ImagePlaceholder;
 }
-
-    

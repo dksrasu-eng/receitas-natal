@@ -1,6 +1,5 @@
 import { getRecipeBySlug, getAllRecipes } from '@/lib/recipes';
 import { notFound } from 'next/navigation';
-import Image from 'next/image';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { ChefHat, Clock, Users, UtensilsCrossed, BarChart, Info, GlassWater, Sprout } from 'lucide-react';
@@ -40,7 +39,6 @@ const RecipeJsonLd = ({ recipe }: { recipe: Recipe }) => {
     "@context": "https://schema.org/",
     "@type": "Recipe",
     "name": recipe.titulo,
-    "image": recipe.image?.imageUrl,
     "author": {
       "@type": "Person",
       "name": "Delícias Natalinas"
@@ -83,19 +81,6 @@ export default function RecipePage({ params }: RecipePageProps) {
       <div className="print-container max-w-4xl mx-auto bg-card p-4 sm:p-8 rounded-lg shadow-lg">
         <div className="print-content">
           
-          {recipe.image && (
-             <div className="relative w-full h-64 md:h-96 rounded-lg overflow-hidden mb-6">
-                <Image
-                    src={recipe.image.imageUrl}
-                    alt={recipe.titulo}
-                    fill
-                    style={{objectFit: 'cover'}}
-                    data-ai-hint={recipe.image.imageHint}
-                    priority
-                />
-             </div>
-          )}
-
           <div className="flex justify-between items-start mb-4">
             <h1 className="text-3xl md:text-4xl font-headline font-bold text-primary print-title">{recipe.titulo}</h1>
             <div className="flex items-center gap-2 no-print">
@@ -197,5 +182,3 @@ export default function RecipePage({ params }: RecipePageProps) {
     </>
   );
 }
-
-    
