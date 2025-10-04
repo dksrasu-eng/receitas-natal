@@ -33,6 +33,12 @@ const nextConfig: NextConfig = {
         hostname: 's2-casavogue.glbimg.com',
         port: '',
         pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'i.s3.glbimg.com',
+        port: '',
+        pathname: '/**',
       }
     ],
   },
