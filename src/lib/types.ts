@@ -12,7 +12,7 @@ export interface PreparationStep {
 
 // The raw recipe data from the JSON file.
 export interface RawRecipe {
-  id: string;
+  id: string; // This is a temporary ID from the JSON
   titulo: string;
   categoria: 'salgada' | 'doce' | 'bebida';
   subcategoria: string;
@@ -28,7 +28,8 @@ export interface RawRecipe {
 }
 
 // The processed recipe object used throughout the app.
+// It removes the original `id` and `foto_id` and adds the new slug-based `id` and the `image` object.
 export interface Recipe extends Omit<RawRecipe, 'foto_id' | 'id'> {
-  id: string;
+  id: string; // The final, URL-friendly ID
   image: ImagePlaceholder;
 }

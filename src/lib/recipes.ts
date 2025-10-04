@@ -3,7 +3,7 @@ import type { Recipe, RawRecipe } from './types';
 import { slugify } from './utils';
 import { PlaceHolderImages } from './placeholder-images';
 
-// Create a Map for efficient image lookup by foto_id
+// Create a Map for efficient image lookup by the image's `id`
 const imagesMap = new Map(PlaceHolderImages.map(img => [img.id, img]));
 
 const allRecipes: Recipe[] = (recipesData as RawRecipe[]).map(rawRecipe => {
@@ -15,13 +15,13 @@ const allRecipes: Recipe[] = (recipesData as RawRecipe[]).map(rawRecipe => {
     imageHint: 'recipe placeholder',
   };
 
-  // The foto_id is no longer needed in the final object, so we destructure it out.
-  const { foto_id, ...restOfRecipe } = rawRecipe;
+  // Destructure to remove the original `id` and `foto_id` from the raw recipe data
+  const { id: rawId, foto_id, ...restOfRecipe } = rawRecipe;
 
-  // Return the final recipe object with the correct image and a URL-friendly id
+  // Return the final, processed recipe object
   return {
     ...restOfRecipe,
-    id: slugify(rawRecipe.titulo),
+    id: slugify(rawRecipe.titulo), // Create a new, clean, URL-friendly ID
     image: image,
   };
 });
