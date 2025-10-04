@@ -28,6 +28,6 @@ export interface RawRecipe {
 }
 
 // The processed recipe object used throughout the app.
-export interface Recipe extends RawRecipe {
+export interface Recipe extends Omit<RawRecipe, 'foto_id'> {
   image: ImagePlaceholder;
 }
