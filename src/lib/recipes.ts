@@ -7,10 +7,6 @@ import { PlaceHolderImages } from './placeholder-images';
 const allRecipes: Recipe[] = (recipesData as Omit<Recipe, 'id' | 'image'>[]).map(recipe => {
   const image = PlaceHolderImages.find(img => img.id === recipe.foto_id);
   
-  if (!image) {
-    console.warn(`Image not found for recipe: ${recipe.titulo}`);
-  }
-
   return {
     ...recipe,
     id: slugify(recipe.titulo),
