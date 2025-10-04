@@ -7,7 +7,7 @@ import { PlaceHolderImages } from './placeholder-images';
 const imagesMap = new Map(PlaceHolderImages.map(img => [img.id, img]));
 
 const allRecipes: Recipe[] = (recipesData as RawRecipe[]).map(recipe => {
-  // Find the corresponding image using the foto_id
+  // Find the corresponding image using the foto_id from the recipe
   const image = imagesMap.get(recipe.foto_id) || {
     id: 'placeholder',
     imageUrl: `https://placehold.co/600x400/F5E9EB/B83B5E?text=${encodeURIComponent(recipe.titulo)}`,
