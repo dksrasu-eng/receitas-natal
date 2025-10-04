@@ -86,5 +86,3 @@ export default function Home({ searchParams }: HomeProps) {
     </div>
   );
 }
-
-    
