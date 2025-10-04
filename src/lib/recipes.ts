@@ -3,9 +3,11 @@ import type { Recipe, RawRecipe } from './types';
 import { slugify } from './utils';
 import { PlaceHolderImages } from './placeholder-images';
 
+// Create a Map for efficient image lookup by foto_id
 const imagesMap = new Map(PlaceHolderImages.map(img => [img.id, img]));
 
 const allRecipes: Recipe[] = (recipesData as RawRecipe[]).map(recipe => {
+  // Find the corresponding image using the foto_id
   const image = imagesMap.get(recipe.foto_id) || {
     id: 'placeholder',
     imageUrl: `https://placehold.co/600x400/F5E9EB/B83B5E?text=${encodeURIComponent(recipe.titulo)}`,
@@ -13,11 +15,10 @@ const allRecipes: Recipe[] = (recipesData as RawRecipe[]).map(recipe => {
     imageHint: 'recipe placeholder',
   };
 
-  const { foto_id, ...restOfRecipe } = recipe;
-  
+  // Return the final recipe object with the correct image and a URL-friendly id
   return {
-    ...restOfRecipe,
-    id: slugify(recipe.titulo), // Keep slugify for URL-friendly IDs
+    ...recipe,
+    id: slugify(recipe.titulo), 
     image: image,
   };
 });
