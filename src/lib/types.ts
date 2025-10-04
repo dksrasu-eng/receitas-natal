@@ -10,7 +10,8 @@ export interface PreparationStep {
   passos: string[];
 }
 
-export interface Recipe {
+// The raw recipe data from the JSON file.
+export interface RawRecipe {
   id: string;
   titulo: string;
   categoria: 'salgada' | 'doce' | 'bebida';
@@ -23,5 +24,10 @@ export interface Recipe {
   ingredientes: IngredientItem[];
   modo_preparo: PreparationStep[];
   sugestoes_apresentacao: string;
+  foto_id: string;
+}
+
+// The processed recipe object used throughout the app.
+export interface Recipe extends Omit<RawRecipe, 'foto_id'> {
   image: ImagePlaceholder;
 }
