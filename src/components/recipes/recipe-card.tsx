@@ -13,7 +13,7 @@ export default function RecipeCard({ recipe }: RecipeCardProps) {
   return (
     <Card className="h-full flex flex-col overflow-hidden transition-transform transform hover:-translate-y-1 hover:shadow-xl">
       <Link href={`/receitas/${recipe.id}`} className="flex flex-col h-full">
-        <div className="relative h-40 w-full overflow-hidden">
+        <div className="relative h-40 w-full">
           <Image
             src={recipe.image.imageUrl}
             alt={recipe.titulo}
