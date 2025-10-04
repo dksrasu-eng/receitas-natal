@@ -3,22 +3,28 @@ import type { Recipe } from './types';
 import { slugify } from './utils';
 import { PlaceHolderImages } from './placeholder-images';
 
+// Create a map of image placeholders by their ID for quick lookup
+const imagesMap = new Map(PlaceHolderImages.map(img => [img.id, img]));
 
-const allRecipes: Recipe[] = (recipesData as Omit<Recipe, 'id' | 'image'>[]).map(recipe => {
-  const image = PlaceHolderImages.find(img => img.id === recipe.foto_id);
-  
+const allRecipes: Recipe[] = recipesData.map(recipe => {
+  const recipeId = slugify(recipe.titulo);
+  const image = imagesMap.get(recipe.foto_id) || {
+    id: 'placeholder',
+    imageUrl: `https://placehold.co/600x400/F5E9EB/B83B5E?text=${encodeURIComponent(recipe.titulo)}`,
+    description: 'Imagem de receita placeholder',
+    imageHint: 'recipe placeholder',
+  };
+
+  // The original recipe data from JSON doesn't have 'id' and 'image' properties.
+  // We remove 'foto_id' and add the ones we've created.
+  const { foto_id, ...restOfRecipe } = recipe;
+
   return {
-    ...recipe,
-    id: slugify(recipe.titulo),
-    image: image || {
-      id: 'placeholder',
-      imageUrl: 'https://placehold.co/600x400/F5E9EB/B83B5E?text=Receita',
-      description: 'Imagem de receita',
-      imageHint: 'recipe placeholder',
-    },
-  }
+    ...restOfRecipe,
+    id: recipeId,
+    image: image,
+  };
 });
-
 
 export function getAllRecipes(): Recipe[] {
   return allRecipes;

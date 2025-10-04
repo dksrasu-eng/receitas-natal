@@ -23,6 +23,5 @@ export interface Recipe {
   ingredientes: IngredientItem[];
   modo_preparo: PreparationStep[];
   sugestoes_apresentacao: string;
-  foto_id: string;
   image: ImagePlaceholder;
 }
