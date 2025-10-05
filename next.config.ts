@@ -11,17 +11,6 @@ const nextConfig: NextConfig = {
   },
   images: {
     remotePatterns: [
-      // Domínios Genéricos
-      { protocol: 'https', hostname: 'placehold.co' },
-      { protocol: 'https', hostname: 'picsum.photos' },
-      { protocol: 'https', hostname: 'img.freepik.com' },
-      { protocol: 'https', hostname: 'images.unsplash.com' },
-      { protocol: 'https', hostname: 'images.ctfassets.net' },
-      { protocol: 'https', hostname: 'p2.trrsf.com' },
-      { protocol: 'https', hostname: 'i0.wp.com' },
-      { protocol: 'https', hostname: 'encrypted-tbn0.gstatic.com' },
-      
-      // Domínios de Receitas com Wildcard
       { protocol: 'https', hostname: '**.glbimg.com' },
       { protocol: 'https', hostname: '**.sadia.com.br' },
       { protocol: 'https', hostname: '**.tudoreceitas.com' },
@@ -33,8 +22,14 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: '**.seara.com.br' },
       { protocol: 'https', hostname: '**.rampinelli.com.br' },
       { protocol: 'https', hostname: '**.receitasnestle.com.br' },
-
-      // Outros Domínios Específicos
+      { protocol: 'https', hostname: 'placehold.co' },
+      { protocol: 'https', hostname: 'picsum.photos' },
+      { protocol: 'https', hostname: 'img.freepik.com' },
+      { protocol: 'https', hostname: 'images.unsplash.com' },
+      { protocol: 'https', hostname: 'images.ctfassets.net' },
+      { protocol: 'https', hostname: 'p2.trrsf.com' },
+      { protocol: 'https', hostname: 'i0.wp.com' },
+      { protocol: 'https', hostname: 'encrypted-tbn0.gstatic.com' },
       { protocol: 'https', hostname: 'amopaocaseiro.com.br' },
       { protocol: 'https', hostname: 'pt.petitchef.com' },
       { protocol: 'https', hostname: 'docepedia.com' },
