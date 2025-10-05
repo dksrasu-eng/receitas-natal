@@ -1,3 +1,4 @@
+
 import { getRecipeBySlug, getAllRecipes } from '@/lib/recipes';
 import { notFound } from 'next/navigation';
 import Image from 'next/image';

@@ -1,3 +1,4 @@
+
 import recipesData from '@/data/recipes.json';
 import type { Recipe, RawRecipe } from './types';
 import { slugify } from './utils';
