@@ -579,25 +579,25 @@
     {
       "id": "casadinho-de-goiabada",
       "description": "Biscoitos tipo casadinho recheados com goiabada e polvilhados com açúcar.",
-      "imageUrl": "https://images.unsplash.com/photo-1617694467363-039a4a7bb368?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxndWF2YSUyMGNvb2tpZXxlbnwwfHx8fDE3NTk2Mzk0MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://static.ndmais.com.br/2025/02/casadinho-de-goiaba-2-800x415.png",
       "imageHint": "guava cookie"
     },
     {
       "id": "bolo-gelado-de-coco-embrulhado",
       "description": "Pedaços de bolo gelado de coco embrulhados individualmente em papel alumínio.",
-      "imageUrl": "https://images.unsplash.com/photo-1666181100562-ac5212adaea8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb2NvbnV0JTIwY2FrZXxlbnwwfHx8fDE3NTk2MTgwOTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://receitinhasdadani.com.br/wp-content/uploads/2023/12/Bolo-embrulhado-de-coco-.webp",
       "imageHint": "coconut cake"
     },
     {
       "id": "brownie-de-chocolate-com-nozes",
       "description": "Pedaços de brownie de chocolate denso com nozes visíveis.",
-      "imageUrl": "https://images.unsplash.com/photo-1679143121492-820c69266ab8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjaG9jb2xhdGUlMjB3YWxudXQtYnJvd25pZXN8ZW58MHx8fHwxNzU5NjM5NDIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://guiadacozinha.com.br/wp-content/uploads/2019/10/brownie-creme-avela-nozes-350x230.jpg",
       "imageHint": "chocolate walnut-brownies"
     },
     {
       "id": "sagu-de-vinho-com-creme-ingles",
       "description": "Taça de sagu de vinho tinto com bolinhas translúcidas, coberto com creme inglês amarelo.",
-      "imageUrl": "https://images.unsplash.com/photo-1727060799978-c73a8b4aafec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzYWdvJTIwd2luZXxlbnwwfHx8fDE3NTk2Mzk0MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://i.panelinha.com.br/i1/64-bk-7380-sagu-de-vinho-com-creme-ingles.webp",
       "imageHint": "sago wine"
     }
   ]

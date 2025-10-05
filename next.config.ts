@@ -30,9 +30,13 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'guiadacozinha.com.br' },
       { protocol: 'https', hostname: 'www.comidaereceitas.com.br' },
       { protocol: 'https', hostname: 'content.paodeacucar.com' },
-      { protocol: 'https', hostname: 'blog.fungodequintal.com.br' },
+      { protocol: 'https'
+      , hostname: 'blog.fungodequintal.com.br' },
       { protocol: 'https', hostname: 'www.receiteria.com.br' },
       { protocol: 'https', hostname: 'receitaskidelicia.com.br' },
+      { protocol: 'https', hostname: 'static.ndmais.com.br' },
+      { protocol: 'https', hostname: 'receitinhasdadani.com.br' },
+      { protocol: 'https', hostname: 'i.panelinha.com.br' },
 
       // Wildcards for Major Brazilian/International Recipe/Media Sites
       { protocol: 'https', hostname: '**.com.br' },
@@ -45,4 +49,5 @@ const nextConfig: NextConfig = {
 
 export default nextConfig;
 
+    
     
