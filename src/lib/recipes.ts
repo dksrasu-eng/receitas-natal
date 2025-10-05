@@ -8,8 +8,9 @@ import { placeholderImages } from './placeholder-images';
 const imagesMap = new Map(placeholderImages.map(img => [img.id, img]));
 
 const allRecipes: Recipe[] = (recipesData as RawRecipe[]).map(rawRecipe => {
-  // Find the corresponding image using the original foto_id from the recipe
-  const image = imagesMap.get(rawRecipe.foto_id) || {
+  const slug = slugify(rawRecipe.titulo);
+  // Find the corresponding image using the slugified title, which matches the image ID
+  const image = imagesMap.get(slug) || {
     id: 'placeholder',
     imageUrl: `https://placehold.co/600x400/F5E9EB/B83B5E?text=${encodeURIComponent(rawRecipe.titulo)}`,
     description: `Placeholder image for ${rawRecipe.titulo}`,
@@ -23,7 +24,7 @@ const allRecipes: Recipe[] = (recipesData as RawRecipe[]).map(rawRecipe => {
   // Return the final recipe object with the correct image and a URL-friendly id
   return {
     ...restOfRecipe,
-    id: slugify(rawRecipe.titulo),
+    id: slug,
     image,
   };
 });
