@@ -34,7 +34,6 @@ const nextConfig: NextConfig = {
       // Wildcards for Major Brazilian Recipe/Media Sites
       { protocol: 'https', hostname: '**.com.br' },
       { protocol: 'https', hostname: '**.glbimg.com' },
-      { protocol: 'https', hostname: '**.itdg.com.br' },
       { protocol: 'https', hostname: '**.tudoreceitas.com' },
       { protocol: 'https', hostname: '**.static.cordonbleu.edu' },
     ],
