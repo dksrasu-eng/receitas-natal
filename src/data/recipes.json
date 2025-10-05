@@ -36,7 +36,7 @@
       }
     ],
     "sugestoes_apresentacao": "Sirva decorado com frutas frescas como uvas e figos.",
-    "foto_id": "recipe1"
+    "foto_id": "peru-de-natal-classico"
   },
   {
     "id": "bacalhau-a-gomes-de-sa-festivo",
@@ -74,7 +74,7 @@
       }
     ],
     "sugestoes_apresentacao": "Salpique salsinha picada por cima antes de servir.",
-    "foto_id": "recipe2"
+    "foto_id": "bacalhau-a-gomes-de-sa-festivo"
   },
   {
     "id": "tender-bolinha-com-molho-de-laranja",
@@ -110,7 +110,7 @@
       }
     ],
     "sugestoes_apresentacao": "Decore com rodelas de laranja e cerejas em calda.",
-    "foto_id": "recipe3"
+    "foto_id": "tender-bolinha-com-molho-de-laranja"
   },
   {
     "id": "rabanada-tradicional",
@@ -148,7 +148,7 @@
       }
     ],
     "sugestoes_apresentacao": "Sirva quente ou fria. Fica ótima com uma bola de sorvete de creme.",
-    "foto_id": "recipe6"
+    "foto_id": "rabanada-tradicional"
   },
   {
     "id": "quentao-de-vinho-branco",
@@ -184,7 +184,7 @@
       }
     ],
     "sugestoes_apresentacao": "Decore cada caneca com uma rodela de laranja ou limão.",
-    "foto_id": "recipe11"
+    "foto_id": "quentao-de-vinho-branco"
   },
   {
     "id": "arroz-com-amendoas-e-champanhe",
@@ -224,7 +224,7 @@
         }
     ],
     "sugestoes_apresentacao": "Decore com salsinha picada fresca por cima.",
-    "foto_id": "recipe4"
+    "foto_id": "arroz-com-amendoas-e-champanhe"
   },
   {
       "id": "farofa-rica-de-natal",
@@ -267,7 +267,7 @@
           }
       ],
       "sugestoes_apresentacao": "Sirva como acompanhamento para o peru ou tender.",
-      "foto_id": "recipe5"
+      "foto_id": "farofa-rica-de-natal"
   },
   {
     "id": "panetone-caseiro",
@@ -310,7 +310,7 @@
         }
     ],
     "sugestoes_apresentacao": "Pincele manteiga derretida por cima assim que sair do forno.",
-    "foto_id": "recipe7"
+    "foto_id": "panetone-caseiro"
   },
   {
     "id": "torta-holandesa-de-natal",
@@ -357,7 +357,7 @@
         }
     ],
     "sugestoes_apresentacao": "Sirva bem gelada.",
-    "foto_id": "recipe8"
+    "foto_id": "torta-holandesa-de-natal"
   },
   {
     "id": "manjar-de-coco-com-ameixa",
@@ -396,7 +396,7 @@
         }
     ],
     "sugestoes_apresentacao": "Decore com algumas ameixas inteiras.",
-    "foto_id": "recipe9"
+    "foto_id": "manjar-de-coco-com-ameixa"
   },
   {
     "id": "bolo-de-nozes-com-baba-de-moca",
@@ -441,7 +441,7 @@
         }
     ],
     "sugestoes_apresentacao": "Decore com nozes inteiras.",
-    "foto_id": "recipe10"
+    "foto_id": "bolo-de-nozes-com-baba-de-moca"
   },
   {
     "id": "sangria-natalina",
@@ -480,7 +480,7 @@
         }
     ],
     "sugestoes_apresentacao": "Sirva em taças com algumas das frutas da jarra.",
-    "foto_id": "recipe12"
+    "foto_id": "sangria-natalina"
   },
   {
     "id": "coquetel-de-frutas-vermelhas-sem-alcool",
@@ -515,7 +515,7 @@
         }
     ],
     "sugestoes_apresentacao": "Decore os copos com uma folha de hortelã na borda.",
-    "foto_id": "recipe13"
+    "foto_id": "coquetel-de-frutas-vermelhas-sem-alcool"
   },
   {
     "id": "chocolate-quente-cremoso-especial",
@@ -553,7 +553,7 @@
         }
     ],
     "sugestoes_apresentacao": "Sirva com marshmallows, chantilly ou raspas de chocolate por cima.",
-    "foto_id": "recipe14"
+    "foto_id": "chocolate-quente-cremoso-especial"
   },
   {
     "id": "eggnog-classico",
@@ -592,7 +592,7 @@
         }
     ],
     "sugestoes_apresentacao": "Pode ser servido quente ou frio. Um pau de canela no copo adiciona um aroma especial.",
-    "foto_id": "recipe15"
+    "foto_id": "eggnog-classico"
   },
   {
     "id": "pernil-assado-com-ervas",
@@ -629,7 +629,7 @@
       }
     ],
     "sugestoes_apresentacao": "Sirva com batatas assadas na mesma assadeira e decore com ramos de ervas frescas.",
-    "foto_id": "recipe16"
+    "foto_id": "pernil-assado-com-ervas"
   },
   {
     "id": "chester-desossado-e-recheado",
@@ -667,7 +667,7 @@
       }
     ],
     "sugestoes_apresentacao": "Fatie e sirva com o recheio aparecendo, acompanhado de purê de maçã.",
-    "foto_id": "recipe17"
+    "foto_id": "chester-desossado-e-recheado"
   },
   {
     "id": "lombo-recheado-com-damasco",
@@ -704,7 +704,7 @@
       }
     ],
     "sugestoes_apresentacao": "Fatie o lombo e sirva com um molho agridoce feito com o caldo da assadeira.",
-    "foto_id": "recipe18"
+    "foto_id": "lombo-recheado-com-damasco"
   },
   {
     "id": "salpicao-de-frango-defumado",
@@ -742,7 +742,7 @@
       }
     ],
     "sugestoes_apresentacao": "Sirva em uma travessa bonita decorada com folhas de salsa.",
-    "foto_id": "recipe19"
+    "foto_id": "salpicao-de-frango-defumado"
   },
   {
     "id": "salada-de-lentilha-com-roma",
@@ -779,7 +779,7 @@
       }
     ],
     "sugestoes_apresentacao": "Sirva fria como entrada ou acompanhamento. É uma ótima opção para trazer sorte no Ano Novo.",
-    "foto_id": "recipe20"
+    "foto_id": "salada-de-lentilha-com-roma"
   },
   {
     "id": "cuscuz-marroquino-com-frutas-secas",
@@ -817,7 +817,7 @@
       }
     ],
     "sugestoes_apresentacao": "Sirva quente ou em temperatura ambiente. Fica delicioso com carnes de porco ou cordeiro.",
-    "foto_id": "recipe21"
+    "foto_id": "cuscuz-marroquino-com-frutas-secas"
   },
   {
     "id": "batatas-gratinadas-com-queijo",
@@ -854,7 +854,7 @@
       }
     ],
     "sugestoes_apresentacao": "Deixe descansar por 10 minutos antes de servir para firmar.",
-    "foto_id": "recipe22"
+    "foto_id": "batatas-gratinadas-com-queijo"
   },
   {
     "id": "arroz-a-grega-natalino",
@@ -891,7 +891,7 @@
       }
     ],
     "sugestoes_apresentacao": "Pode ser enriquecido com presunto ou frango desfiado.",
-    "foto_id": "recipe23"
+    "foto_id": "arroz-a-grega-natalino"
   },
   {
     "id": "salmao-ao-molho-de-maracuja",
@@ -926,7 +926,7 @@
       }
     ],
     "sugestoes_apresentacao": "Acompanha bem um purê de mandioquinha ou arroz com brócolis.",
-    "foto_id": "recipe24"
+    "foto_id": "salmao-ao-molho-de-maracuja"
   },
   {
     "id": "cebola-caramelizada-para-acompanhamento",
@@ -962,7 +962,7 @@
       }
     ],
     "sugestoes_apresentacao": "Ideal para acompanhar carnes assadas, hambúrgueres ou servir sobre torradas.",
-    "foto_id": "recipe25"
+    "foto_id": "cebola-caramelizada-para-acompanhamento"
   },
   {
     "id": "salada-waldorf-natalina",
@@ -999,7 +999,7 @@
       }
     ],
     "sugestoes_apresentacao": "Para um toque extra, adicione cranberries secas.",
-    "foto_id": "recipe26"
+    "foto_id": "salada-waldorf-natalina"
   },
   {
     "id": "mousse-de-chocolate-com-laranja",
@@ -1036,7 +1036,7 @@
       }
     ],
     "sugestoes_apresentacao": "Decore com raspas de chocolate e um segmento de laranja.",
-    "foto_id": "recipe27"
+    "foto_id": "mousse-de-chocolate-com-laranja"
   },
   {
     "id": "pave-de-pessego-com-biscoito-champanhe",
@@ -1075,7 +1075,7 @@
       }
     ],
     "sugestoes_apresentacao": "Pode ser coberto com chantilly antes de decorar com os pêssegos.",
-    "foto_id": "recipe28"
+    "foto_id": "pave-de-pessego-com-biscoito-champanhe"
   },
   {
     "id": "biscoitos-de-gengibre-decorados",
@@ -1116,7 +1116,7 @@
       }
     ],
     "sugestoes_apresentacao": "Use corantes alimentícios no glacê para criar decorações coloridas.",
-    "foto_id": "recipe29"
+    "foto_id": "biscoitos-de-gengibre-decorados"
   },
   {
     "id": "cheesecake-de-frutas-vermelhas",
@@ -1155,7 +1155,7 @@
       }
     ],
     "sugestoes_apresentacao": "Sirva bem gelado, decorado com frutas frescas.",
-    "foto_id": "recipe30"
+    "foto_id": "cheesecake-de-frutas-vermelhas"
   },
   {
     "id": "gemada-cremosa-sem-alcool",
@@ -1192,7 +1192,7 @@
       }
     ],
     "sugestoes_apresentacao": "Pode ser servido em canecas com um pau de canela para decorar.",
-    "foto_id": "recipe31"
+    "foto_id": "gemada-cremosa-sem-alcool"
   },
   {
     "id": "ponche-de-frutas-natalino",
@@ -1228,7 +1228,7 @@
       }
     ],
     "sugestoes_apresentacao": "Para uma versão com álcool, adicione 1 xícara de rum branco.",
-    "foto_id": "recipe32"
+    "foto_id": "ponche-de-frutas-natalino"
   },
   {
     "id": "suco-detox-festivo-verde",
@@ -1264,7 +1264,7 @@
       }
     ],
     "sugestoes_apresentacao": "Beba pela manhã para ajudar a desintoxicar após as festas.",
-    "foto_id": "recipe33"
+    "foto_id": "suco-detox-festivo-verde"
   },
   {
     "id": "clericot-de-vinho-rose",
@@ -1300,7 +1300,7 @@
       }
     ],
     "sugestoes_apresentacao": "Decore as taças com uma fatia de carambola na borda para um toque estrelado.",
-    "foto_id": "recipe34"
+    "foto_id": "clericot-de-vinho-rose"
   },
   {
     "id": "cha-gelado-de-hibisco-com-canela",
@@ -1337,7 +1337,7 @@
       }
     ],
     "sugestoes_apresentacao": "Adicione algumas folhas de hortelã para um frescor extra.",
-    "foto_id": "recipe35"
+    "foto_id": "cha-gelado-de-hibisco-com-canela"
   },
   {
     "id": "arroz-com-lentilha-e-cebola-frita",
@@ -1374,7 +1374,7 @@
       }
     ],
     "sugestoes_apresentacao": "Um clássico da sorte e prosperidade para as festas de fim de ano.",
-    "foto_id": "recipe36"
+    "foto_id": "arroz-com-lentilha-e-cebola-frita"
   },
   {
     "id": "brandade-de-bacalhau",
@@ -1412,7 +1412,7 @@
       }
     ],
     "sugestoes_apresentacao": "Pode ser servido quente como entrada ou prato principal leve.",
-    "foto_id": "recipe37"
+    "foto_id": "brandade-de-bacalhau"
   },
   {
     "id": "file-mignon-ao-molho-madeira",
@@ -1451,7 +1451,7 @@
       }
     ],
     "sugestoes_apresentacao": "Acompanha arroz à piamontese ou batatas gratinadas.",
-    "foto_id": "recipe38"
+    "foto_id": "file-mignon-ao-molho-madeira"
   },
   {
     "id": "vol-au-vent-de-camarao",
@@ -1491,7 +1491,7 @@
       }
     ],
     "sugestoes_apresentacao": "Uma entrada sofisticada e deliciosa para a ceia.",
-    "foto_id": "recipe39"
+    "foto_id": "vol-au-vent-de-camarao"
   },
   {
     "id": "quiche-lorraine-festiva",
@@ -1529,7 +1529,7 @@
       }
     ],
     "sugestoes_apresentacao": "Pode ser servida quente ou em temperatura ambiente, acompanhada de uma salada verde.",
-    "foto_id": "recipe40"
+    "foto_id": "quiche-lorraine-festiva"
   },
   {
     "id": "arvore-de-natal-de-pao-de-queijo",
@@ -1567,7 +1567,7 @@
       }
     ],
     "sugestoes_apresentacao": "Sirva quente como um aperitivo divertido e interativo.",
-    "foto_id": "recipe41"
+    "foto_id": "arvore-de-natal-de-pao-de-queijo"
   },
   {
     "id": "canapes-de-pepino-com-pasta-de-ricota",
@@ -1604,7 +1604,7 @@
       }
     ],
     "sugestoes_apresentacao": "Um aperitivo leve, fresco e sem glúten.",
-    "foto_id": "recipe42"
+    "foto_id": "canapes-de-pepino-com-pasta-de-ricota"
   },
   {
     "id": "terrine-de-gorgonzola-com-nozes-e-damasco",
@@ -1642,7 +1642,7 @@
       }
     ],
     "sugestoes_apresentacao": "Pode ser decorado com mais nozes e damascos por cima.",
-    "foto_id": "recipe43"
+    "foto_id": "terrine-de-gorgonzola-com-nozes-e-damasco"
   },
   {
     "id": "camarao-empanado-no-coco",
@@ -1679,7 +1679,7 @@
       }
     ],
     "sugestoes_apresentacao": "Sirva com um molho agridoce ou geleia de pimenta.",
-    "foto_id": "recipe44"
+    "foto_id": "camarao-empanado-no-coco"
   },
   {
     "id": "pure-de-castanhas-portuguesas",
@@ -1715,7 +1715,7 @@
       }
     ],
     "sugestoes_apresentacao": "Um acompanhamento sofisticado para carnes assadas, especialmente peru e pernil.",
-    "foto_id": "recipe45"
+    "foto_id": "pure-de-castanhas-portuguesas"
   },
   {
     "id": "legumes-assados-com-alecrim-e-mel",
@@ -1752,7 +1752,7 @@
       }
     ],
     "sugestoes_apresentacao": "Um acompanhamento colorido, saudável e delicioso.",
-    "foto_id": "recipe46"
+    "foto_id": "legumes-assados-com-alecrim-e-mel"
   },
   {
     "id": "cogumelos-recheados-com-ervas-finas",
@@ -1790,7 +1790,7 @@
       }
     ],
     "sugestoes_apresentacao": "Sirva como entrada quente ou aperitivo.",
-    "foto_id": "recipe47"
+    "foto_id": "cogumelos-recheados-com-ervas-finas"
   },
   {
     "id": "torta-fria-de-pao-de-forma",
@@ -1829,7 +1829,7 @@
       }
     ],
     "sugestoes_apresentacao": "Use a criatividade na decoração, com azeitonas, ovos de codorna ou tomates cereja.",
-    "foto_id": "recipe48"
+    "foto_id": "torta-fria-de-pao-de-forma"
   },
   {
     "id": "molho-de-hortela-para-cordeiro",
@@ -1865,7 +1865,7 @@
       }
     ],
     "sugestoes_apresentacao": "O acompanhamento clássico e indispensável para pernil ou carré de cordeiro.",
-    "foto_id": "recipe49"
+    "foto_id": "molho-de-hortela-para-cordeiro"
   },
   {
     "id": "caponata-natalina",
@@ -1905,7 +1905,7 @@
       }
     ],
     "sugestoes_apresentacao": "Fica ainda mais saborosa se preparada na véspera.",
-    "foto_id": "recipe50"
+    "foto_id": "caponata-natalina"
   },
   {
     "id": "stollen-pao-doce-alemao",
@@ -1947,7 +1947,7 @@
       }
     ],
     "sugestoes_apresentacao": "Um pão denso e rico, tradicionalmente consumido durante o Advento na Alemanha.",
-    "foto_id": "recipe51"
+    "foto_id": "stollen-pao-doce-alemao"
   },
   {
     "id": "pudim-de-leite-condensado-lisinho",
@@ -1983,7 +1983,7 @@
       }
     ],
     "sugestoes_apresentacao": "Para um pudim lisinho, não bata demais e asse em banho-maria.",
-    "foto_id": "recipe52"
+    "foto_id": "pudim-de-leite-condensado-lisinho"
   },
   {
     "id": "tronco-de-natal-buche-de-noel",
@@ -2022,7 +2022,7 @@
       }
     ],
     "sugestoes_apresentacao": "Decore com frutinhas vermelhas e açúcar de confeiteiro para parecer neve.",
-    "foto_id": "recipe53"
+    "foto_id": "tronco-de-natal-buche-de-noel"
   },
   {
     "id": "brigadeirao-de-natal",
@@ -2060,7 +2060,7 @@
       }
     ],
     "sugestoes_apresentacao": "Sirva gelado. Fica delicioso acompanhado de morangos frescos.",
-    "foto_id": "recipe54"
+    "foto_id": "brigadeirao-de-natal"
   },
   {
     "id": "figos-recheados-com-queijo-de-cabra-e-mel",
@@ -2096,7 +2096,7 @@
       }
     ],
     "sugestoes_apresentacao": "Um aperitivo agridoce sofisticado, que pode ser servido como entrada ou sobremesa.",
-    "foto_id": "recipe55"
+    "foto_id": "figos-recheados-com-queijo-de-cabra-e-mel"
   },
   {
     "id": "camafeu-de-nozes",
@@ -2133,7 +2133,7 @@
       }
     ],
     "sugestoes_apresentacao": "Um clássico das mesas de festa, perfeito para o Natal.",
-    "foto_id": "recipe56"
+    "foto_id": "camafeu-de-nozes"
   },
   {
     "id": "panforte-de-siena",
@@ -2173,7 +2173,7 @@
       }
     ],
     "sugestoes_apresentacao": "Um doce italiano denso e aromático, que dura por semanas.",
-    "foto_id": "recipe57"
+    "foto_id": "panforte-de-siena"
   },
   {
     "id": "torta-de-limao-merengada",
@@ -2211,7 +2211,7 @@
       }
     ],
     "sugestoes_apresentacao": "Leve à geladeira antes de servir. O contraste do doce com o azedo é o destaque.",
-    "foto_id": "recipe58"
+    "foto_id": "torta-de-limao-merengada"
   },
   {
     "id": "bolo-de-reis",
@@ -2251,7 +2251,7 @@
       }
     ],
     "sugestoes_apresentacao": "Um bolo tradicional português para o Dia de Reis.",
-    "foto_id": "recipe59"
+    "foto_id": "bolo-de-reis"
   },
   {
     "id": "creme-brulee-de-baunilha",
@@ -2288,7 +2288,7 @@
       }
     ],
     "sugestoes_apresentacao": "A casquinha crocante quebrada na hora é a melhor parte da experiência.",
-    "foto_id": "recipe60"
+    "foto_id": "creme-brulee-de-baunilha"
   },
   {
     "id": "vinho-quente-com-especiarias",
@@ -2326,7 +2326,7 @@
       }
     ],
     "sugestoes_apresentacao": "Também conhecido como 'mulled wine', é perfeito para noites frias.",
-    "foto_id": "recipe61"
+    "foto_id": "vinho-quente-com-especiarias"
   },
   {
     "id": "irish-coffee-natalino",
@@ -2363,7 +2363,7 @@
       }
     ],
     "sugestoes_apresentacao": "Não mexa! Beba o café quente através do creme frio.",
-    "foto_id": "recipe62"
+    "foto_id": "irish-coffee-natalino"
   },
   {
     "id": "chocolate-quente-com-pimenta",
@@ -2400,7 +2400,7 @@
       }
     ],
     "sugestoes_apresentacao": "A pimenta realça o sabor do chocolate e aquece o corpo.",
-    "foto_id": "recipe63"
+    "foto_id": "chocolate-quente-com-pimenta"
   },
   {
     "id": "grogue-de-natal",
@@ -2437,7 +2437,7 @@
       }
     ],
     "sugestoes_apresentacao": "Decore com uma rodela de limão e um pau de canela.",
-    "foto_id": "recipe64"
+    "foto_id": "grogue-de-natal"
   },
   {
     "id": "cafe-bombom-festivo",
@@ -2471,7 +2471,7 @@
       }
     ],
     "sugestoes_apresentacao": "O visual das camadas é o charme desta bebida. Use um copo transparente.",
-    "foto_id": "recipe65"
+    "foto_id": "cafe-bombom-festivo"
   },
   {
     "id": "cidra-de-maca-quente-com-especiarias",
@@ -2507,7 +2507,7 @@
       }
     ],
     "sugestoes_apresentacao": "Para uma versão alcoólica, adicione uma dose de bourbon ou rum em cada caneca.",
-    "foto_id": "recipe66"
+    "foto_id": "cidra-de-maca-quente-com-especiarias"
   },
   {
     "id": "spritz-de-inverno-com-cranberry",
@@ -2543,7 +2543,7 @@
       }
     ],
     "sugestoes_apresentacao": "Uma variação festiva e colorida do clássico spritz.",
-    "foto_id": "recipe67"
+    "foto_id": "spritz-de-inverno-com-cranberry"
   },
   {
     "id": "limonada-suica-com-hortela",
@@ -2580,7 +2580,7 @@
       }
     ],
     "sugestoes_apresentacao": "O segredo é bater rápido e coar bem para evitar o amargor da casca.",
-    "foto_id": "recipe68"
+    "foto_id": "limonada-suica-com-hortela"
   },
   {
     "id": "batida-de-coco",
@@ -2613,10 +2613,10 @@
       }
     ],
     "sugestoes_apresentacao": "Pode ser decorada com coco ralado queimado por cima.",
-    "foto_id": "recipe69"
+    "foto_id": "batida-de-coco"
   },
   {
-    "id": " Moscow-mule-de-gengibre",
+    "id": "moscow-mule-de-gengibre",
     "titulo": "Moscow Mule de Gengibre",
     "categoria": "bebida",
     "subcategoria": "coquetel",
@@ -2650,7 +2650,7 @@
       }
     ],
     "sugestoes_apresentacao": "A caneca de cobre é tradicional e ajuda a manter a bebida gelada.",
-    "foto_id": "recipe70"
+    "foto_id": "moscow-mule-de-gengibre"
   },
   {
     "id": "panna-cotta-com-calda-de-damasco",
@@ -2688,7 +2688,7 @@
       }
     ],
     "sugestoes_apresentacao": "Uma sobremesa elegante e de textura aveludada.",
-    "foto_id": "recipe71"
+    "foto_id": "panna-cotta-com-calda-de-damasco"
   },
   {
     "id": "palha-italiana-de-chocotone",
@@ -2725,7 +2725,7 @@
       }
     ],
     "sugestoes_apresentacao": "Uma forma criativa de aproveitar as sobras de chocotone.",
-    "foto_id": "recipe72"
+    "foto_id": "palha-italiana-de-chocotone"
   },
   {
     "id": "tiramisu-de-natal",
@@ -2764,7 +2764,7 @@
       }
     ],
     "sugestoes_apresentacao": "O segredo é umedecer os biscoitos rapidamente para não desmancharem.",
-    "foto_id": "recipe73"
+    "foto_id": "tiramisu-de-natal"
   },
   {
     "id": "merengue-de-morangos",
@@ -2799,7 +2799,7 @@
       }
     ],
     "sugestoes_apresentacao": "Monte na hora de servir para que os suspiros permaneçam crocantes.",
-    "foto_id": "recipe74"
+    "foto_id": "merengue-de-morangos"
   },
   {
     "id": "sorvete-caseiro-de-flocos",
@@ -2835,7 +2835,7 @@
       }
     ],
     "sugestoes_apresentacao": "Uma sobremesa refrescante para equilibrar a ceia.",
-    "foto_id": "recipe75"
+    "foto_id": "sorvete-caseiro-de-flocos"
   },
   {
     "id": "alfajor-de-doce-de-leite",
@@ -2873,7 +2873,7 @@
       }
     ],
     "sugestoes_apresentacao": "Embale individualmente para presentear.",
-    "foto_id": "recipe76"
+    "foto_id": "alfajor-de-doce-de-leite"
   },
   {
     "id": "pudim-de-pao-natalino",
@@ -2911,7 +2911,7 @@
       }
     ],
     "sugestoes_apresentacao": "Uma ótima forma de reaproveitar o pão do dia anterior.",
-    "foto_id": "recipe77"
+    "foto_id": "pudim-de-pao-natalino"
   },
   {
     "id": "torta-de-macas-com-crumble",
@@ -2950,7 +2950,7 @@
       }
     ],
     "sugestoes_apresentacao": "Sirva quente com uma bola de sorvete de creme.",
-    "foto_id": "recipe78"
+    "foto_id": "torta-de-macas-com-crumble"
   },
   {
     "id": "doce-de-abobora-com-coco",
@@ -2985,7 +2985,7 @@
       }
     ],
     "sugestoes_apresentacao": "Sirva com queijo branco fresco para um contraste de sabores.",
-    "foto_id": "recipe79"
+    "foto_id": "doce-de-abobora-com-coco"
   },
   {
     "id": "cupcakes-red-velvet-com-frosting",
@@ -3026,7 +3026,7 @@
       }
     ],
     "sugestoes_apresentacao": "A cor vermelha vibrante é perfeita para a decoração de Natal.",
-    "foto_id": "recipe80"
+    "foto_id": "cupcakes-red-velvet-com-frosting"
   },
   {
     "id": "caipirinha-de-frutas-vermelhas",
@@ -3061,7 +3061,7 @@
       }
     ],
     "sugestoes_apresentacao": "Use frutas frescas para um sabor mais intenso.",
-    "foto_id": "recipe81"
+    "foto_id": "caipirinha-de-frutas-vermelhas"
   },
   {
     "id": "cafe-gelado-com-caramelo",
@@ -3097,7 +3097,7 @@
       }
     ],
     "sugestoes_apresentacao": "Uma bebida refrescante e indulgente para os amantes de café.",
-    "foto_id": "recipe82"
+    "foto_id": "cafe-gelado-com-caramelo"
   },
   {
     "id": "bellini-de-pessego",
@@ -3130,7 +3130,7 @@
       }
     ],
     "sugestoes_apresentacao": "Um coquetel clássico italiano, elegante e refrescante.",
-    "foto_id": "recipe83"
+    "foto_id": "bellini-de-pessego"
   },
   {
     "id": "agua-aromatizada-com-pepino-e-hortela",
@@ -3165,7 +3165,7 @@
       }
     ],
     "sugestoes_apresentacao": "Uma bebida extremamente refrescante e hidratante para os dias de festa.",
-    "foto_id": "recipe84"
+    "foto_id": "agua-aromatizada-com-pepino-e-hortela"
   },
   {
     "id": "mimosa-de-laranja",
@@ -3197,7 +3197,7 @@
       }
     ],
     "sugestoes_apresentacao": "O coquetel perfeito para um brunch ou celebração matinal.",
-    "foto_id": "recipe85"
+    "foto_id": "mimosa-de-laranja"
   },
   {
     "id": "smoothie-de-manga-com-gengibre",
@@ -3231,7 +3231,7 @@
       }
     ],
     "sugestoes_apresentacao": "Congelar a manga antes garante um smoothie mais cremoso e gelado sem precisar de gelo.",
-    "foto_id": "recipe86"
+    "foto_id": "smoothie-de-manga-com-gengibre"
   },
   {
     "id": "choconhaque",
@@ -3266,7 +3266,7 @@
       }
     ],
     "sugestoes_apresentacao": "Uma bebida quente e reconfortante com um toque alcoólico.",
-    "foto_id": "recipe87"
+    "foto_id": "choconhaque"
   },
   {
     "id": "frozen-de-abacaxi-com-hortela",
@@ -3299,7 +3299,7 @@
       }
     ],
     "sugestoes_apresentacao": "Para uma versão alcoólica, adicione uma dose de rum ou vodka.",
-    "foto_id": "recipe88"
+    "foto_id": "frozen-de-abacaxi-com-hortela"
   },
   {
     "id": "espresso-tonica",
@@ -3334,7 +3334,7 @@
       }
     ],
     "sugestoes_apresentacao": "Uma bebida surpreendentemente refrescante e complexa.",
-    "foto_id": "recipe89"
+    "foto_id": "espresso-tonica"
   },
   {
     "id": "licor-cremoso-de-chocolate",
@@ -3371,7 +3371,7 @@
       }
     ],
     "sugestoes_apresentacao": "Fica mais saboroso após alguns dias de descanso na geladeira. Sirva gelado.",
-    "foto_id": "recipe90"
+    "foto_id": "licor-cremoso-de-chocolate"
   },
   {
     "id": "farofa-de-banana-da-terra",
@@ -3409,7 +3409,7 @@
       }
     ],
     "sugestoes_apresentacao": "Um toque agridoce delicioso para acompanhar carnes e peixes.",
-    "foto_id": "recipe91"
+    "foto_id": "farofa-de-banana-da-terra"
   },
   {
     "id": "salada-de-folhas-com-peras-e-nozes",
@@ -3445,7 +3445,7 @@
       }
     ],
     "sugestoes_apresentacao": "Uma salada sofisticada e cheia de contrastes de sabores e texturas.",
-    "foto_id": "recipe92"
+    "foto_id": "salada-de-folhas-com-peras-e-nozes"
   },
   {
     "id": "maionese-de-batata-com-ovo",
@@ -3483,7 +3483,7 @@
       }
     ],
     "sugestoes_apresentacao": "Pode adicionar outros ingredientes como cenoura, vagem ou milho.",
-    "foto_id": "recipe93"
+    "foto_id": "maionese-de-batata-com-ovo"
   },
   {
     "id": "risoto-de-cogumelos-funghi",
@@ -3522,7 +3522,7 @@
       }
     ],
     "sugestoes_apresentacao": "Um prato vegetariano elegante e cheio de sabor umami.",
-    "foto_id": "recipe94"
+    "foto_id": "risoto-de-cogumelos-funghi"
   },
   {
     "id": "creme-de-espinafre-para-recheio",
@@ -3560,7 +3560,7 @@
       }
     ],
     "sugestoes_apresentacao": "Fica ótimo como recheio de rondelli ou cannelloni.",
-    "foto_id": "recipe95"
+    "foto_id": "creme-de-espinafre-para-recheio"
   },
   {
     "id": "broa-de-fuba-natalina",
@@ -3600,7 +3600,7 @@
       }
     ],
     "sugestoes_apresentacao": "Perfeita para o café da tarde durante as festas.",
-    "foto_id": "recipe96"
+    "foto_id": "broa-de-fuba-natalina"
   },
   {
     "id": "casadinho-de-goiabada",
@@ -3638,7 +3638,7 @@
       }
     ],
     "sugestoes_apresentacao": "A massa que derrete na boca é o segredo deste doce.",
-    "foto_id": "recipe97"
+    "foto_id": "casadinho-de-goiabada"
   },
   {
     "id": "bolo-gelado-de-coco-embrulhado",
@@ -3679,7 +3679,7 @@
       }
     ],
     "sugestoes_apresentacao": "Uma receita clássica que remete à infância.",
-    "foto_id": "recipe98"
+    "foto_id": "bolo-gelado-de-coco-embrulhado"
   },
   {
     "id": "brownie-de-chocolate-com-nozes",
@@ -3717,7 +3717,7 @@
       }
     ],
     "sugestoes_apresentacao": "Sirva com sorvete de baunilha e calda de chocolate.",
-    "foto_id": "recipe99"
+    "foto_id": "brownie-de-chocolate-com-nozes"
   },
   {
     "id": "sagu-de-vinho-com-creme-ingles",
@@ -3754,6 +3754,6 @@
       }
     ],
     "sugestoes_apresentacao": "Uma sobremesa tradicional do sul do Brasil, com um lindo contraste de cores.",
-    "foto_id": "recipe100"
+    "foto_id": "sagu-de-vinho-com-creme-ingles"
   }
 ]
