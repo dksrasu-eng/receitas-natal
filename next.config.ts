@@ -19,12 +19,14 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'images.unsplash.com' },
       { protocol: 'https', hostname: 'images.ctfassets.net' },
       { protocol: 'https', hostname: 'encrypted-tbn0.gstatic.com' },
+      
+      // Specific domains from recipes
       { protocol: 'https', hostname: 'i.s3.glbimg.com' },
+      { protocol: 'https', hostname: 'static.cordonbleu.edu' },
 
       // Wildcards for Major Brazilian/International Recipe/Media Sites
       { protocol: 'https', hostname: '**.com.br' },
       { protocol: 'https', hostname: '**.glbimg.com' },
-      { protocol: 'https', hostname: '**.static.cordonbleu.edu' },
       { protocol: 'https', hostname: '**.com' },
       { protocol: 'https', hostname: '**.pt' },
     ],
