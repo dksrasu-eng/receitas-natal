@@ -1,3 +1,4 @@
+
 import type { ImagePlaceholder } from "./placeholder-images";
 
 export interface IngredientItem {
@@ -12,7 +13,7 @@ export interface PreparationStep {
 
 // The raw recipe data from the JSON file.
 export interface RawRecipe {
-  id: string; // This is a temporary ID from the JSON
+  id: string;
   titulo: string;
   categoria: 'salgada' | 'doce' | 'bebida';
   subcategoria: string;
@@ -27,9 +28,19 @@ export interface RawRecipe {
   foto_id: string;
 }
 
-// The processed recipe object used throughout the app.
-// It removes the original `id` and `foto_id` and adds the new slug-based `id` and the `image` object.
-export interface Recipe extends Omit<RawRecipe, 'foto_id' | 'id'> {
+// The final, processed recipe object used throughout the app.
+export interface Recipe {
   id: string; // The final, URL-friendly ID
+  titulo: string;
+  categoria: 'salgada' | 'doce' | 'bebida';
+  subcategoria: string;
+  tempo_preparo: string;
+  rendimento: string;
+  dificuldade: 'fácil' | 'médio' | 'difícil';
+  indicacao_alcool: 'com álcool' | 'sem álcool';
+  alergenos: string[];
+  ingredientes: IngredientItem[];
+  modo_preparo: PreparationStep[];
+  sugestoes_apresentacao: string;
   image: ImagePlaceholder;
 }

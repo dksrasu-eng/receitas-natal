@@ -2,13 +2,11 @@
 import recipesData from '@/data/recipes.json';
 import type { Recipe, RawRecipe } from './types';
 import { slugify } from './utils';
-import { PlaceHolderImages } from './placeholder-images';
+import { placeholderImages } from './placeholder-images';
 
-// Create a Map for efficient image lookup by the image's `id`
-const imagesMap = new Map(PlaceHolderImages.map(img => [img.id, img]));
+const imagesMap = new Map(placeholderImages.map(img => [img.id, img]));
 
 const allRecipes: Recipe[] = (recipesData as RawRecipe[]).map(rawRecipe => {
-  // Find the corresponding image using the foto_id from the recipe
   const image = imagesMap.get(rawRecipe.foto_id) || {
     id: 'placeholder',
     imageUrl: `https://placehold.co/600x400/F5E9EB/B83B5E?text=${encodeURIComponent(rawRecipe.titulo)}`,
@@ -16,14 +14,12 @@ const allRecipes: Recipe[] = (recipesData as RawRecipe[]).map(rawRecipe => {
     imageHint: 'recipe placeholder',
   };
 
-  // Destructure to remove the original `id` and `foto_id` from the raw recipe data
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const { id: rawId, foto_id, ...restOfRecipe } = rawRecipe;
 
-  // Return the final, processed recipe object
   return {
     ...restOfRecipe,
-    id: slugify(rawRecipe.titulo), // Create a new, clean, URL-friendly ID
+    id: slugify(rawRecipe.titulo),
     image: image,
   };
 });
