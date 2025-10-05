@@ -23,6 +23,9 @@ const nextConfig: NextConfig = {
       // Specific domains from recipes
       { protocol: 'https', hostname: 'i.s3.glbimg.com' },
       { protocol: 'https', hostname: 'static.cordonbleu.edu' },
+      { protocol: 'https', hostname: 'proxy.site321.com.br' },
+      { protocol: 'https', hostname: 'static.itdg.com.br' },
+      { protocol: 'https', hostname: 'guiadacozinha.com.br' },
 
       // Wildcards for Major Brazilian/International Recipe/Media Sites
       { protocol: 'https', hostname: '**.com.br' },
