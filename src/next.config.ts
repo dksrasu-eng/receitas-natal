@@ -28,6 +28,7 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'delicious.com.br' },
       { protocol: 'https', hostname: 'bolinhodecoco.pt' },
       { protocol: 'https', hostname: 'i0.wp.com' },
+      { protocol: 'https', hostname: 'minhasreceitinhas.com.br' },
       { protocol: 'https', hostname: '**.glbimg.com' },
       { protocol: 'https', hostname: '**.sadia.com.br' },
       { protocol: 'https', hostname: '**.tudoreceitas.com' },
