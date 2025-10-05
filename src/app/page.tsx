@@ -1,3 +1,4 @@
+
 import { Suspense } from 'react';
 import { getAllRecipes } from '@/lib/recipes';
 import RecipeCard from '@/components/recipes/recipe-card';
@@ -17,7 +18,7 @@ type HomeProps = {
   };
 };
 
-export default function Home({ searchParams }: HomeProps) {
+export default async function Home({ searchParams }: HomeProps) {
   const query = searchParams?.q?.toLowerCase() || '';
   const category = searchParams?.categoria || 'all';
   const difficulty = searchParams?.dificuldade || 'all';
@@ -82,7 +83,3 @@ export default function Home({ searchParams }: HomeProps) {
 
       {totalPages > 1 && (
         <Pagination currentPage={currentPage} totalPages={totalPages} />
-      )}
-    </div>
-  );
-}
