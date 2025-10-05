@@ -31,7 +31,7 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: '**.oitedi.com.br' },
       { protocol: 'https', hostname: '**.comidaereceitas.com.br' },
       { protocol: 'https', hostname: '**.seara.com.br' },
-      { protocol: 'httpshttps', hostname: '**.rampinelli.com.br' },
+      { protocol: 'https', hostname: '**.rampinelli.com.br' },
       { protocol: 'https', hostname: '**.receitasnestle.com.br' },
       { protocol: 'https', hostname: '**.wine.com.br' },
       { protocol: 'https', hostname: '**.panelinha.com.br' },
