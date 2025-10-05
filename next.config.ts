@@ -52,9 +52,41 @@ const nextConfig: NextConfig = {
         hostname: 'www.sadia.com.br',
         port: '',
         pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'cdn0.tudoreceitas.com',
+        port: '',
+        pathname: '/**',
+      },
+       {
+        protocol: 'https',
+        hostname: 'melevacontigo.com.br',
+        port: '',
+        pathname: '/**',
+      },
+       {
+        protocol: 'https',
+        hostname: 'sabores-new.s3.amazonaws.com',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'static.itdg.com.br',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'cdn0.umcomo.com.br',
+        port: '',
+        pathname: '/**',
       }
     ],
   },
 };
 
 export default nextConfig;
+
+    
