@@ -44,7 +44,7 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'www.oitedi.com.br' },
       { protocol: 'https', hostname: 'sabordasespeciarias.com.br' },
       { protocol: 'https', hostname: 'www.entrepratosecopos.com.br' },
-      { protocol: 'https://www.doceiguaria.com.br' },
+      { protocol: 'https', hostname: 'www.doceiguaria.com.br' },
 
       // Wildcards for Brazilian Media & Recipe Sites
       { protocol: 'https', hostname: '**.glbimg.com' },
