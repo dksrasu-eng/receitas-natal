@@ -61,6 +61,7 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'p2.trrsf.com' },
       { protocol: 'https', hostname: 'redacaors.com.br' },
       { protocol: 'https', hostname: '**.mendezalimentos.com.br' },
+      { protocol: 'https', hostname: 'www.nattyspantry.com' },
     ],
   },
 };
