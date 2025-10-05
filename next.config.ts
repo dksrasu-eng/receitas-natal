@@ -34,7 +34,8 @@ const nextConfig: NextConfig = {
 
       // Other specific domains
       { protocol: 'https', hostname: 'docepedia.com' },
-      { protocol: 'https', hostname: 'cozinhafitsemsegredos.com' }
+      { protocol: 'https', hostname: 'cozinhafitsemsegredos.com' },
+      { protocol: 'https', hostname: 'minhasreceitinhas.com.br' }
     ],
   },
 };
