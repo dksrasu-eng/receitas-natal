@@ -42,7 +42,7 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'www.sadia.com.br' },
       { protocol: 'https', hostname: 'benditosalgado.com.br' },
       { protocol: 'https', hostname: 'www.oitedi.com.br' },
-      { protocol: 'https', hostname: 'sabordasespeciarias.com.br' },
+      { protocol: 'https' , hostname: 'sabordasespeciarias.com.br' },
       { protocol: 'https', hostname: 'www.entrepratosecopos.com.br' },
       { protocol: 'https', hostname: 'www.doceiguaria.com.br' },
       { protocol: 'https', hostname: 'melevacontigo.com.br' },
@@ -57,7 +57,8 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'docepedia.com' },
       { protocol: 'https', hostname: 'cozinhafitsemsegredos.com' },
       { protocol: 'https', hostname: 'minhasreceitinhas.com.br' },
-      { protocol: 'https', hostname: 'conteudo.imguol.com.br' }
+      { protocol: 'https', hostname: 'conteudo.imguol.com.br' },
+      { protocol: 'https', hostname: 'www.academiaassai.com.br' }
     ],
   },
 };
