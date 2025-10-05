@@ -96,3 +96,4 @@ O site contém 100 receitas. Aqui está uma amostra para referência:
 ... (15 outras)
 
 O conjunto completo de dados das 100 receitas está disponível no arquivo `src/data/recipes.json`.
+# del-cias-natalinas-completed
