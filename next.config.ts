@@ -40,6 +40,12 @@ const nextConfig: NextConfig = {
         hostname: 'i.s3.glbimg.com',
         port: '',
         pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'minhasreceitinhas.com.br',
+        port: '',
+        pathname: '/**',
       }
     ],
   },
