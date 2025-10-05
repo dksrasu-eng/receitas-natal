@@ -23,7 +23,7 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'i0.wp.com' },
       { protocol: 'https', hostname: 'encrypted-tbn0.gstatic.com' },
       { protocol: 'https', hostname: 'sabores-new.s3.amazonaws.com' },
-      { protocol: 'https://', hostname: 'lirp.cdn-website.com' },
+      { protocol: 'https', hostname: 'lirp.cdn-website.com' },
       { protocol: 'https', hostname: 'i.panelinha.com.br' },
       { protocol: 'https', hostname: 'www.wine.com.br' },
       { protocol: 'https', hostname: 'www.comidaereceitas.com.br' },
