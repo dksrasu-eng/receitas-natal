@@ -21,9 +21,11 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'encrypted-tbn0.gstatic.com' },
       { protocol: 'https', hostname: 'sabores-new.s3.amazonaws.com' },
       { protocol: 'https', hostname: 'assets.unileversolutions.com' },
+      { protocol: 'https', hostname: 'cdn.casaeculinaria.com' },
       
       // Specific domains from recipes
       { protocol: 'https', hostname: 'i.s3.glbimg.com' },
+      { protocol: 'https', hostname: 's2.glbimg.com' },
       { protocol: 'https', hostname: 'static.cordonbleu.edu' },
       { protocol: 'https', hostname: 'proxy.site321.com.br' },
       { protocol: 'https', hostname: 'static.itdg.com.br' },
@@ -40,6 +42,8 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'smartfarmer.pt' },
       { protocol: 'https', hostname: 'baggiocafe.com.br' },
       { protocol: 'https', hostname: 'www.tribunapr.com.br' },
+      { protocol: 'https', hostname: 're-comendo.com' },
+      { protocol: 'https', hostname: 'amodadoflavio.pt' },
 
       // Wildcards for Major Brazilian/International Recipe/Media Sites
       { protocol: 'https', hostname: '**.com.br' },
