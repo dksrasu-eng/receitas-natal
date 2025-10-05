@@ -31,6 +31,7 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'minhasreceitinhas.com.br' },
       { protocol: 'https', hostname: 'www.dicasdetreino.com.br' },
       { protocol: 'https', hostname: 'benditosalgado.com.br' },
+      { protocol: 'https', hostname: 'cozinhafitsemsegredos.com' },
       { protocol: 'https', hostname: '**.glbimg.com' },
       { protocol: 'https', hostname: '**.sadia.com.br' },
       { protocol: 'https', hostname: '**.tudoreceitas.com' },
