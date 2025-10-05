@@ -46,6 +46,12 @@ const nextConfig: NextConfig = {
         hostname: 'minhasreceitinhas.com.br',
         port: '',
         pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'www.sadia.com.br',
+        port: '',
+        pathname: '/**',
       }
     ],
   },
