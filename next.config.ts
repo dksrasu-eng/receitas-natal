@@ -82,6 +82,18 @@ const nextConfig: NextConfig = {
         hostname: 'cdn0.umcomo.com.br',
         port: '',
         pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'encrypted-tbn0.gstatic.com',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'chaparadois.com.br',
+        port: '',
+        pathname: '/**',
       }
     ],
   },
