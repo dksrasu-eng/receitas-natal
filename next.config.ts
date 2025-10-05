@@ -45,12 +45,12 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'sabordasespeciarias.com.br' },
       { protocol: 'https', hostname: 'www.entrepratosecopos.com.br' },
       { protocol: 'https', hostname: 'www.doceiguaria.com.br' },
+      { protocol: 'https', hostname: 'melevacontigo.com.br' },
 
       // Wildcards for Brazilian Media & Recipe Sites
       { protocol: 'https', hostname: '**.glbimg.com' },
       { protocol: 'https', hostname: '**.itdg.com.br' },
       { protocol: 'https', hostname: '**.umcomo.com.br' },
-      { protocol: 'https', hostname: 'cdn0.tudoreceitas.com' },
       { protocol: 'https', hostname: '**.tudoreceitas.com' },
       
       // Other specific domains
