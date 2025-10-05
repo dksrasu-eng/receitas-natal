@@ -31,6 +31,7 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: '**.com.br' },
       { protocol: 'https', hostname: '**.edu' },
       { protocol: 'https', hostname: '**.pt' },
+      { protocol: 'https', hostname: 'cdn0.tudoreceitas.com' },
 
       // Other specific domains
       { protocol: 'https', hostname: 'docepedia.com' },
