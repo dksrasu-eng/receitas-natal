@@ -83,3 +83,7 @@ export default async function Home({ searchParams }: HomeProps) {
 
       {totalPages > 1 && (
         <Pagination currentPage={currentPage} totalPages={totalPages} />
+      )}
+    </div>
+  );
+}
