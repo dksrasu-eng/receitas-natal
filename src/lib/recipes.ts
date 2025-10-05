@@ -4,12 +4,13 @@ import type { Recipe, RawRecipe } from './types';
 import { slugify } from './utils';
 import { placeholderImages } from './placeholder-images';
 
-// Create a Map for efficient image lookup by foto_id
+// Create a Map for efficient image lookup by a consistent ID (slugified title)
 const imagesMap = new Map(placeholderImages.map(img => [img.id, img]));
 
 const allRecipes: Recipe[] = (recipesData as RawRecipe[]).map(rawRecipe => {
   const slug = slugify(rawRecipe.titulo);
-  // Find the corresponding image using the slugified title, which matches the image ID
+  
+  // Find the corresponding image using the slug, which matches the image ID
   const image = imagesMap.get(slug) || {
     id: 'placeholder',
     imageUrl: `https://placehold.co/600x400/F5E9EB/B83B5E?text=${encodeURIComponent(rawRecipe.titulo)}`,
