@@ -29,18 +29,7 @@ export interface RawRecipe {
 }
 
 // The final, processed recipe object used throughout the app.
-export interface Recipe {
+export interface Recipe extends Omit<RawRecipe, 'foto_id'> {
   id: string; // The final, URL-friendly ID
-  titulo: string;
-  categoria: 'salgada' | 'doce' | 'bebida';
-  subcategoria: string;
-  tempo_preparo: string;
-  rendimento: string;
-  dificuldade: 'fácil' | 'médio' | 'difícil';
-  indicacao_alcool: 'com álcool' | 'sem álcool';
-  alergenos: string[];
-  ingredientes: IngredientItem[];
-  modo_preparo: PreparationStep[];
-  sugestoes_apresentacao: string;
   image: ImagePlaceholder;
 }
