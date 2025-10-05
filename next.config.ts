@@ -11,12 +11,30 @@ const nextConfig: NextConfig = {
   },
   images: {
     remotePatterns: [
+      // Domínios Genéricos
       { protocol: 'https', hostname: 'placehold.co' },
       { protocol: 'https', hostname: 'picsum.photos' },
       { protocol: 'https', hostname: 'img.freepik.com' },
       { protocol: 'https', hostname: 'images.unsplash.com' },
       { protocol: 'https', hostname: 'images.ctfassets.net' },
       { protocol: 'https', hostname: 'p2.trrsf.com' },
+      { protocol: 'https', hostname: 'i0.wp.com' },
+      { protocol: 'https', hostname: 'encrypted-tbn0.gstatic.com' },
+      
+      // Domínios de Receitas com Wildcard
+      { protocol: 'https', hostname: '**.glbimg.com' },
+      { protocol: 'https', hostname: '**.sadia.com.br' },
+      { protocol: 'https', hostname: '**.tudoreceitas.com' },
+      { protocol: 'https', hostname: '**.itdg.com.br' },
+      { protocol: 'https', hostname: '**.umcomo.com.br' },
+      { protocol: 'https', hostname: '**.vilma.com.br' },
+      { protocol: 'https', hostname: '**.oitedi.com.br' },
+      { protocol: 'https', hostname: '**.comidaereceitas.com.br' },
+      { protocol: 'https', hostname: '**.seara.com.br' },
+      { protocol: 'https', hostname: '**.rampinelli.com.br' },
+      { protocol: 'https', hostname: '**.receitasnestle.com.br' },
+
+      // Outros Domínios Específicos
       { protocol: 'https', hostname: 'amopaocaseiro.com.br' },
       { protocol: 'https', hostname: 'pt.petitchef.com' },
       { protocol: 'https', hostname: 'docepedia.com' },
@@ -27,7 +45,6 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'melevacontigo.com.br' },
       { protocol: 'https', hostname: 'delicious.com.br' },
       { protocol: 'https', hostname: 'bolinhodecoco.pt' },
-      { protocol: 'https', hostname: 'i0.wp.com' },
       { protocol: 'https', hostname: 'minhasreceitinhas.com.br' },
       { protocol: 'https', hostname: 'www.dicasdetreino.com.br' },
       { protocol: 'https', hostname: 'benditosalgado.com.br' },
@@ -49,20 +66,7 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'sabores-new.s3.amazonaws.com' },
       { protocol: 'https', hostname: 'naturaves.com.br' },
       { protocol: 'https', hostname: 'sabordasespeciarias.com.br' },
-      { protocol: 'https', hostname: 'encrypted-tbn0.gstatic.com' },
       { protocol: 'https', hostname: 'www.nattyspantry.com'},
-      // Wildcard domains
-      { protocol: 'https', hostname: '**.glbimg.com' },
-      { protocol: 'https', hostname: '**.sadia.com.br' },
-      { protocol: 'https', hostname: '**.tudoreceitas.com' },
-      { protocol: 'https', hostname: '**.itdg.com.br' },
-      { protocol: 'https', hostname: '**.umcomo.com.br' },
-      { protocol: 'https', hostname: '**.vilma.com.br' },
-      { protocol: 'https', hostname: '**.oitedi.com.br' },
-      { protocol: 'https', hostname: '**.comidaereceitas.com.br' },
-      { protocol: 'https', hostname: '**.seara.com.br' },
-      { protocol: 'https', hostname: '**.rampinelli.com.br' },
-      { protocol: 'https', hostname: '**.receitasnestle.com.br' },
     ],
   },
 };
