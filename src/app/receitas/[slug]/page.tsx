@@ -94,6 +94,7 @@ export default function RecipePage({ params }: RecipePageProps) {
               fill
               className="object-cover"
               data-ai-hint={recipe.image.imageHint}
+              priority
             />
           </div>
 

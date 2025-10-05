@@ -17,6 +17,7 @@ const allRecipes: Recipe[] = (recipesData as RawRecipe[]).map(rawRecipe => {
   };
 
   // Destructure to remove the original `id` and `foto_id` from the raw recipe data
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const { id: rawId, foto_id, ...restOfRecipe } = rawRecipe;
 
   // Return the final, processed recipe object
