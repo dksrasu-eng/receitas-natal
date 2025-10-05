@@ -5,8 +5,6 @@ import RecipeCard from '@/components/recipes/recipe-card';
 import Filters from '@/components/recipes/filters';
 import Pagination from '@/components/recipes/pagination';
 
-export const dynamic = 'force-dynamic';
-
 type HomeProps = {
   searchParams?: {
     q?: string;
