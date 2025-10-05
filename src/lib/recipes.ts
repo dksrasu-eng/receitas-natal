@@ -4,13 +4,13 @@ import type { Recipe, RawRecipe } from './types';
 import { slugify } from './utils';
 import { placeholderImages } from './placeholder-images';
 
-// Create a Map for efficient image lookup by a consistent ID (slugified title)
+// Create a Map for efficient image lookup by a consistent ID (the slugified title)
 const imagesMap = new Map(placeholderImages.map(img => [img.id, img]));
 
 const allRecipes: Recipe[] = (recipesData as RawRecipe[]).map(rawRecipe => {
   const slug = slugify(rawRecipe.titulo);
-  
-  // Find the corresponding image using the slug, which matches the image ID
+
+  // Find the corresponding image using the slug, which matches the image ID.
   const image = imagesMap.get(slug) || {
     id: 'placeholder',
     imageUrl: `https://placehold.co/600x400/F5E9EB/B83B5E?text=${encodeURIComponent(rawRecipe.titulo)}`,
@@ -18,7 +18,7 @@ const allRecipes: Recipe[] = (recipesData as RawRecipe[]).map(rawRecipe => {
     imageHint: 'recipe placeholder',
   };
 
-  // The foto_id is no longer needed in the final object, so we destructure it out.
+  // The foto_id is no longer needed in the final object.
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const { foto_id, ...restOfRecipe } = rawRecipe;
 
