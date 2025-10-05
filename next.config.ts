@@ -26,6 +26,8 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'proxy.site321.com.br' },
       { protocol: 'https', hostname: 'static.itdg.com.br' },
       { protocol: 'https', hostname: 'guiadacozinha.com.br' },
+      { protocol: 'https', hostname: 'www.comidaereceitas.com.br' },
+      { protocol: 'https', hostname: 'content.paodeacucar.com' },
 
       // Wildcards for Major Brazilian/International Recipe/Media Sites
       { protocol: 'https', hostname: '**.com.br' },
@@ -37,3 +39,5 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
+
+    
