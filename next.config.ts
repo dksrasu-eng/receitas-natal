@@ -19,6 +19,8 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'images.unsplash.com' },
       { protocol: 'https', hostname: 'images.ctfassets.net' },
       { protocol: 'https', hostname: 'encrypted-tbn0.gstatic.com' },
+      { protocol: 'https', hostname: 'sabores-new.s3.amazonaws.com' },
+      { protocol: 'https', hostname: 'assets.unileversolutions.com' },
       
       // Specific domains from recipes
       { protocol: 'https', hostname: 'i.s3.glbimg.com' },
