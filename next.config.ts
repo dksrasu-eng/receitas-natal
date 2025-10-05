@@ -60,7 +60,8 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'images.ctfassets.net' },
       { protocol: 'https', hostname: 'lechef.com.br' },
       { protocol: 'https', hostname: 'www.estadao.com.br' },
-      { protocol: 'https', hostname: 'recipesblob.oetker.com.br' }
+      { protocol: 'https', hostname: 'recipesblob.oetker.com.br' },
+      { protocol: 'https', hostname: 'i0.wp.com' },
     ],
   },
 };
