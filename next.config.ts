@@ -94,7 +94,31 @@ const nextConfig: NextConfig = {
         hostname: 'chaparadois.com.br',
         port: '',
         pathname: '/**',
-      }
+      },
+      {
+        protocol: 'https',
+        hostname: 'www.vilma.com.br',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'naturaves.com.br',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'sabordasespeciarias.com.br',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'www.oitedi.com.br',
+        port: '',
+        pathname: '/**',
+      },
     ],
   },
 };
